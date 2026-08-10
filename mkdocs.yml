@@ -4,3 +4,20 @@ site_description: Guia de Monitoramento Estratégico da CGE-MG
 theme:
   name: material
   language: pt-BR
+
+  palette:
+    primary: green
+    accent: light green
+
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - search.highlight
+    - content.code.copy
+
+extra_css:
+  - stylesheets/extra.css
+
+nav:
+  - Início: index.md
