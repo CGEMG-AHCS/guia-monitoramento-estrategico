@@ -1,0 +1,6 @@
+site_name: Guia de Monitoramento Estratégico
+site_description: Guia de Monitoramento Estratégico da CGE-MG
+
+theme:
+  name: material
+  language: pt-BR
