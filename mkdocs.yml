@@ -21,3 +21,26 @@ extra_css:
 
 nav:
   - Início: index.md
+
+  - 1. Monitoramento:
+      - Visão geral: monitoramento/index.md
+      - PACI: monitoramento/paci.md
+      - PO: monitoramento/po.md
+
+  - 2. Acompanhamento:
+      - Visão geral: acompanhamento/index.md
+      - Registro e atualização: acompanhamento/registro.md
+      - Resultados e providências: acompanhamento/resultados.md
+
+  - 3. Sistema de Auditoria – e-CGU:
+      - Visão geral: ecgu/index.md
+      - Acesso e primeiros passos: ecgu/acesso.md
+      - Funcionalidades: ecgu/funcionalidades.md
+      - Manual prático: ecgu/manual.md
+
+  - 4. Referências e Apoio:
+      - Normativos: referencias/normativos.md
+      - Documentos de referência: referencias/documentos.md
+      - Canais de apoio: referencias/apoio.md
+
+      
