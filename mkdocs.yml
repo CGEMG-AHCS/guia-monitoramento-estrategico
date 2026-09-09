@@ -23,8 +23,10 @@ nav:
   - Início: index.md
 
   - 1. Monitoramento:
-      - PACI: monitoramento/paci.md
-      - PO: monitoramento/po.md
+    - PACI:
+        - Plano Anual de Controle Interno: monitoramento/paci.md
+        - Acompanhamento de Prazos: monitoramento/acompanhamento-prazos.md
+    - PO: monitoramento/po.md
 
   - 2. Sistema de Auditoria – e-CGU:
       - Manual prático: ecgu/manual.md
