@@ -6,8 +6,8 @@ theme:
   language: pt-BR
 
   palette:
-    primary: green
-    accent: light green
+  primary: blue
+  accent: light blue
 
   features:
     - navigation.tabs
