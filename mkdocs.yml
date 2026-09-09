@@ -6,8 +6,8 @@ theme:
   language: pt-BR
 
   palette:
-  primary: blue
-  accent: light blue
+    primary: blue
+    accent: light blue
 
   features:
     - navigation.tabs
@@ -35,4 +35,3 @@ nav:
   - 3. Referências e Apoio:
       - Normativos: referencias/normativos.md
       - Canais de apoio: referencias/apoio.md
-  
