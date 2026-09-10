@@ -30,7 +30,7 @@ nav:
       - Metodologia: monitoramento/metodologia.md
       - PACI: monitoramento/paci.md
       - Matriz RACI: monitoramento/raci.md
-      - e-CGU: monitoramento/e-cgu.md
+      - Sistema e-CGU: monitoramento/sistema e-cgu.md
 
   - Bases de Dados:
       - Visão Geral: bases-dados/index.md
