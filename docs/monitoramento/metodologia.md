@@ -50,16 +50,16 @@ O monitoramento estratégico deve observar os seguintes princípios:
 
 ## Fontes de Informação
 
-O monitoramento estratégico utiliza diferentes bases de dados institucionais, analisadas de forma integrada para produção de informações gerenciais.
+O monitoramento estratégico utiliza diferentes bases de dados como fontes de informação para a produção de análises, diagnósticos e informações gerenciais relacionadas à atuação das Controladorias Setoriais e Seccionais.
 
-As principais fontes de informação estão detalhadas na seção **Bases de Dados** deste guia.
+A escolha das bases de dados dependerá dos objetivos da análise e das questões que se pretende responder. Conforme a necessidade identificada, as informações poderão ser obtidas a partir de uma única base ou da integração de múltiplas fontes, possibilitando uma compreensão mais abrangente da realidade analisada.
 
-Entre elas destacam-se:
+As principais fontes de informação utilizadas no monitoramento estratégico estão detalhadas na seção **Bases de Dados** deste guia. Entre elas, destacam-se:
 
 - Plano Anual de Controle Interno (PACI);
 - Matriz RACI;
-- Sistema de Auditoria e-CGU;
-- Outras bases e levantamentos institucionais utilizados pela AHCS.
+- Estrutura de Recursos Humanos;
+- Sistema de Auditoria e-CGU.
 
 ## Etapas do Monitoramento
 
