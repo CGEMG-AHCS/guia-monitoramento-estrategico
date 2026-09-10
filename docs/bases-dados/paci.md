@@ -1,3 +1,17 @@
-# PACI
+# Plano de Atividades de Controle Interno (Paci)
 
-Em construção.
+## Finalidade
+
+## Onde Localizar
+
+## Responsável
+
+## Periodicidade de Atualização
+
+## Informações Disponíveis
+
+## Aplicação no Monitoramento
+
+## Limitações
+
+## Exemplos de Uso
