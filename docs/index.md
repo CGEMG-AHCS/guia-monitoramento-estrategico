@@ -1,8 +1,8 @@
 # Guia de Monitoramento Estratégico - AHCS | CGE-MG
 
-Bem-vindo ao **Guia de Monitoramento Estratégico da Assessoria de Harmonização das Controladorias Setoriais e Seccionais (AHCS)**.
+Bem-vindo ao **Guia de Monitoramento Estratégico da Assessoria de Harmonização das Controladorias Setoriais e Seccionais**.
 
-Elaborado pela **AHCS**, este guia reúne orientações, procedimentos, referências e materiais de apoio destinados à realização do monitoramento estratégico das Controladorias Setoriais e Seccionais (Cset/Csec).
+Elaborado pela **Assessoria de Harmonização das Controladorias Setoriais e Seccionais (AHCS)**, este guia reúne orientações, procedimentos, referências e materiais de apoio destinados à realização do monitoramento estratégico das Controladorias Setoriais e Seccionais (Cset/Csec).
 
 O guia foi concebido como um instrumento de apoio às atividades desenvolvidas pela AHCS, contribuindo para a padronização de procedimentos, a consolidação de informações e a produção de análises que subsidiem a tomada de decisão e o aperfeiçoamento da atuação das Controladorias Setoriais e Seccionais.
 
