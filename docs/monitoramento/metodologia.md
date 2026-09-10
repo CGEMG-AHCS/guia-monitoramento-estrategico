@@ -130,6 +130,12 @@ Utilização das bases de dados
 
 Etapas gerais do monitoramento
 
+## Evolução da Metodologia
+
+A metodologia apresentada neste guia estabelece diretrizes gerais para a realização do monitoramento estratégico.
+
+À medida que novas análises, indicadores e necessidades informacionais forem identificados, os procedimentos e técnicas de monitoramento poderão ser aperfeiçoados, incorporando novas abordagens e fontes de informação.
+
 - Coleta
 - Tratamento
 - Análise
