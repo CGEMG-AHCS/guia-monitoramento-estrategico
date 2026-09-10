@@ -2,26 +2,28 @@
 
 Bem-vindo ao **Guia de Monitoramento Estratégico da Assessoria de Harmonização das Controladorias Setoriais e Seccionais**.
 
-Elaborado pela **Assessoria de Harmonização das Controladorias Setoriais e Seccionais (AHCS)**, este guia reúne orientações, procedimentos, referências e materiais de apoio destinados à realização do monitoramento estratégico das Controladorias Setoriais e Seccionais (Cset/Csec).
+Este guia reúne orientações, procedimentos, referências e materiais de apoio destinados às atividades de monitoramento estratégico das Controladorias Setoriais e Seccionais (Cset/Csec), servindo como instrumento de apoio à produção de informações gerenciais e ao fortalecimento do Sistema de Controle Interno.
 
-O guia foi concebido como um instrumento de apoio às atividades desenvolvidas pela AHCS, contribuindo para a padronização de procedimentos, a consolidação de informações e a produção de análises que subsidiem a tomada de decisão e o aperfeiçoamento da atuação das Controladorias Setoriais e Seccionais.
+Elaborado pela Assessoria de Harmonização das Controladorias Setoriais e Seccionais (AHCS), o guia busca promover a padronização de procedimentos, a consolidação de informações e a utilização de metodologias comuns para coleta, tratamento e análise de dados, contribuindo para o aperfeiçoamento das atividades de monitoramento e para a tomada de decisão baseada em evidências.
 
-Além de apoiar as atividades de monitoramento estratégico, busca proporcionar às demais unidades da Controladoria-Geral do Estado (CGE) uma visão estruturada sobre a organização das unidades descentralizadas, a estrutura de pessoal, a capacidade técnica e operacional das equipes e as principais atividades desenvolvidas, fortalecendo a integração institucional e ampliando a compreensão acerca da atuação delas.
+Além de apoiar as atividades desenvolvidas pela AHCS, o guia visa proporcionar às demais unidades da Controladoria-Geral do Estado (CGE) uma visão estruturada sobre a organização das unidades descentralizadas, a estrutura de pessoal, a capacidade técnica e operacional das equipes e as principais atividades desenvolvidas, fortalecendo a integração institucional e ampliando a compreensão acerca de sua atuação.
 
-O monitoramento estratégico busca produzir informações sobre a estrutura organizacional, a capacidade operacional, a força de trabalho e as atividades desenvolvidas pelas Controladorias Setoriais e Seccionais, permitindo a identificação de tendências, oportunidades de melhoria e necessidades de apoio institucional.
+O monitoramento estratégico busca produzir informações sobre a estrutura organizacional, a força de trabalho, a capacidade operacional e as atividades desenvolvidas pelas Controladorias Setoriais e Seccionais, permitindo a identificação de tendências, oportunidades de melhoria e necessidades de apoio institucional.
 
-As análises produzidas a partir do monitoramento subsidiam diagnósticos, relatórios gerenciais, painéis de acompanhamento e outras informações destinadas ao apoio à tomada de decisão no âmbito da CGE-MG.
+As análises produzidas a partir desse processo podem subsidiar diagnósticos, relatórios gerenciais, painéis de acompanhamento e outros produtos destinados ao apoio à tomada de decisão no âmbito da CGE-MG.
 
 ## Por que este guia foi criado?
 
-O monitoramento estratégico possibilita compreender como as Controladorias Setoriais e Seccionais estão estruturadas e como desenvolvem suas atividades, permitindo gerar informações relevantes para a gestão e o fortalecimento institucional.
+As atividades de monitoramento estratégico demandam a utilização de diferentes fontes de informação, metodologias de análise e instrumentos de apoio à gestão.
 
-Nesse contexto, este guia foi criado para:
+Nesse contexto, a existência de procedimentos padronizados contribui para aumentar a consistência das análises produzidas, facilitar o acesso às informações necessárias e promover maior uniformidade na interpretação dos dados.
 
-- Padronizar a metodologia de monitoramento estratégico adotada pela AHCS;
-- Harmonizar procedimentos de coleta, tratamento e análise de dados;
-- Orientar sobre as bases de dados disponíveis e a forma de acessá-las;
-- Facilitar a localização e a utilização das informações necessárias ao monitoramento;
+Este guia foi desenvolvido para:
+
+- Consolidar orientações relacionadas ao monitoramento estratégico;
+- Reunir, em um único ambiente, as principais fontes de informação utilizadas pela AHCS;
+- Facilitar o acesso às bases de dados e aos materiais de apoio;
+- Padronizar procedimentos de coleta, tratamento e análise das informações;
 - Apoiar a elaboração de diagnósticos, análises e relatórios gerenciais;
 - Promover maior consistência, rastreabilidade e confiabilidade das informações produzidas.
 
@@ -29,7 +31,7 @@ Nesse contexto, este guia foi criado para:
 
 ### Monitoramento Estratégico
 
-Orientações sobre a metodologia de monitoramento estratégico adotada pela AHCS, incluindo critérios de análise, utilização das informações, produção de diagnósticos e elaboração de informações gerenciais.
+Orientações sobre a metodologia de monitoramento estratégico adotada pela AHCS, incluindo critérios de análise, utilização das informações, interpretação dos dados e produção de informações gerenciais.
 
 ### Bases de Dados
 
@@ -45,7 +47,7 @@ Caso esteja acessando o guia pela primeira vez, recomenda-se a seguinte sequênc
 
 1. **Monitoramento Estratégico → Metodologia**
 2. **Bases de Dados → Visão Geral**
-3. **Bases de Dados → Estrutura da unidade**
+3. **Bases de Dados → Estrutura da Unidade**
 4. **Bases de Dados → PACI**
 5. **Bases de Dados → RACI**
 6. **Referências e Apoio → e-CGU**
