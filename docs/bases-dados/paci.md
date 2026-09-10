@@ -1,14 +1,18 @@
 # Plano de Atividades de Controle Interno (Paci)
 
-## Finalidade
+## O que é o Paci
 
-## Onde Localizar
+## Objetivo
 
 ## Responsável
 
 ## Periodicidade de Atualização
 
 ## Informações Disponíveis
+
+## Estrutura da base
+
+## Onde Localizar
 
 ## Aplicação no Monitoramento
 
