@@ -22,3 +22,16 @@ Nesta seção serão disponibilizadas orientações práticas para o acompanhame
 > **Conteúdo em construção**
 >
 > As orientações específicas sobre o acompanhamento e o registro das ações do PACI serão disponibilizadas nesta seção pela AHCS.
+Objetivo da análise
+
+Informações utilizadas
+
+Como coletar os dados
+
+Como tratar os dados
+
+Indicadores gerados
+
+Análises recomendadas
+
+Boas práticas
