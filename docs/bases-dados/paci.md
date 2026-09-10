@@ -13,7 +13,7 @@
 ## Estrutura da base
 
 ## Onde Localizar
-[Acessar Google](https://www.google.com)
+📊 [Acessar Painel PACI 2026](https://www.google.com)
 
 ## Aplicação no Monitoramento
 
