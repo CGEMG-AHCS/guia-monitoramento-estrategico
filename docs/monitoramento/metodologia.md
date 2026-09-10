@@ -118,3 +118,19 @@ A metodologia de monitoramento estratégico deve ser revisada periodicamente, de
 
 Esse processo de aperfeiçoamento contínuo contribui para ampliar a qualidade das informações produzidas e fortalecer a capacidade institucional de monitoramento.
 ``
+Objetivo
+
+Escopo
+
+Perguntas que o monitoramento busca responder
+
+Fontes de informação
+
+Utilização das bases de dados
+
+Etapas gerais do monitoramento
+
+- Coleta
+- Tratamento
+- Análise
+- Comunicação
