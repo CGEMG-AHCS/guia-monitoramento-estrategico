@@ -35,24 +35,22 @@ Orientações sobre a metodologia de monitoramento estratégico adotada pela AHC
 
 Descrição das principais bases de dados utilizadas no monitoramento estratégico, incluindo suas finalidades, formas de acesso, informações disponíveis, responsáveis pela atualização e possibilidades de utilização nas análises.
 
-### Sistema de Auditoria e-CGU
-
-Manual prático para utilização do Sistema de Auditoria e-CGU, incluindo orientações operacionais, funcionalidades relevantes e sua aplicação nas atividades de monitoramento.
-
 ### Referências e Apoio
 
-Normativos, documentos orientadores, modelos, materiais de apoio e canais de suporte relacionados às atividades de monitoramento estratégico.
+Repositório de materiais complementares destinados a apoiar as atividades de monitoramento estratégico, incluindo orientações para utilização do sistema e-CGU, normativos, documentos orientadores, modelos, materiais de apoio e canais de suporte.
 
-## Como iniciar?
+## Sugestão de Navegação
 
 Caso esteja acessando o guia pela primeira vez, recomenda-se a seguinte sequência de leitura:
 
 1. **Monitoramento Estratégico → Metodologia**
 2. **Bases de Dados → Visão Geral**
-3. **Bases de Dados → PACI, Matriz RACI, Estrutura de Recursos Humanos e Sistema e-CGU**
-4. **Sistema de Auditoria e-CGU → Manual Prático**
+3. **Bases de Dados → Estrutura de Recursos Humanos**
+4. **Bases de Dados → Matriz RACI**
+5. **Bases de Dados → PACI**
+6. **Referências e Apoio → e-CGU**
 
-Essa sequência proporciona uma compreensão gradual da metodologia de monitoramento, das fontes de informação disponíveis e das ferramentas utilizadas pela AHCS.
+Essa sequência proporciona uma compreensão gradual da metodologia de monitoramento, das fontes de informação utilizadas nas análises e das ferramentas de apoio disponibilizadas pela AHCS.
 
 ---
 
