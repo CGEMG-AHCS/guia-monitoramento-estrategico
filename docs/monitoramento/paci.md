@@ -35,3 +35,7 @@ Indicadores gerados
 Análises recomendadas
 
 Boas práticas
+
+O que está planejado?
+Quais atividades serão executadas?
+Há equilíbrio entre as áreas?
