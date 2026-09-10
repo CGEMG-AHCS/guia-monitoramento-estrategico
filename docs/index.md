@@ -45,7 +45,7 @@ Caso esteja acessando o guia pela primeira vez, recomenda-se a seguinte sequênc
 
 1. **Monitoramento Estratégico → Metodologia**
 2. **Bases de Dados → Visão Geral**
-3. **Bases de Dados → Estrutura de Recursos Humanos**
+3. **Bases de Dados → Estrutura da unidade**
 4. **Bases de Dados → PACI**
 5. **Bases de Dados → RACI**
 6. **Referências e Apoio → e-CGU**
