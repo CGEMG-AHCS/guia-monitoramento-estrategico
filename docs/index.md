@@ -6,7 +6,7 @@ Elaborado pela **AHCS**, este guia reúne orientações, procedimentos, referên
 
 O guia foi concebido como um instrumento de apoio às atividades desenvolvidas pela AHCS, contribuindo para a padronização de procedimentos, a consolidação de informações e a produção de análises que subsidiem a tomada de decisão e o aperfeiçoamento da atuação das Controladorias.
 
-Adicionalmente, busca proporcionar às demais unidades do Órgão Central uma visão estruturada sobre a organização, a capacidade operacional e as principais atividades desenvolvidas pelas Controladorias Setoriais e Seccionais, fortalecendo a integração institucional e a compreensão do funcionamento das unidades descentralizadas.
+Adicionalmente, busca proporcionar às demais unidades da Controladoria-Geral do Estado (CGE) uma visão estruturada sobre a organização, a capacidade operacional e as principais atividades desenvolvidas pelas Controladorias Setoriais e Seccionais, fortalecendo a integração institucional e a compreensão do funcionamento das unidades descentralizadas.
 
 O monitoramento estratégico busca produzir informações sobre a estrutura organizacional, a capacidade operacional, a força de trabalho e as atividades desenvolvidas pelas Controladorias Setoriais e Seccionais, permitindo a identificação de tendências, oportunidades de melhoria e necessidades de apoio institucional.
 
