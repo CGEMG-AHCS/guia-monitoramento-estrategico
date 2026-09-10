@@ -15,7 +15,7 @@ O monitoramento estratégico possibilita compreender como as Controladorias Seto
 Nesse contexto, este guia foi criado para:
 
 - Padronizar a metodologia de monitoramento estratégico adotada pela AHCS;
-- Harmonizar procedimentos de coleta, tratamento e análise de dados;z
+- Harmonizar procedimentos de coleta, tratamento e análise de dados;
 - Orientar sobre as bases de dados disponíveis e a forma de acessá-las;
 - Facilitar a localização e a utilização das informações necessárias ao monitoramento;
 - Apoiar a elaboração de diagnósticos, análises e relatórios gerenciais;
