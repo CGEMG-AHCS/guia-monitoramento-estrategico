@@ -28,6 +28,7 @@ nav:
 
   - Monitoramento Estratégico:
       - Metodologia: monitoramento/metodologia.md
+      - Estrutura: monitoramento/estrutura-rh.md
       - PACI: monitoramento/paci.md
       - RACI: monitoramento/raci.md
       - Sistema e-CGU: monitoramento/sistema e-cgu.md
