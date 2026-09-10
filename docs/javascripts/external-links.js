@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function () {
-a").forEach(function (link) {
+    document.querySelectorAll("a").forEach(function (link) {
 
         const href = link.getAttribute("href");
 
