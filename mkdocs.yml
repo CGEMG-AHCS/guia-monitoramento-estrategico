@@ -13,6 +13,7 @@ theme:
     - navigation.tabs
     - navigation.sections
     - navigation.expand
+    - navigation.top
     - search.highlight
     - content.code.copy
 
@@ -22,16 +23,20 @@ extra_css:
 nav:
   - Início: index.md
 
-  - 1. Monitoramento:
-      - PACI:
-          - Plano Anual de Controle Interno: monitoramento/paci.md
-          - Acompanhamento de Prazos: monitoramento/acompanhamento-prazos.md
-      - PO: monitoramento/po.md
-      - RACI: monitoramento/raci.md
+  - Monitoramento Estratégico:
+      - Metodologia: monitoramento/metodologia.md
+      - PACI: monitoramento/paci.md
+      - Matriz RACI: monitoramento/raci.md
 
-  - 2. Sistema de Auditoria – e-CGU:
-      - Manual prático: ecgu/manual.md
+  - Bases de Dados:
+      - Visão Geral: bases-dados/index.md
+      - PACI: bases-dados/paci.md
+      - Matriz RACI: bases-dados/raci.md
+      - Sistema e-CGU: bases-dados/e-cgu.md
 
-  - 3. Referências e Apoio:
+  - Sistema de Auditoria e-CGU:
+      - Manual Prático: ecgu/manual.md
+
+  - Referências e Apoio:
       - Normativos: referencias/normativos.md
-      - Canais de apoio: referencias/apoio.md
+      - Canais de Apoio: referencias/apoio.md
