@@ -1,16 +1,15 @@
 document.addEventListener("DOMContentLoaded", function () {
+a").forEach(function (link) {
 
-    const links = document.querySelectorAll('a[href^="http"]');
+        const href = link.getAttribute("href");
 
-    links.forEach(function(link) {
-
-        link.setAttribute("target", "_blank");
-
-        link.setAttribute(
-            "rel",
-            "noopener noreferrer"
-        );
+        if (
+            href &&
+            (href.startsWith("http://") || href.startsWith("https://"))
+        ) {
+            link.setAttribute("target", "_blank");
+            link.setAttribute("rel", "noopener noreferrer");
+        }
 
     });
-
 });
