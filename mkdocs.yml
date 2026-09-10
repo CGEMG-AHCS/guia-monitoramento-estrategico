@@ -29,14 +29,14 @@ nav:
   - Monitoramento Estratégico:
       - Metodologia: monitoramento/metodologia.md
       - PACI: monitoramento/paci.md
-      - Matriz RACI: monitoramento/raci.md
+      - RACI: monitoramento/raci.md
       - Sistema e-CGU: monitoramento/sistema e-cgu.md
 
   - Bases de Dados:
       - Visão Geral: bases-dados/index.md
-      - PACI: bases-dados/paci.md
       - Estrutura de Recursos Humanos: bases-dados/estrutura-rh.md
-      - Matriz RACI: bases-dados/raci.md
+      - PACI: bases-dados/paci.md
+      - RACI: bases-dados/raci.md
 
   - Referências e Apoio:
       - e-CGU: referencias/e-cgu.md
