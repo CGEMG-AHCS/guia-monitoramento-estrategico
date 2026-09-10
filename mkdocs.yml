@@ -20,6 +20,9 @@ theme:
 extra_css:
   - stylesheets/extra.css
 
+extra_javascript:
+- javascripts/external-links.js
+
 nav:
   - Início: index.md
 
