@@ -1,10 +1,12 @@
-# Guia de Monitoramento Estratégico
+# Guia de Monitoramento Estratégico - AHCS | CGE-MG
 
-Bem-vindo ao **Guia de Monitoramento Estratégico da Controladoria-Geral do Estado de Minas Gerais (CGE-MG)**.
+Bem-vindo ao **Guia de Monitoramento Estratégico da Assessoria de Harmonização das Controladorias Setoriais e Seccionais (AHCS)**.
 
-Elaborado pela **Assessoria de Harmonização das Controladorias Setoriais e Seccionais (AHCS)**, este guia reúne orientações, procedimentos, referências e materiais de apoio destinados à realização do monitoramento estratégico das Controladorias Setoriais e Seccionais.
+Elaborado pela **AHCS**, este guia reúne orientações, procedimentos, referências e materiais de apoio destinados à realização do monitoramento estratégico das Controladorias Setoriais e Seccionais.
 
-O guia foi concebido como um instrumento de apoio às atividades desenvolvidas pela AHCS e pelas demais unidades do órgão central, contribuindo para a padronização de procedimentos, a consolidação de informações e a produção de análises que subsidiem a tomada de decisão e o aperfeiçoamento do Sistema de Controle Interno.
+O guia foi concebido como um instrumento de apoio às atividades desenvolvidas pela AHCS, contribuindo para a padronização de procedimentos, a consolidação de informações e a produção de análises que subsidiem a tomada de decisão e o aperfeiçoamento do Sistema de Controle Interno.
+
+Adicionalmente, busca proporcionar às demais unidades do órgão central uma visão estruturada sobre a organização, a capacidade operacional e as principais atividades desenvolvidas pelas Controladorias Setoriais e Seccionais, fortalecendo a integração institucional e a compreensão do funcionamento do Sistema de Controle Interno.
 
 ## Por que este guia foi criado?
 
@@ -13,7 +15,7 @@ O monitoramento estratégico possibilita compreender como as Controladorias Seto
 Nesse contexto, este guia foi criado para:
 
 - Padronizar a metodologia de monitoramento estratégico adotada pela AHCS;
-- Harmonizar procedimentos de coleta, tratamento e análise de dados;
+- Harmonizar procedimentos de coleta, tratamento e análise de dados;z
 - Orientar sobre as bases de dados disponíveis e a forma de acessá-las;
 - Facilitar a localização e a utilização das informações necessárias ao monitoramento;
 - Apoiar a elaboração de diagnósticos, análises e relatórios gerenciais;
