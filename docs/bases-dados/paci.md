@@ -36,16 +36,11 @@ Entre as principais informações disponíveis destacam-se:
 
 ## Estrutura da Base
 
-A base encontra-se consolidada em painel gerencial desenvolvido em Power BI.
+As informações do PACI podem ser consultadas em diferentes níveis de detalhamento.
 
-As informações podem ser consultadas por meio de filtros e visualizações que permitem análises por:
+Inicialmente, é possível acessar os planos individuais elaborados pelas Controladorias Setoriais e Seccionais, bem como as planilhas subsidiárias utilizadas em sua elaboração. As informações encaminhadas pelas unidades são consolidadas pela AHCS em uma base única, utilizada para desenvolvimento de painel em Power BI.
 
-- Unidade;
-- Área de atuação;
-- Atividade planejada;
-- Quantidade de horas previstas;
-- Distribuição da capacidade operacional;
-- Outros recortes disponibilizados no painel.
+O painel permite a consulta das informações de forma individualizada ou consolidada, por meio de filtros e diferentes visualizações.
 
 ## Onde Localizar
 
