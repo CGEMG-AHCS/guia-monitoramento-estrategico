@@ -1,21 +1,8 @@
 site_name: Guia de Monitoramento Estratégico
-site_description: Guia de Monitoramento Estratégico da AHCS
-site_author: CGE-MG
 
 theme:
   name: material
   language: pt-BR
 
 nav:
-  - Início: index.md
-
-plugins:
-  - search
-
-markdown_extensions:
-  - admonition
-  - attr_list
-  - md_in_html
-  - tables
-  - toc:
-      permalink: true
+  - Início: index.md  
