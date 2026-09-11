@@ -4,15 +4,13 @@
 
 O Relatório de Atividades de Controle Interno (RACI) é o instrumento utilizado pelas Controladorias Setoriais e Seccionais para formalizar a execução das atividades de controle interno desenvolvidas ao longo do exercício.
 
-Por meio do RACI, as unidades comparam o planejado com o executado, registrando informações sobre as atividades realizadas, produtos entregues, horas trabalhadas, bem como dados sobre a equipe.
-
-Além de demonstrar a execução do planejamento aprovado, o relatório registra demandas extraordinárias, alterações ocorridas ao longo do exercício e demais informações relevantes para avaliação da atuação das unidades.
+Por meio do RACI, as unidades comparam o planejado com o executado, registrando informações sobre as atividades realizadas, produtos entregues, horas trabalhadas, dados sobre a equipe, bem como outras informações relevantes para avaliação da atuação das unidades.
 
 ## Finalidade
 
-Para a AHCS, o RACI constitui uma importante fonte de informação sobre a atuação das Cset/Csec. A consolidação dos relatórios permite compreender como a capacidade de trabalho foi efetivamente utilizada pelas unidades, os resultados alcançados, o grau de execução do planejamento aprovado e a ocorrência de demandas extraordinárias ao longo do exercício.
+Para a AHCS, o RACI constitui uma importante fonte de informação sobre a atuação das Cset/Csec. A consolidação dos relatórios permite compreender como a capacidade de trabalho foi efetivamente utilizada pelas unidades, os resultados alcançados, o grau de execução dos planejamentos aprovados e a ocorrência de demandas extraordinárias ao longo do exercício.
 
-As informações podem ser analisadas de forma individualizada, considerando a realidade de cada unidade, ou de forma consolidada, possibilitando uma visão abrangente da execução das atividades  pelas unidades descentralizadas.
+As informações podem ser analisadas de forma individualizada, considerando a realidade de cada Controladoria, ou de forma consolidada, possibilitando uma visão abrangente da execução das atividades  pelas unidades descentralizadas.
 
 ## Responsável pela Base de Dados
 
