@@ -1,24 +1,102 @@
-# Plano de Atividades de Controle Interno (Paci)
+# Plano de Atividades de Controle Interno (PACI)
 
-## O que é o Paci
+## O que é o PACI
 
-## Objetivo
+O Plano de Atividades de Controle Interno (PACI) é o instrumento de planejamento anual utilizado pelas Controladorias Setoriais e Seccionais para definir os trabalhos prioritários a serem executados em cada exercício.
+
+Sua elaboração contempla ações relacionadas às áreas de Transparência, Integridade e Controle Social, Auditoria e Correição, observadas as competências de cada unidade, as diretrizes estabelecidas pela Controladoria-Geral do Estado (CGE) e a capacidade operacional disponível.
+
+A elaboração do planejamento deve observar as orientações técnicas emanadas pelas unidades administrativas da CGE, especialmente pela Subcontroladoria de Transparência, Integridade e Controle Social (Suti), pela Auditoria-Geral (Auge) e pela Corregedoria-Geral (Coge).
+
+Complementarmente, a AHCS encaminha anualmente as diretrizes específicas emanadas das áreas e modelos para subsidiar a elaboração do planejamento pelas unidades descentralizadas.
+
+## Finalidade
+
+Para a AHCS, o PACI constitui uma importante fonte de informação sobre as atividades planejadas pelas Cset/Csecs. A consolidação dos planos realizada pela Assessoria permite compreender as prioridades definidas para o exercício, a distribuição das atividades entre as diferentes áreas de atuação do controle interno, a alocação da capacidade de trabalho disponível e a aderência das ações previstas às diretrizes e prioridades estabelecidas pela CGE. As informações podem ser analisadas de forma individualizada, considerando a realidade de cada unidade, ou de forma consolidada, possibilitando uma visão abrangente do planejamento das unidades descentralizadas.
 
 ## Responsável
 
+A Assessoria de Harmonização das Controladorias Setoriais e Seccionais (AHCS) é responsável pela consolidação das informações recebidas das Controladorias Setoriais e Seccionais.
+
+As informações têm origem nos planos elaborados pelas próprias unidades e encaminhados à AHCS conforme os prazos definidos pela regulamentação vigente.
+
 ## Periodicidade de Atualização
+
+Anual.
+
+A base é atualizada a cada ciclo de elaboração do Plano de Atividades de Controle Interno, podendo sofrer atualizações decorrentes de ajustes ou correções realizadas durante o processo de consolidação.
 
 ## Informações Disponíveis
 
-## Estrutura da base
+Entre as principais informações disponíveis destacam-se:
+
+- Unidade responsável pelo planejamento;
+- Quantitativo de servidores considerado no planejamento;
+- Capacidade de trabalho disponível da unidade;
+- Ações planejadas;
+- Área de atuação da atividade (Auditoria, Correição ou Transparência, Integridade e Controle Social);
+- Quantidade de horas previstas;
+- Distribuição das atividades entre as áreas de atuação;
+- Informações utilizadas para acompanhamento gerencial do planejamento.
+
+## Estrutura da Base
+
+A base encontra-se consolidada em painel gerencial desenvolvido em Power BI.
+
+As informações podem ser consultadas por meio de filtros e visualizações que permitem análises por:
+
+- Unidade;
+- Área de atuação;
+- Atividade planejada;
+- Quantidade de horas previstas;
+- Distribuição da capacidade operacional;
+- Outros recortes disponibilizados no painel.
 
 ## Onde Localizar
+
 📊 [Acessar Painel PACI 2026](https://cecad365.sharepoint.com/:u:/r/sites/HarmonizaoCGE/Documentos%20Compartilhados/General/1%20-%20Coordenar%20Planejamento%20Anual%20Cset-Csec/Paci%202026/Consolida%C3%A7%C3%A3o%20do%20Paci%202026/Painel/Planejamento%202026%20-%20Paci.pbix?d=wbab063ed9a0f4c70a7fcacb38c5694d5&csf=1&web=1&e=qxAPJY)
 
-## Aplicação no Monitoramento
+> O acesso ao painel depende das permissões atribuídas no ambiente Microsoft 365.
+
+## Aplicações no Monitoramento Estratégico
+
+A base do PACI pode ser utilizada para:
+
+- Compreender o planejamento das Controladorias Setoriais e Seccionais;
+- Avaliar a distribuição da capacidade de trabalho disponível;
+- Identificar a concentração de esforços em determinadas áreas de atuação;
+- Verificar o equilíbrio entre atividades planejadas e recursos disponíveis;
+- Apoiar diagnósticos sobre a capacidade operacional das unidades;
+- Subsidiar análises comparativas entre Controladorias;
+- Produzir informações gerenciais para apoio à tomada de decisão.
 
 ## Limitações
 
-## Exemplos de Uso
+Ao utilizar a base do PACI, devem ser observadas as seguintes limitações:
 
-modelos
+- O PACI representa o planejamento das atividades e não sua execução efetiva;
+- Alterações ocorridas ao longo do exercício podem não estar refletidas integralmente na base consolidada;
+- A interpretação dos dados deve considerar as especificidades de cada unidade;
+- Determinadas análises podem demandar a utilização complementar de outras bases de dados.
+
+## Exemplos de Utilização
+
+### Exemplo 1
+
+Identificar quais Controladorias possuem maior quantidade de horas planejadas para atividades de Auditoria, Correição ou Transparência, Integridade e Controle Social.
+
+### Exemplo 2
+
+Comparar a capacidade de trabalho disponível das unidades com o volume de atividades planejadas.
+
+### Exemplo 3
+
+Analisar a distribuição do planejamento entre diferentes áreas de atuação do controle interno.
+
+### Exemplo 4
+
+Subsidiar avaliações sobre a adequação da estrutura disponível frente às atividades previstas para o exercício.
+
+### Exemplo 5
+
+Produzir diagnósticos gerenciais sobre o planejamento das Controladorias Setoriais e Seccionais.
