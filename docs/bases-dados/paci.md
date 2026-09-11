@@ -12,19 +12,17 @@ Complementarmente, a AHCS encaminha anualmente as diretrizes específicas emanad
 
 ## Finalidade
 
-Para a AHCS, o PACI constitui uma importante fonte de informação sobre as atividades planejadas pelas Cset/Csecs. A consolidação dos planos realizada pela Assessoria permite compreender as prioridades definidas para o exercício, a distribuição das atividades entre as diferentes áreas de atuação do controle interno, a alocação da capacidade de trabalho disponível e a aderência das ações previstas às diretrizes e prioridades estabelecidas pela CGE. As informações podem ser analisadas de forma individualizada, considerando a realidade de cada unidade, ou de forma consolidada, possibilitando uma visão abrangente do planejamento das unidades descentralizadas.
+Para a AHCS, o PACI constitui uma importante fonte de informação sobre as atividades planejadas pelas Cset/Csecs. A consolidação dos planos permite compreender as prioridades definidas para o exercício, a distribuição das atividades entre as diferentes áreas de atuação do controle interno, a alocação da capacidade de trabalho disponível e a aderência das ações previstas às diretrizes e prioridades estabelecidas pela CGE. As informações podem ser analisadas de forma individualizada, considerando a realidade de cada unidade, ou de forma consolidada, possibilitando uma visão abrangente do planejamento das unidades descentralizadas.
 
-## Responsável
+## Responsável pela base de dados
 
-A Assessoria de Harmonização das Controladorias Setoriais e Seccionais (AHCS) é responsável pela consolidação das informações recebidas das Controladorias Setoriais e Seccionais.
-
-As informações têm origem nos planos elaborados pelas próprias unidades e encaminhados à AHCS conforme os prazos definidos pela regulamentação vigente.
+A Assessoria de Harmonização é responsável pela consolidação e manutenção da base de dados do PACI utilizada para fins de monitoramento estratégico. As informações são originadas dos planos encaminhados pelas Controladorias Setoriais e Seccionais à AHCS.
 
 ## Periodicidade de Atualização
 
-Anual.
+A base possui periodicidade de atualização anual, acompanhando o ciclo de elaboração do Plano de Atividades de Controle Interno.
 
-A base é atualizada a cada ciclo de elaboração do Plano de Atividades de Controle Interno, podendo sofrer atualizações decorrentes de ajustes ou correções realizadas durante o processo de consolidação.
+Eventuais alterações promovidas pelas Cset/Csec ao longo do exercício, decorrentes de demandas extraordinárias ou readequações do planejamento, não são refletidas na base consolidada do PACI, sendo registradas e evidenciadas posteriormente no Relatório de Atividades de Controle Interno (RACI).
 
 ## Informações Disponíveis
 
