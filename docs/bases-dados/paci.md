@@ -44,7 +44,7 @@ O painel permite a consulta das informações de forma individualizada ou consol
 
 ## Onde Localizar
 
-PACI/2026 individuais--> SEI --> Acompanhamento Especial --> PACI 2026
+PACI/2026 individuais --> SEI --> Acompanhamento Especial --> PACI 2026
 
 📊 [Planilha consolidada dos PACI 2026](https://cecad365.sharepoint.com/:x:/r/sites/HarmonizaoCGE/Documentos%20Compartilhados/General/1%20-%20Coordenar%20Planejamento%20Anual%20Cset-Csec/Paci%202026/Consolida%C3%A7%C3%A3o%20do%20Paci%202026/01%20Consolida%C3%A7%C3%A3o%20Paci%202026_painel.xlsx?d=wd4ab5f25c8d34477bd95baa9c697f519&csf=1&web=1&e=sOTDue)
 
@@ -59,39 +59,49 @@ A base do PACI pode ser utilizada para:
 
 - Compreender o planejamento das Controladorias Setoriais e Seccionais;
 - Avaliar a distribuição da capacidade de trabalho disponível;
-- Identificar a concentração de esforços em determinadas áreas de atuação;
-- Verificar o equilíbrio entre atividades planejadas e recursos disponíveis;
+- Identificar a concentração de esforços entre as diferentes macrofunções;
+- Analisar a distribuição das atividades por área de atuação e classificação;
 - Apoiar diagnósticos sobre a capacidade operacional das unidades;
-- Subsidiar análises comparativas entre Controladorias;
-- Produzir informações gerenciais para apoio à tomada de decisão.
+- Subsidiar análises comparativas entre unidades.
+
+A estrutura da base permite a realização de análises em diferentes níveis de detalhamento. Além da segregação por macrofunções, é possível analisar as atividades a partir de suas classificações específicas, possibilitando uma compreensão mais aprofundada sobre como a capacidade de trabalho foi distribuída entre as diferentes áreas de atuação do controle interno.
 
 ## Limitações
 
 Ao utilizar a base do PACI, devem ser observadas as seguintes limitações:
 
 - O PACI representa o planejamento das atividades e não sua execução efetiva;
-- Alterações ocorridas ao longo do exercício podem não estar refletidas integralmente na base consolidada;
-- A interpretação dos dados deve considerar as especificidades de cada unidade;
-- Determinadas análises podem demandar a utilização complementar de outras bases de dados.
+- Alterações promovidas pelas unidades ao longo do exercício não estão refletidas na base consolidada do PACI, sendo evidenciadas posteriormente por meio do RACI e dos registros no sistema e-CGU;
+- A interpretação das informações deve considerar as especificidades e o contexto de atuação de cada unidade;
+- Determinadas análises podem demandar a utilização complementar de outras bases de dados;
+- O painel consolidado não está disponível para consulta por meio de link de acesso direto, devendo ser acessado a partir do arquivo disponibilizado pela AHCS, em observância às restrições de compartilhamento e proteção das informações contidas na base.
 
 ## Exemplos de Utilização
 
 ### Exemplo 1
 
-Identificar quais Controladorias possuem maior quantidade de horas planejadas para atividades de Auditoria, Correição ou Transparência, Integridade e Controle Social.
+Identificar quais Controladorias Setoriais e Seccionais concentram a maior e a menor quantidade de horas planejadas, produtos previstos e ações programadas para o exercício.
 
 ### Exemplo 2
 
-Comparar a capacidade de trabalho disponível das unidades com o volume de atividades planejadas.
+Analisar a distribuição do planejamento entre as diferentes atividades previstas no PACI, tais como Auditoria, Correição, Transparência, Integridade e Controle Social, Capacitação e Autogestão.
 
 ### Exemplo 3
 
-Analisar a distribuição do planejamento entre diferentes áreas de atuação do controle interno.
+Identificar quais classificações concentram maior volume de horas, produtos e ações planejadas dentro de determinada macrofunção.
 
 ### Exemplo 4
 
-Subsidiar avaliações sobre a adequação da estrutura disponível frente às atividades previstas para o exercício.
+Comparar o perfil de planejamento entre diferentes unidades, identificando áreas de maior concentração de esforços e características predominantes de atuação.
 
 ### Exemplo 5
 
-Produzir diagnósticos gerenciais sobre o planejamento das Controladorias Setoriais e Seccionais.
+Analisar como a capacidade de trabalho disponível foi distribuída entre atividades, classificações e ações planejadas.
+
+### Exemplo 6
+
+Identificar ações específicas planejadas por determinada unidade, incluindo sua classificação, quantidade de produtos previstos e horas planejadas para execução.
+
+### Exemplo 7
+
+Produzir diagnósticos gerenciais sobre o planejamento das Controladorias Setoriais e Seccionais, identificando tendências, prioridades institucionais e oportunidades de aperfeiçoamento.
