@@ -12,7 +12,9 @@ Complementarmente, a AHCS encaminha anualmente as diretrizes específicas emanad
 
 ## Finalidade
 
-Para a AHCS, o PACI constitui uma importante fonte de informação sobre as atividades planejadas pelas Cset/Csec. A consolidação dos planos permite compreender as prioridades definidas para o exercício, a distribuição das atividades entre as diferentes áreas de atuação do controle interno, a alocação da capacidade de trabalho disponível e a aderência das ações previstas às diretrizes e prioridades estabelecidas pela CGE. As informações podem ser analisadas de forma individualizada, considerando a realidade de cada unidade, ou de forma consolidada, possibilitando uma visão abrangente do planejamento das unidades descentralizadas.
+Para a AHCS, o PACI constitui uma importante fonte de informação sobre as atividades planejadas pelas Cset/Csec. A consolidação dos planos permite compreender as prioridades definidas para o exercício, a distribuição das atividades entre as diferentes áreas de atuação do controle interno, a alocação da capacidade de trabalho disponível e a aderência das ações previstas às diretrizes e prioridades estabelecidas pela CGE.
+
+As informações podem ser analisadas de forma individualizada, considerando a realidade de cada Controladoria, ou de forma consolidada, possibilitando uma visão abrangente do planejamento das unidades descentralizadas.
 
 ## Responsável pela base de dados
 
