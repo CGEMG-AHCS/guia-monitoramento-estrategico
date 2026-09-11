@@ -44,9 +44,14 @@ O painel permite a consulta das informações de forma individualizada ou consol
 
 ## Onde Localizar
 
-📊 [Acessar Painel PACI 2026](https://cecad365.sharepoint.com/:u:/r/sites/HarmonizaoCGE/Documentos%20Compartilhados/General/1%20-%20Coordenar%20Planejamento%20Anual%20Cset-Csec/Paci%202026/Consolida%C3%A7%C3%A3o%20do%20Paci%202026/Painel/Planejamento%202026%20-%20Paci.pbix?d=wbab063ed9a0f4c70a7fcacb38c5694d5&csf=1&web=1&e=qxAPJY)
+PACI/2026 individuais--> SEI --> Acompanhamento Especial --> PACI 2026
 
-> O acesso ao painel depende das permissões atribuídas no ambiente Microsoft 365.
+📊 [Planilha consolidada dos PACI 2026](https://cecad365.sharepoint.com/:x:/r/sites/HarmonizaoCGE/Documentos%20Compartilhados/General/1%20-%20Coordenar%20Planejamento%20Anual%20Cset-Csec/Paci%202026/Consolida%C3%A7%C3%A3o%20do%20Paci%202026/01%20Consolida%C3%A7%C3%A3o%20Paci%202026_painel.xlsx?d=wd4ab5f25c8d34477bd95baa9c697f519&csf=1&web=1&e=sOTDue)
+
+
+📊 [Painel PACI 2026](https://cecad365.sharepoint.com/:u:/r/sites/HarmonizaoCGE/Documentos%20Compartilhados/General/1%20-%20Coordenar%20Planejamento%20Anual%20Cset-Csec/Paci%202026/Consolida%C3%A7%C3%A3o%20do%20Paci%202026/Painel/Planejamento%202026%20-%20Paci.pbix?d=wbab063ed9a0f4c70a7fcacb38c5694d5&csf=1&web=1&e=qxAPJY)
+
+> O acesso ao arquivos dependem das permissões atribuídas no ambiente Microsoft 365.
 
 ## Aplicações no Monitoramento Estratégico
 
