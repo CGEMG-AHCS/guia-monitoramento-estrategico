@@ -28,14 +28,11 @@ Eventuais alterações promovidas pelas Cset/Csec ao longo do exercício, decorr
 
 Entre as principais informações disponíveis destacam-se:
 
-- Unidade responsável pelo planejamento;
-- Quantitativo de servidores considerado no planejamento;
-- Capacidade de trabalho disponível da unidade;
-- Ações planejadas;
-- Área de atuação da atividade (Auditoria, Correição ou Transparência, Integridade e Controle Social);
-- Quantidade de horas previstas;
-- Distribuição das atividades entre as áreas de atuação;
-- Informações utilizadas para acompanhamento gerencial do planejamento.
+- Controladoria Setorial ou Seccional responsável pelo planejamento;
+- Capacidade de trabalho disponível da unidade, expressa em homem/hora (h/h);
+- Atividades planejadas para o exercício;
+- Quantidade de produtos e horas previstas;
+- Distribuição das atividades, dos produtos e da capacidade de trabalho por macrofunção.
 
 ## Estrutura da Base
 
