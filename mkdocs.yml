@@ -28,14 +28,15 @@ nav:
 
   - Monitoramento Estratégico:
       - Metodologia: monitoramento/metodologia.md
-      - Estrutura da unidade: monitoramento/estrutura-rh.md
+      - Utilização Integrada das Bases: monitoramento/analises-integradas.md
+      - Estrutura da Unidade: monitoramento/estrutura-rh.md
       - PACI: monitoramento/paci.md
       - RACI: monitoramento/raci.md
       - Sistema e-CGU: monitoramento/sistema e-cgu.md
 
   - Bases de Dados:
       - Visão Geral: bases-dados/index.md
-      - Estrutura de Recursos Humanos: bases-dados/estrutura-rh.md
+      - Estrutura da Unidade: bases-dados/estrutura-rh.md
       - PACI: bases-dados/paci.md
       - RACI: bases-dados/raci.md
 
