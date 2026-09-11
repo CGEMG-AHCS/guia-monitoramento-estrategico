@@ -2,6 +2,8 @@
 
 Bem-vindo ao **Guia de Monitoramento Estratégico da Assessoria de Harmonização das Controladorias Setoriais e Seccionais**.
 
+**Em eleboração; versão incipiente**.
+
 Este guia reúne orientações, procedimentos, referências e materiais de apoio destinados às atividades de monitoramento estratégico conduzidas pela Assessoria de Harmonização, com o objetivo de apoiar a produção de informações gerenciais sobre a estrutura, a capacidade operacional, a atuação das Controladorias Setoriais e Seccionais (Cset/Csec), dentre outras.
 
 Elaborado pela Assessoria de Harmonização das Controladorias Setoriais e Seccionais (AHCS), o guia busca promover a padronização de procedimentos, a consolidação de informações e a utilização de metodologias comuns para coleta, tratamento e análise de dados, contribuindo para o aperfeiçoamento das atividades de monitoramento e para a tomada de decisão baseada em evidências.
