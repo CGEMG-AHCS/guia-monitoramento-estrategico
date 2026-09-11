@@ -1,0 +1,38 @@
+:root {
+  --md-primary-fg-color: #005A9C;
+  --md-primary-fg-color--light: #1976B5;
+  --md-primary-fg-color--dark: #003F6B;
+  --md-accent-fg-color: #1976B5;
+}
+
+.md-header {
+  background-color: #005A9C;
+}
+
+.md-tabs {
+  background-color: #1976B5;
+}
+
+.md-footer {
+  background-color: #003F6B;
+}
+
+.md-typeset h1 {
+  color: #005A9C;
+}
+
+.md-typeset h2 {
+  color: #005A9C;
+}
+
+.md-typeset h3 {
+  color: #1976B5;
+}
+
+.md-nav__link--active {
+  color: #005A9C;
+}
+
+.md-nav__link:hover {
+  color: #1976B5;
+}
