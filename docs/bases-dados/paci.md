@@ -12,7 +12,7 @@ Complementarmente, a AHCS encaminha anualmente as diretrizes específicas emanad
 
 ## Finalidade
 
-Para a AHCS, o PACI constitui uma importante fonte de informação sobre as atividades planejadas pelas Cset/Csecs. A consolidação dos planos permite compreender as prioridades definidas para o exercício, a distribuição das atividades entre as diferentes áreas de atuação do controle interno, a alocação da capacidade de trabalho disponível e a aderência das ações previstas às diretrizes e prioridades estabelecidas pela CGE. As informações podem ser analisadas de forma individualizada, considerando a realidade de cada unidade, ou de forma consolidada, possibilitando uma visão abrangente do planejamento das unidades descentralizadas.
+Para a AHCS, o PACI constitui uma importante fonte de informação sobre as atividades planejadas pelas Cset/Csec. A consolidação dos planos permite compreender as prioridades definidas para o exercício, a distribuição das atividades entre as diferentes áreas de atuação do controle interno, a alocação da capacidade de trabalho disponível e a aderência das ações previstas às diretrizes e prioridades estabelecidas pela CGE. As informações podem ser analisadas de forma individualizada, considerando a realidade de cada unidade, ou de forma consolidada, possibilitando uma visão abrangente do planejamento das unidades descentralizadas.
 
 ## Responsável pela base de dados
 
@@ -30,9 +30,8 @@ Entre as principais informações disponíveis destacam-se:
 
 - Controladoria Setorial ou Seccional responsável pelo planejamento;
 - Capacidade de trabalho disponível da unidade, expressa em homem/hora (h/h);
-- Atividades planejadas para o exercício;
-- Quantidade de produtos e horas previstas;
-- Distribuição das atividades, dos produtos e da capacidade de trabalho por macrofunção.
+- Atividades planejadas para o exercício por classificação e macrofunção;
+- Quantidade de ações, produtos e horas previstas.
 
 ## Estrutura da Base
 
@@ -64,7 +63,7 @@ A base do PACI pode ser utilizada para:
 - Apoiar diagnósticos sobre a capacidade operacional das unidades;
 - Subsidiar análises comparativas entre unidades.
 
-A estrutura da base permite a realização de análises em diferentes níveis de detalhamento. Além da segregação por macrofunções, é possível analisar as atividades a partir de suas classificações específicas, possibilitando uma compreensão mais aprofundada sobre como a capacidade de trabalho foi distribuída entre as diferentes áreas de atuação do controle interno.
+A estrutura da base permite a realização de análises em diferentes níveis de detalhamento. Além da segregação por macrofunções, é possível analisar as atividades a partir de suas classificações específicas, , possibilitando uma compreensão mais aprofundada sobre como a capacidade de trabalho, os produtos previstos e as ações planejadas foram distribuídos entre as diferentes áreas.
 
 ## Limitações
 
