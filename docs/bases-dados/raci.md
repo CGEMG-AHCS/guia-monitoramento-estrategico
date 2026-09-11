@@ -14,7 +14,7 @@ As informações podem ser analisadas de forma individualizada, considerando a r
 
 ## Responsável pela Base de Dados
 
-A Assessoria de Harmonização das Controladorias Setoriais e Seccionais (AHCS) é responsável pela consolidação e manutenção da base de dados do RACI utilizada para fins de monitoramento estratégico.
+A Assessoria de Harmonização é responsável pela consolidação e manutenção da base de dados do RACI utilizada para fins de monitoramento estratégico.
 
 As informações são originadas dos relatórios elaborados e encaminhados pelas Controladorias Setoriais e Seccionais à AHCS.
 
@@ -78,7 +78,7 @@ A estrutura da base permite a realização de análises em diferentes níveis de
 
 Ao utilizar a base do RACI, devem ser observadas as seguintes limitações:
 
-- O RACI representa informações consolidadas da execução das atividades ao longo do exercício;
+- O RACI representa informações consolidadas da execução das atividades ao longo do exercício anterior ao planejamento corrente;
 - A interpretação das informações deve considerar as especificidades e o contexto de atuação de cada unidade;
 - Determinadas análises podem demandar a utilização complementar de outras bases de dados;
 - O painel consolidado não está disponível para consulta por meio de link de acesso direto, devendo ser acessado a partir do arquivo disponibilizado pela AHCS, em observância às restrições de compartilhamento e proteção das informações contidas na base.
