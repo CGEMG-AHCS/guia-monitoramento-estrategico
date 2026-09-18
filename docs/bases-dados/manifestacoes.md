@@ -41,26 +41,9 @@ Para fins de Monitoramento Estratégico, será disponibilizado pela AHCS um pain
 
 **A ser elaborado.**
 
-## Estrutura da Base
+## Organização dos dados
 
-As informações relacionadas às manifestações têm origem nos registros realizados no MGOUV.
-
-Para fins de Monitoramento Estratégico, os dados serão disponibilizados por meio de painel desenvolvido em Power BI, permitindo a consulta das informações de forma individualizada por órgão ou entidade e de forma consolidada.
-
-O painel possibilitará a utilização de filtros e diferentes visualizações para exploração das informações, permitindo analisar as manifestações sob diferentes perspectivas.
-
-Entre as possibilidades de análise estão:
-
-- Evolução das manifestações ao longo do tempo;
-- Distribuição por tipo de manifestação;
-- Distribuição por assunto;
-- Concentração de manifestações em determinados temas;
-- Comparação entre diferentes períodos;
-- Comparação entre órgãos e entidades, quando pertinente;
-- Identificação de alterações relevantes no comportamento dos registros;
-- Análise específica das denúncias, quando disponíveis as informações necessárias.
-
-A combinação dos filtros e dimensões disponíveis permite aprofundar a análise e identificar situações que poderiam não ser percebidas a partir da observação isolada dos quantitativos gerais.
+**A ser elaborado.**
 
 ## Onde Localizar
 
