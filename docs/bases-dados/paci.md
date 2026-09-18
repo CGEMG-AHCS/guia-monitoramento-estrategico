@@ -35,7 +35,7 @@ Entre as principais informações disponíveis destacam-se:
 - Atividades planejadas para o exercício por classificação e macrofunção;
 - Quantidade de ações, produtos e horas previstas.
 
-## Organização dos dados
+## Composição da Base
 
 As informações do PACI podem ser consultadas em diferentes níveis de detalhamento.
 
