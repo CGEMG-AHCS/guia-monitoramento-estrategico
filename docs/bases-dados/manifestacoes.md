@@ -29,9 +29,7 @@ A finalidade da análise não é realizar a apuração individual das manifesta�
 
 ## Responsável pela base de dados
 
-A Ouvidoria-Geral do Estado (OGE) é responsável pelo recebimento e acompanhamento das manifestações apresentadas pelos usuários dos serviços públicos.
-
-As informações são registradas e tratadas no MGOUV, sistema de Ouvidorias utilizado para o gerenciamento das manifestações.
+A Ouvidoria-Geral do Estado (OGE) é responsável pelo recebimento e acompanhamento das manifestações apresentadas pelos usuários dos serviços públicos, cujas informações são registradas e tratadas no MGOUV, sistema utilizado para o gerenciamento dessas manifestações.
 
 Para fins de Monitoramento Estratégico, será disponibilizado pela AHCS um painel em Power BI - elaborado pela Suti - contendo informações consolidadas das manifestações, permitindo sua exploração a partir de filtros, indicadores e diferentes visualizações.
 
