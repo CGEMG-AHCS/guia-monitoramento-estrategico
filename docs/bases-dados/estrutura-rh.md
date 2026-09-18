@@ -39,7 +39,7 @@ Entre as principais informações disponíveis destacam-se:
 - Informações relacionadas à composição das equipes;
 - Informações relacionadas à capacidade técnica e operacional das unidades.
 
-## Estrutura da Base
+## Organização dos dados
 
 As informações da Estrutura da Unidade podem ser consultadas por meio de painel gerencial desenvolvido em Power BI.
 
