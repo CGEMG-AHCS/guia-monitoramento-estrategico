@@ -290,20 +290,48 @@ O monitoramento deve produzir elementos para compreensão, acompanhamento e deci
 
 ## Fluxo Geral do Monitoramento
 
-O fluxo geral sintetiza a aplicação da metodologia, desde a identificação da necessidade informacional até a utilização dos resultados para apoiar decisões e aperfeiçoar o próprio processo de monitoramento.
+O processo pode ser representado de forma simplificada pelo seguinte fluxo:
 
-```mermaid
-flowchart LR
-    A["Pergunta de análise"] --> B["Definição das evidências necessárias"]
-    B --> C["Definição da unidade de análise e do período"]
-    C --> D["Seleção das fontes de informação"]
-    D --> E["Coleta"]
-    E --> F["Tratamento"]
-    F --> G["Integração das informações"]
-    G --> H["Análise e interpretação"]
-    H --> I["Comunicação dos resultados"]
-    I --> J["Decisão e aperfeiçoamento"]
-
-    J -. "novas necessidades informacionais" .-> A
-    F -. "inconsistências ou limitações" .-> D
-    H -. "necessidade de novas evidências" .-> B
+```text
+Pergunta de análise
+│
+▼
+Definição das evidências necessárias
+│
+▼
+Definição da unidade de análise
+e do período de referência
+│
+▼
+Seleção das bases de dados
+│
+▼
+Coleta
+│
+▼
+Tratamento
+│
+▼
+Integração das informações
+quando necessária
+│
+▼
+Análise
+│
+▼
+Comunicação dos resultados
+│
+▼
+Tomada de decisão
+│
+▼
+Identificação de riscos,
+fragilidades e oportunidades
+│
+▼
+Aperfeiçoamento do monitoramento
+│
+▼
+Novas perguntas de análise
+│
+└──────────────────────────► Reinício do ciclo
