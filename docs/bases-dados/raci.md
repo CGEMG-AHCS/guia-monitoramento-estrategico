@@ -40,7 +40,7 @@ Entre as principais informações disponíveis destacam-se:
 - Demandas extraordinárias executadas;
 - Informações relacionadas à execução do planejamento aprovado.
 
-## Estrutura da Base
+## Organização dos dados
 
 As informações do RACI podem ser consultadas em diferentes níveis de detalhamento.
 
