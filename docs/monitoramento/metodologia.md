@@ -2,289 +2,141 @@
 
 ## Apresentação
 
-O monitoramento estratégico realizado pela Assessoria de Harmonização das Controladorias Setoriais e Seccionais (AHCS) consiste em um processo sistemático de coleta, tratamento, integração, análise e comunicação de informações relacionadas às Controladorias Setoriais e Seccionais.
+O monitoramento estratégico realizado pela **Assessoria de Harmonização das Controladorias Setoriais e Seccionais (AHCS)** consiste em um processo sistemático de coleta, tratamento, integração, análise e comunicação de informações relacionadas às Controladorias Setoriais e Seccionais.
 
 A metodologia busca transformar dados provenientes de diferentes fontes institucionais em informações gerenciais capazes de ampliar a compreensão sobre a estrutura, a capacidade operacional, as responsabilidades, o planejamento e as atividades desenvolvidas pelas unidades.
 
 Mais do que acompanhar indicadores isolados, o monitoramento procura relacionar diferentes dimensões da atuação das Controladorias Setoriais e Seccionais, permitindo identificar padrões, diferenças, riscos, fragilidades e oportunidades de melhoria.
 
-A metodologia possui caráter evolutivo. Novas bases de dados, indicadores, critérios de análise e necessidades informacionais podem ser incorporados à medida que o monitoramento é desenvolvido e amadurecido.
+A metodologia possui caráter evolutivo. Novas fontes, indicadores, critérios de análise e necessidades informacionais podem ser incorporados à medida que o monitoramento seja desenvolvido e aperfeiçoado.
 
 ---
 
 ## Objetivo
 
-O monitoramento estratégico tem como objetivo produzir informações gerenciais que apoiem a compreensão do funcionamento das Controladorias Setoriais e Seccionais e subsidiem a gestão da Controladoria-Geral do Estado de Minas Gerais (CGE-MG).
+O monitoramento estratégico tem como objetivo produzir informações gerenciais que apoiem a compreensão do funcionamento das Controladorias Setoriais e Seccionais e subsidiem a gestão da **Controladoria-Geral do Estado de Minas Gerais (CGE-MG)**.
 
 O monitoramento busca contribuir para:
 
 - a tomada de decisão;
-- o acompanhamento da estrutura das unidades;
-- o conhecimento da composição e da distribuição da força de trabalho;
+- o acompanhamento da estrutura e da força de trabalho;
 - a compreensão das responsabilidades atribuídas às unidades;
 - o acompanhamento do planejamento e da execução das atividades;
 - a análise da capacidade operacional;
 - a identificação de diferenças e desequilíbrios entre unidades;
 - a identificação de riscos e fragilidades;
 - a identificação de oportunidades de melhoria;
-- o aperfeiçoamento da gestão;
+- o aperfeiçoamento da gestão; e
 - o fortalecimento do Sistema de Controle Interno.
 
-O monitoramento não se limita, portanto, à produção de dados, tabelas ou indicadores.
-
-Seu propósito é organizar e relacionar evidências que permitam compreender a realidade das unidades e produzir informações úteis para a gestão.
+O propósito do monitoramento não se limita à produção de dados, tabelas ou indicadores. Busca-se organizar e relacionar evidências que permitam compreender a realidade das unidades e produzir informações úteis para a gestão.
 
 ---
 
 ## Escopo
 
-O monitoramento estratégico contempla informações relacionadas à estrutura, à força de trabalho, às responsabilidades, ao planejamento, à execução das atividades e aos resultados observados nas Controladorias Setoriais e Seccionais.
-
-As análises podem abranger, entre outros aspectos:
+O monitoramento estratégico contempla informações relacionadas, entre outros aspectos, à:
 
 - estrutura organizacional;
-- quantitativo de servidores;
-- perfil e composição das equipes;
-- distribuição da força de trabalho;
-- competências e atribuições;
+- força de trabalho;
 - distribuição de responsabilidades;
 - planejamento das atividades;
-- execução das atividades finalísticas;
-- distribuição do esforço operacional;
+- execução das atividades;
+- demandas recebidas pelas unidades;
 - capacidade operacional;
 - indicadores e resultados;
-- comparações entre unidades;
-- evolução histórica das informações;
-- padrões e tendências;
-- riscos e fragilidades;
+- evolução das informações ao longo do tempo;
+- diferenças entre unidades;
+- riscos e fragilidades; e
 - oportunidades de melhoria.
 
-O escopo não é fixo.
-
-A abrangência de cada análise será determinada principalmente pela **pergunta que se pretende responder**, pelas informações disponíveis e pela qualidade e compatibilidade das bases utilizadas.
+O escopo de cada análise é definido principalmente pela **pergunta que se pretende responder**, considerando as informações disponíveis e a qualidade, abrangência e compatibilidade das fontes utilizadas.
 
 ---
 
 ## Lógica do Monitoramento
 
-O monitoramento é orientado por perguntas de análise.
+O monitoramento estratégico é orientado por **perguntas de análise**.
 
-Isso significa que a definição dos dados, das bases de informação, dos indicadores e das técnicas utilizadas deve ocorrer a partir da questão que se pretende compreender.
+Isso significa que a escolha dos dados, das fontes de informação, dos indicadores e das técnicas de análise deve ocorrer a partir da questão que se pretende compreender.
 
-De forma simplificada, a lógica adotada é:
+De forma simplificada, o processo segue a seguinte lógica:
 
-> **Pergunta → Evidências necessárias → Bases de dados → Tratamento → Análise → Comunicação → Decisão e aperfeiçoamento**
+> **Pergunta → Evidências necessárias → Fontes de informação → Tratamento → Análise → Comunicação → Decisão e aperfeiçoamento**
 
-Esse princípio evita que o monitoramento seja conduzido exclusivamente a partir dos dados disponíveis.
+O ponto de partida, portanto, é a **necessidade informacional**, e não apenas a disponibilidade de dados.
 
-A existência de determinada informação em uma base não significa, por si só, que essa informação seja relevante para uma análise.
-
-O ponto de partida deve ser a necessidade informacional.
-
-A partir dela são identificadas:
+A partir da pergunta de análise são definidos:
 
 1. as evidências necessárias;
-2. as fontes capazes de fornecer essas evidências;
-3. os tratamentos necessários;
-4. as análises adequadas;
-5. a forma mais apropriada de comunicar os resultados.
+2. a unidade de análise;
+3. o período de referência;
+4. as fontes de informação;
+5. os tratamentos necessários;
+6. as técnicas de análise; e
+7. a forma de comunicação dos resultados.
+
+A identificação de novas evidências, inconsistências ou necessidades informacionais pode exigir a revisão dessas definições ao longo do processo.
 
 ---
 
-## Perguntas que o Monitoramento Busca Responder
+## Dimensões do Monitoramento
 
-O monitoramento estratégico busca organizar evidências que permitam compreender diferentes dimensões da atuação das Controladorias Setoriais e Seccionais.
+As informações utilizadas no monitoramento permitem observar diferentes dimensões da atuação das Controladorias Setoriais e Seccionais.
 
-Entre as perguntas que podem orientar as análises estão:
+Entre as principais estão:
 
 ### Estrutura e força de trabalho
 
-- Como as Controladorias Setoriais e Seccionais estão estruturadas?
-- Quantos servidores estão disponíveis em cada unidade?
-- Qual é o perfil das equipes?
-- Como a força de trabalho está distribuída entre as unidades?
-- Existem diferenças relevantes na composição das equipes?
-- Existem unidades com quadro reduzido de servidores?
-
-### Responsabilidades e distribuição do trabalho
-
-- Quais responsabilidades estão atribuídas às unidades?
-- Como as atividades estão distribuídas entre servidores e equipes?
-- Quais funções ou atividades concentram maior quantidade de responsabilidades?
-- Existem atividades concentradas em poucos servidores?
-- Existem responsabilidades sem cobertura adequada?
-- Há diferenças relevantes na distribuição das responsabilidades entre unidades?
-
-### Planejamento e execução
-
-- Quais atividades foram planejadas pelas unidades?
-- Como as atividades planejadas estão sendo executadas?
-- Existem diferenças entre planejamento e execução?
-- Quais atividades concentram maior esforço operacional?
-- Como o volume de atividades varia entre unidades e períodos?
-
-### Capacidade operacional
-
-- A força de trabalho disponível é compatível com as responsabilidades atribuídas?
-- Existem desequilíbrios entre recursos, atribuições e demandas?
-- Existem unidades com capacidade operacional potencialmente reduzida?
-- Existem concentrações de atividades que possam representar riscos operacionais?
-- Como estrutura, responsabilidades e volume de atividades se relacionam?
-
-### Evolução e comparação
-
-- Como os indicadores evoluem ao longo do tempo?
-- Existem mudanças relevantes na estrutura ou na força de trabalho?
-- Existem padrões ou tendências recorrentes?
-- Como unidades com características semelhantes se comportam?
-- Existem diferenças que mereçam análise específica?
-
-### Gestão e melhoria
-
-- Quais riscos ou fragilidades podem ser identificados?
-- Quais oportunidades de melhoria podem ser identificadas?
-- Quais situações demandam acompanhamento mais próximo?
-- Quais informações podem subsidiar decisões da gestão?
-
-Essas perguntas não formam uma lista exaustiva.
-
-Novas questões poderão ser incorporadas conforme as necessidades informacionais da AHCS e da gestão da CGE-MG.
-
----
-
-## Dimensões de Análise
-
-Para organizar as informações utilizadas no monitoramento, as análises podem ser estruturadas em diferentes dimensões.
-
-### Estrutura
-
-Representa a configuração organizacional das unidades e os recursos humanos disponíveis para o desenvolvimento das atividades.
-
-Pode contemplar informações como:
-
-- tipo de unidade;
-- órgão ou entidade;
-- composição da equipe;
-- quantitativo de servidores;
-- vínculos funcionais;
-- funções desempenhadas;
-- alterações na composição da unidade.
+Relaciona-se à configuração organizacional das unidades e aos recursos humanos disponíveis para o desenvolvimento das atividades.
 
 ### Responsabilidades
 
-Representa as atribuições e responsabilidades distribuídas entre unidades, funções e servidores.
-
-Essa dimensão permite compreender:
-
-- quem participa de determinada atividade;
-- quais responsabilidades estão atribuídas a cada função;
-- como as responsabilidades estão distribuídas;
-- onde existem concentrações ou lacunas.
+Relaciona-se às atribuições e à distribuição de responsabilidades entre unidades, funções, equipes e servidores.
 
 ### Planejamento
 
-Representa as atividades previstas para determinado período.
-
-Essa dimensão permite analisar:
-
-- atividades planejadas;
-- distribuição do planejamento;
-- recorrência de atividades;
-- prioridades estabelecidas;
-- relação entre planejamento e capacidade disponível.
+Relaciona-se às atividades previstas para determinado período, às prioridades estabelecidas e à distribuição do planejamento.
 
 ### Execução
 
-Representa as atividades efetivamente desenvolvidas ou registradas pelas unidades.
+Relaciona-se às atividades efetivamente desenvolvidas ou registradas pelas unidades.
 
-Pode ser utilizada para analisar:
+### Demandas
 
-- volume de atividades;
-- tipos de atividade;
-- distribuição temporal;
-- execução do planejamento;
-- concentração operacional;
-- evolução das atividades.
+Relaciona-se às demandas recebidas pelas unidades e às informações que permitem compreender sua natureza, distribuição e volume.
 
 ### Capacidade operacional
 
-A capacidade operacional é analisada a partir da combinação de diferentes evidências.
+Resulta da combinação de diferentes evidências relacionadas aos recursos disponíveis, às responsabilidades atribuídas, às demandas existentes e às atividades planejadas ou executadas.
 
-Não corresponde necessariamente a um único indicador ou campo existente em determinada base.
-
-Sua avaliação pode considerar, conforme a finalidade da análise:
-
-- quantidade de servidores;
-- composição das equipes;
-- responsabilidades atribuídas;
-- atividades planejadas;
-- atividades executadas;
-- distribuição do trabalho;
-- características específicas das unidades.
-
-Por esse motivo, análises relacionadas à capacidade operacional devem explicitar os critérios utilizados e evitar conclusões baseadas exclusivamente em uma única variável.
+A capacidade operacional não corresponde, necessariamente, a um único indicador. Sua análise depende da pergunta formulada e dos critérios adotados, que devem ser explicitados na interpretação dos resultados.
 
 ---
 
 ## Fontes de Informação
 
-O monitoramento estratégico utiliza diferentes bases institucionais.
+O monitoramento estratégico utiliza diferentes fontes institucionais, cada uma representando uma perspectiva sobre o funcionamento das Controladorias Setoriais e Seccionais.
 
-Cada fonte representa uma perspectiva específica sobre o funcionamento das Controladorias Setoriais e Seccionais.
+Entre as fontes atualmente utilizadas estão:
 
-As principais fontes atualmente consideradas são:
-
-- **Estrutura da Unidade**, com informações relacionadas à estrutura organizacional e à força de trabalho;
+- **Estrutura e RH**, com informações relacionadas à estrutura organizacional e à força de trabalho;
 - **Plano Anual de Controle Interno (PACI)**, relacionado ao planejamento e ao acompanhamento das atividades;
-- **Matriz RACI**, relacionada às responsabilidades e à distribuição das atividades;
+- **Matriz RACI**, relacionada à distribuição de responsabilidades;
+- **Manifestações**, com informações relacionadas às demandas recebidas pelas unidades;
 - **Sistema de Auditoria e-CGU**, relacionado aos trabalhos e atividades registrados no sistema.
 
-As características, campos, possibilidades de análise e limitações de cada fonte estão descritas individualmente na seção **Bases de Dados** deste guia.
+As características, os campos, os critérios de tratamento, as possibilidades de análise e as limitações de cada fonte são apresentados nas páginas específicas deste guia.
 
-Outras fontes poderão ser incorporadas quando forem necessárias para responder a novas questões de análise.
-
----
-
-## Utilização Integrada das Bases
-
-As bases utilizadas no monitoramento representam dimensões diferentes da realidade das unidades.
-
-Por esse motivo, uma análise pode utilizar uma única fonte ou combinar informações provenientes de diferentes bases.
-
-A integração pode permitir, por exemplo, relacionar:
-
-- estrutura e força de trabalho;
-- força de trabalho e responsabilidades;
-- responsabilidades e planejamento;
-- planejamento e execução;
-- estrutura e volume de atividades;
-- capacidade disponível e demanda observada.
-
-A utilização conjunta das bases, entretanto, exige critérios específicos para garantir que as informações sejam comparáveis.
-
-Devem ser considerados, entre outros aspectos:
-
-- unidade de análise;
-- período de referência;
-- nível de granularidade;
-- conceitos utilizados;
-- critérios de inclusão e exclusão;
-- tratamento de duplicidades;
-- padronização dos registros;
-- compatibilidade entre classificações;
-- correspondência entre unidades;
-- disponibilidade das informações;
-- limitações das fontes.
-
-As regras e possibilidades de relacionamento entre as bases são apresentadas na página **Utilização Integrada das Bases**.
+Outras fontes podem ser incorporadas quando necessárias para responder a novas questões de análise.
 
 ---
 
 ## Unidade de Análise
 
-Antes do tratamento e da análise dos dados deve ser definida a unidade de análise.
+Antes do tratamento e da análise dos dados deve ser definida a **unidade de análise**.
 
-A unidade de análise representa o elemento sobre o qual a informação será observada ou comparada.
+A unidade de análise representa o elemento sobre o qual a informação será observada, consolidada ou comparada.
 
 Dependendo da questão analisada, podem ser utilizadas diferentes unidades, como:
 
@@ -294,161 +146,88 @@ Dependendo da questão analisada, podem ser utilizadas diferentes unidades, como
 - atividade;
 - responsabilidade;
 - trabalho;
+- manifestação;
 - período;
-- categoria de atividade;
-- outra unidade compatível com a finalidade da análise.
+- categoria de atividade.
 
-A definição adequada da unidade de análise é importante porque bases distintas podem registrar informações em diferentes níveis de detalhamento.
+A definição da unidade de análise é especialmente importante quando são combinadas fontes com diferentes níveis de detalhamento.
 
-Por exemplo, uma base pode possuir registros por servidor, enquanto outra apresenta atividades por unidade.
-
-Nesses casos, a integração exige tratamento prévio para que as informações sejam analisadas em níveis compatíveis.
+Uma fonte pode, por exemplo, possuir registros por servidor, enquanto outra registra informações por atividade ou unidade. Nesses casos, a integração exige tratamento prévio para que as informações sejam analisadas em níveis compatíveis.
 
 ---
 
-## Temporalidade das Informações
+## Temporalidade
 
-As bases utilizadas no monitoramento podem possuir diferentes períodos e frequências de atualização.
+As fontes utilizadas no monitoramento podem possuir diferentes períodos de referência e frequências de atualização.
 
-As análises devem identificar claramente o período de referência das informações utilizadas.
+As análises devem identificar o período a que as informações se referem e, quando houver integração entre fontes, avaliar sua compatibilidade temporal.
 
-Sempre que forem integradas informações de fontes distintas, deve ser avaliada a compatibilidade temporal entre elas.
-
-Entre os aspectos que podem ser considerados estão:
+Podem ser considerados, conforme a análise:
 
 - data de extração;
 - período de competência;
 - exercício de referência;
 - data de atualização;
-- início e término da atividade;
+- início e término da atividade; e
 - periodicidade de atualização da fonte.
 
-Diferenças temporais relevantes devem ser consideradas na interpretação dos resultados e, quando necessário, informadas nos produtos do monitoramento.
+Diferenças temporais relevantes devem ser consideradas na interpretação e, quando necessário, explicitadas nos produtos do monitoramento.
 
 ---
 
 ## Etapas do Monitoramento
 
-O monitoramento estratégico pode ser compreendido como um ciclo composto por quatro etapas principais:
-
-1. **Coleta**
-2. **Tratamento**
-3. **Análise**
-4. **Comunicação**
-
-As etapas estão relacionadas e podem ser revistas durante o desenvolvimento das análises.
-
-A identificação de inconsistências, novas evidências ou novas necessidades informacionais pode exigir o retorno a etapas anteriores.
-
----
+O processo de monitoramento pode ser organizado em quatro etapas principais.
 
 ### 1. Coleta
 
-A coleta consiste na obtenção das informações necessárias para responder à pergunta de análise.
+Consiste na obtenção das informações necessárias para responder à pergunta de análise.
 
-A definição dos dados a serem coletados deve considerar:
+A coleta considera a finalidade da análise, a unidade de análise, o período de referência, as fontes disponíveis e os critérios de seleção dos registros.
 
-- objetivo da análise;
-- pergunta que se pretende responder;
-- unidade de análise;
-- período de referência;
-- fontes disponíveis;
-- abrangência das informações;
-- qualidade dos registros.
-
-Sempre que possível, devem ser preservadas informações que permitam identificar:
-
-- fonte dos dados;
-- período de referência;
-- data de obtenção ou extração;
-- critérios utilizados na seleção dos registros.
-
-A rastreabilidade dessas informações permite compreender e, quando necessário, reproduzir a análise realizada.
-
----
+Sempre que possível, devem ser preservadas informações que permitam identificar a origem dos dados e reproduzir o processo realizado.
 
 ### 2. Tratamento
 
-O tratamento consiste na preparação das informações coletadas para análise.
+Consiste na preparação dos dados para análise.
 
-Dependendo da fonte utilizada, podem ser necessárias atividades como:
+Pode envolver, entre outros procedimentos:
 
-- identificação e tratamento de duplicidades;
-- padronização de nomes;
-- padronização de unidades;
-- classificação de registros;
+- tratamento de duplicidades;
+- padronização de registros;
+- classificação de informações;
 - tratamento de campos ausentes;
 - identificação de inconsistências;
-- aplicação de filtros;
-- aplicação de regras de negócio;
-- consolidação de períodos;
+- aplicação de filtros e regras de negócio;
 - criação de variáveis derivadas;
-- agregação de registros;
-- integração de bases.
+- agregação de registros; e
+- integração entre fontes.
 
-O tratamento não deve alterar o significado original das informações.
-
-Transformações relevantes devem ser documentadas e consideradas na interpretação dos resultados.
-
----
+Transformações relevantes devem ser documentadas e não devem alterar indevidamente o significado das informações originais.
 
 ### 3. Análise
 
-A análise consiste na organização e interpretação das evidências obtidas.
+Consiste na organização, comparação e interpretação das evidências disponíveis.
 
-As técnicas utilizadas dependerão da pergunta de análise e das características dos dados disponíveis.
+As técnicas utilizadas dependem da pergunta formulada e podem incluir:
 
-Podem ser utilizadas, entre outras:
-
-- contagens;
-- proporções;
-- distribuições;
+- contagens e proporções;
 - indicadores;
 - medidas descritivas;
+- distribuições;
 - comparações;
 - séries históricas;
 - cruzamentos entre variáveis;
-- agrupamentos;
-- análise de concentração;
-- identificação de padrões;
-- análise de exceções.
+- análises de concentração;
+- identificação de padrões e exceções.
 
-Sempre que possível, as análises devem buscar explicar não apenas **quanto** determinado fenômeno representa, mas também:
-
-- onde ocorre;
-- como está distribuído;
-- como evolui;
-- com quais outras informações está relacionado;
-- quais situações merecem acompanhamento.
-
-A interpretação deve considerar o contexto das unidades e as limitações das evidências disponíveis.
-
----
+A interpretação deve considerar o contexto das unidades e as limitações das evidências utilizadas.
 
 ### 4. Comunicação
 
-A comunicação consiste na transformação dos resultados da análise em informações úteis para os públicos interessados.
+Consiste na transformação dos resultados em informações úteis para os públicos interessados.
 
-A forma de apresentação deve considerar:
-
-- objetivo da análise;
-- público destinatário;
-- grau de detalhamento necessário;
-- periodicidade;
-- relevância das informações;
-- necessidade de tomada de decisão.
-
-Os resultados podem ser apresentados por meio de:
-
-- painéis de acompanhamento;
-- relatórios gerenciais;
-- diagnósticos;
-- estudos temáticos;
-- apresentações executivas;
-- notas técnicas;
-- notas informativas;
-- indicadores;
-- outros produtos gerenciais.
+Os resultados podem ser apresentados por meio de painéis, relatórios gerenciais, diagnósticos, estudos temáticos, apresentações executivas, notas ou outros produtos de monitoramento.
 
 A comunicação deve priorizar:
 
@@ -456,53 +235,75 @@ A comunicação deve priorizar:
 - objetividade;
 - contextualização;
 - rastreabilidade;
-- destaque das informações relevantes;
-- explicitação das limitações quando necessárias.
+- destaque das informações relevantes; e
+- explicitação das limitações da análise, quando aplicável.
+
+---
+
+## Integração das Informações
+
+Uma análise pode utilizar uma única fonte ou combinar informações provenientes de diferentes bases.
+
+A integração permite investigar relações como:
+
+- força de trabalho e responsabilidades;
+- estrutura e planejamento;
+- responsabilidades e execução;
+- demandas e capacidade disponível;
+- planejamento e execução;
+- estrutura e volume de atividades.
+
+A utilização conjunta das fontes depende, entretanto, de sua compatibilidade metodológica.
+
+Devem ser considerados aspectos como:
+
+- unidade de análise;
+- período de referência;
+- granularidade;
+- conceitos e classificações;
+- critérios de inclusão e exclusão;
+- tratamento de duplicidades;
+- correspondência entre unidades;
+- qualidade e disponibilidade das informações.
+
+As possibilidades, os critérios e os exemplos de relacionamento entre as diferentes fontes são apresentados em **Análises Integradas**.
+
+---
+
+## Princípios para Interpretação
+
+Os resultados do monitoramento devem ser interpretados considerando o contexto e as limitações das informações utilizadas.
+
+Alguns princípios orientam essa interpretação:
+
+- indicadores devem ser analisados em conjunto com outras evidências quando necessário;
+- diferenças entre unidades não representam, isoladamente, situações positivas ou negativas;
+- associações observadas nos dados não significam, necessariamente, relações de causa e efeito;
+- ausência de registro não deve ser automaticamente interpretada como ausência da atividade;
+- comparações dependem da compatibilidade conceitual, temporal e metodológica das informações;
+- limitações relevantes das fontes devem ser consideradas na análise; e
+- conclusões relacionadas à capacidade operacional devem utilizar múltiplas evidências sempre que possível.
+
+O monitoramento deve produzir elementos para compreensão, acompanhamento e decisão, evitando conclusões que ultrapassem as evidências disponíveis.
 
 ---
 
 ## Fluxo Geral do Monitoramento
 
-O processo pode ser representado de forma simplificada pelo seguinte fluxo:
+O fluxo geral sintetiza a aplicação da metodologia, desde a identificação da necessidade informacional até a utilização dos resultados para apoiar decisões e aperfeiçoar o próprio processo de monitoramento.
 
-```text
-Pergunta de análise
-        │
-        ▼
-Definição das evidências necessárias
-        │
-        ▼
-Definição da unidade de análise
-e do período de referência
-        │
-        ▼
-Seleção das bases de dados
-        │
-        ▼
-      Coleta
-        │
-        ▼
-    Tratamento
-        │
-        ▼
-Integração das informações
-   quando necessária
-        │
-        ▼
-      Análise
-        │
-        ▼
-Comunicação dos resultados
-        │
-        ▼
-Tomada de decisão
-        │
-        ▼
-Identificação de riscos,
-fragilidades e oportunidades
-        │
-        ▼
-Aperfeiçoamento do monitoramento
-        │
-        └──────────────────────►
-             novas perguntas
+```mermaid
+flowchart LR
+    A["Pergunta de análise"] --> B["Definição das evidências necessárias"]
+    B --> C["Definição da unidade de análise e do período"]
+    C --> D["Seleção das fontes de informação"]
+    D --> E["Coleta"]
+    E --> F["Tratamento"]
+    F --> G["Integração das informações"]
+    G --> H["Análise e interpretação"]
+    H --> I["Comunicação dos resultados"]
+    I --> J["Decisão e aperfeiçoamento"]
+
+    J -. "novas necessidades informacionais" .-> A
+    F -. "inconsistências ou limitações" .-> D
+    H -. "necessidade de novas evidências" .-> B
