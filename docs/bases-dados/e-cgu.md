@@ -6,7 +6,7 @@ O e-CGU, anteriormente denominado e-Aud, é o sistema desenvolvido pela Controla
 
 O sistema integra diferentes etapas do processo de auditoria, abrangendo o planejamento, a execução dos trabalhos, o monitoramento das recomendações e o registro dos benefícios.
 
-No âmbito do Poder Executivo de Minas Gerais, o sistema foi adotado como instrumento do processo de trabalho da Auditoria Interna Governamental desenvolvida pela Auditoria-Geral (Auge) e pelas Controladorias Setoriais e Seccionais (Cset/Csec). 【1-1cf20e】【2-282f19】
+No âmbito do Poder Executivo de Minas Gerais, o sistema foi adotado como instrumento do processo de trabalho da Auditoria Interna Governamental desenvolvida pela Auditoria-Geral (Auge) e pelas Controladorias Setoriais e Seccionais (Cset/Csec).
 
 ## Finalidade
 
@@ -20,7 +20,7 @@ A integração com o PACI, o RACI e a Estrutura das Unidades possibilita ampliar
 
 O e-CGU é desenvolvido e mantido pela Controladoria-Geral da União (CGU). No âmbito do Poder Executivo estadual, sua utilização na atividade de Auditoria Interna Governamental é disciplinada pela Controladoria-Geral do Estado de Minas Gerais.
 
-As informações são registradas pelas unidades durante o desenvolvimento dos trabalhos. Para fins de Monitoramento Estratégico, a AHCS poderá consolidar e tratar os dados obtidos do sistema para elaboração de indicadores, painéis e análises gerenciais. 【1-1cf20e】【2-282f19】
+As informações são registradas pelas unidades durante o desenvolvimento dos trabalhos. Para fins de Monitoramento Estratégico, a AHCS poderá consolidar e tratar os dados obtidos do sistema para elaboração de indicadores, painéis e análises gerenciais.
 
 ## Periodicidade de Atualização
 
@@ -51,7 +51,7 @@ Os campos efetivamente utilizados dependerão da estrutura disponibilizada para 
 
 As informações são produzidas durante o desenvolvimento dos trabalhos registrados no e-CGU.
 
-As normas estaduais estabelecem que os trabalhos de avaliação, consultoria e apuração sejam executados no módulo de auditoria do sistema e que suas subtarefas sejam preenchidas conforme o progresso das etapas dos trabalhos. 【3-1faed8】
+As normas estaduais estabelecem que os trabalhos de avaliação, consultoria e apuração sejam executados no módulo de auditoria do sistema e que suas subtarefas sejam preenchidas conforme o progresso das etapas dos trabalhos.
 
 Para o Monitoramento Estratégico, os dados poderão ser obtidos e consolidados pela AHCS para utilização em painéis e análises.
 
