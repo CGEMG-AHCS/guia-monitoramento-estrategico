@@ -1,14 +1,14 @@
-# Sistema e-CGU
+# Sistema e-CGU **em construção**
 
 ## O que é o e-CGU
 
-O e-CGU, anteriormente denominado e-Aud, é o sistema desenvolvido pela Controladoria-Geral da União (CGU) para gestão da atividade de Auditoria Interna Governamental.
+O e-CGU, anteriormente denominado e-Aud, é o sistema desenvolvido pela Controladoria-Geral da União (CGU) para a gestão da atividade de Auditoria Interna Governamental.
 
 O sistema integra diferentes etapas do processo de auditoria, abrangendo o planejamento, a execução dos trabalhos, o monitoramento das recomendações e o registro dos benefícios.
 
 ## Finalidade
 
-Para a AHCS, os registros do e-CGU constituem importante fonte de informação sobre as atividades de auditoria desenvolvidas pelas Controladorias Setoriais e Seccionais, tendo em vista a obrigatoriedade de executar esses trabalhos no âmbito do sistema. Destaca-se que o uso é facultativo em relação aos trabalhos de correição e transparência, integridade e controle social.
+Para a AHCS, os registros do e-CGU constituem importante fonte de informação sobre as atividades de auditoria desenvolvidas pelas Controladorias Setoriais e Seccionais, tendo em vista a obrigatoriedade de executar esses trabalhos no âmbito do sistema. O sistema também pode conter registros relacionados ao planejamento de atividades de outras funções de controle, conforme sua utilização pelas unidades.
 
 A análise desses dados permite acompanhar os trabalhos registrados pelas unidades, sua execução e seus resultados, além de complementar as informações provenientes das demais bases utilizadas no Monitoramento Estratégico.
 
@@ -16,7 +16,7 @@ A análise desses dados permite acompanhar os trabalhos registrados pelas unidad
 
 O e-CGU é desenvolvido e mantido pela Controladoria-Geral da União.
 
-As informações são registradas pelas unidades durante o desenvolvimento dos trabalhos. Para fins de Monitoramento Estratégico, a AHCS poderá consolidar e tratar os dados obtidos do sistema para elaboração de indicadores, painéis e análises gerenciais, em conjunto com a Auditoria-Geral (Auge) **em construção**.
+As informações são registradas pelas unidades durante o desenvolvimento dos trabalhos. Para fins de Monitoramento Estratégico, a AHCS utilizará os dados obtidos do sistema como fonte para a elaboração de painéis e análises gerenciais, observadas as competências da Auditoria-Geral (Auge). **em construção**
 
 ## Periodicidade de Atualização
 
@@ -24,11 +24,11 @@ Os registros do e-CGU são atualizados ao longo do desenvolvimento das atividade
 
 Para fins de monitoramento, deve ser considerada a data de consulta ou extração da base, uma vez que os registros podem ser modificados conforme a evolução dos trabalhos.
 
-A periodicidade de obtenção e atualização da base utilizada pela AHCS poderá ser definida conforme as necessidades do Monitoramento Estratégico e as possibilidades de acesso aos dados.
+A periodicidade de obtenção e atualização da base utilizada pela AHCS será estabelecida conforme as necessidades do Monitoramento Estratégico e as possibilidades de acesso aos dados. **em construção**
 
 ## Informações Disponíveis
 
-Entre as informações que podem ser relevantes para o monitoramento destacam-se:
+A definição dos campos efetivamente utilizados no Monitoramento Estratégico dependerá da estrutura disponibilizada para consulta ou extração dos dados. Entre as informações de interesse estão:
 
 - Controladoria responsável;
 - Órgão ou entidade;
@@ -41,17 +41,15 @@ Entre as informações que podem ser relevantes para o monitoramento destacam-se
 - Recomendações e respectivo acompanhamento;
 - Resultados e benefícios registrados.
 
-Os campos efetivamente utilizados dependerão da estrutura disponibilizada para consulta ou extração e da finalidade de cada análise.
+Esta relação será revisada à medida que forem consolidados os procedimentos de acesso aos dados e identificados os campos disponíveis para utilização.
 
 ## Composição da Base
 
 As informações são produzidas durante o desenvolvimento dos trabalhos registrados no e-CGU.
 
-As normas estaduais estabelecem que os trabalhos de avaliação, consultoria e apuração sejam executados no módulo de auditoria do sistema e que suas subtarefas sejam preenchidas conforme o progresso das etapas dos trabalhos.
+Para o Monitoramento Estratégico, os dados poderão ser obtidos e consolidados pela AHCS para utilização em painéis.
 
-Para o Monitoramento Estratégico, os dados poderão ser obtidos e consolidados pela AHCS para utilização em painéis e análises.
-
-Esta seção poderá ser complementada posteriormente com informações sobre:
+A composição da base utilizada será detalhada à medida que os mecanismos de obtenção dos dados forem definidos, incluindo aspectos como:
 
 - Plano Operacional;
 - estrutura dos dados disponíveis;
@@ -65,55 +63,27 @@ Esta seção poderá ser complementada posteriormente com informações sobre:
 
 🌐 https://ecgu.cgu.gov.br/
 
-📖 [Página institucional do e-CGU](https://www.gov.br/cgu/pt-br/assuntos/auditoria-e-fiscalizacao/e-cgu)
 
 > O acesso ao sistema e às informações depende dos perfis e permissões atribuídos aos usuários.
+
+**As formas de acesso à base de dados utilizada pela AHCS serão incluídas nesta seção após a definição dos procedimentos de consulta ou extração.**
 
 ## Aplicações no Monitoramento Estratégico
 
 A base do e-CGU pode ser utilizada para:
 
 - acompanhar os trabalhos registrados pelas Cset/Csec;
-- analisar a distribuição das atividades entre unidades;
-- acompanhar a situação e a evolução dos trabalhos;
-- analisar produtos, recomendações e resultados registrados;
-- comparar os registros de execução com o planejamento das unidades;
-- apoiar análises sobre a atuação e a capacidade operacional das Cset/Csec;
 - subsidiar análises integradas com as demais bases do Monitoramento Estratégico.
-
-O volume de registros não deve ser interpretado isoladamente como medida de desempenho ou produtividade, pois os trabalhos podem apresentar diferenças de escopo, complexidade, duração e esforço necessário.
-
-## Integração com Outras Bases
-
-### PACI
-
-A integração com o PACI permite comparar atividades planejadas com os trabalhos posteriormente registrados no e-CGU, contribuindo para identificar alterações, demandas extraordinárias e possíveis diferenças entre planejamento e execução.
-
-### RACI
-
-O cruzamento com o RACI permite confrontar os registros disponíveis no sistema com as atividades informadas pelas unidades ao final do período.
-
-### Estrutura das Unidades
-
-A integração com a Estrutura das Unidades permite analisar os trabalhos registrados considerando a composição das equipes e a força de trabalho disponível.
-
-### Manifestações
-
-Quando pertinente, os registros podem ser relacionados às manifestações, especialmente quando denúncias ou outras demandas resultarem em análises preliminares ou trabalhos de apuração.
-
+  
 ## Limitações
 
 Ao utilizar a base do e-CGU, devem ser observadas as seguintes limitações:
 
-- os dados refletem a situação registrada no momento da consulta ou extração;
-- a qualidade das análises depende da atualização e do adequado preenchimento dos registros;
-- trabalhos em andamento podem apresentar informações incompletas;
-- a quantidade de registros não representa, isoladamente, o esforço ou a complexidade dos trabalhos;
-- comparações entre unidades devem considerar suas diferenças de estrutura, competências, demandas e capacidade operacional;
-- a integração com outras bases deve considerar diferenças de período, granularidade e conceitos;
-- informações restritas ou sigilosas devem observar as regras aplicáveis de acesso e proteção.
-
-A ausência de registro no sistema não deve ser interpretada automaticamente como ausência de atuação da unidade sem análise das demais fontes disponíveis.
+- A obtenção das informações para o Monitoramento Estratégico é realizada, atualmente, por meio de consultas e filtros no sistema;
+- O levantamento e a consolidação dos registros demandam tratamento manual das informações;
+- Os dados refletem a situação registrada no sistema no momento da consulta;
+- A qualidade e a confiabilidade das análises dependem da atualização, da completude e do adequado preenchimento dos registros pelas unidades;
+- Trabalhos em andamento podem apresentar informações parciais ou incompletas.
 
 ## Legislação
 
