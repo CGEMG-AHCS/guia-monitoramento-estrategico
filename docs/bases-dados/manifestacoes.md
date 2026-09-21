@@ -4,7 +4,7 @@
 
 As manifestações representam os pronunciamentos apresentados pelos usuários dos serviços públicos relacionados à prestação desses serviços e à atuação da Administração Pública.
 
-No âmbito da Ouvidoria-Geral do Estado de Minas Gerais (OGE), as manifestações constituem um importante canal de interlocução entre os usuários dos serviços públicos e a Administração Pública, possibilitando o registro e o acompanhamento de demandas relacionadas aos serviços prestados e à atuação dos agentes públicos.
+No âmbito da Ouvidoria-Geral do Estado de Minas Gerais (OGE), as manifestações constituem canal de interlocução entre os usuários dos serviços públicos e a Administração Pública, possibilitando o registro e o acompanhamento de demandas relacionadas aos serviços prestados e à atuação dos agentes públicos.
 
 As manifestações podem ser classificadas em diferentes tipologias:
 
@@ -19,16 +19,16 @@ A denúncia constitui, portanto, uma das espécies de manifestação. Essa disti
 
 ## Finalidade
 
-Para a AHCS, as manifestações constituem importante fonte de informação sobre o funcionamento dos órgãos e entidades e sobre a percepção dos usuários em relação aos serviços públicos prestados. A análise consolidada dessas informações permite identificar temas recorrentes, alterações no comportamento das manifestações, concentração de registros em determinados assuntos e outros sinais relevantes para a compreensão do contexto de atuação das Controladorias Setoriais e Seccionais, subsidiando a identificação de temas relevantes para o acompanhamento, o planejamento e a atuação dessas unidades.
+Para a AHCS, as manifestações constituem importante fonte de informação sobre o funcionamento dos órgãos e entidades e sobre a percepção dos usuários em relação aos serviços públicos prestados. A análise consolidada dessas informações permite identificar temas recorrentes, alterações no comportamento das manifestações, concentração de registros em determinados assuntos e outros sinais relevantes para a compreensão do contexto de atuação das Controladorias Setoriais e Seccionais.
 
-No Monitoramento Estratégico, as manifestações são utilizadas como fonte complementar de informação, permitindo a análise conjunta com as demais bases utilizadas pela AHCS, especialmente com os dados do Paci, de modo a ampliar a compreensão sobre temas que possam demandar acompanhamento.
+No Monitoramento Estratégico, as manifestações são utilizadas como fonte complementar de informação, permitindo sua utilização em conjunto com as demais bases utilizadas pela AHCS de modo a ampliar a compreensão sobre temas que possam demandar acompanhamento.
 
 
 ## Responsável pela base de dados
 
 A Ouvidoria-Geral do Estado (OGE) é responsável por receber e acompanhar as manifestações apresentadas pelos usuários dos serviços públicos, bem como pela gestão do MGOuv, sistema utilizado para o registro e gerenciamento dessas manifestações.
 
-Para fins de Monitoramento Estratégico, **será disponibilizado pela AHCS um painel em Power BI - elaborado pela Suti -** contendo informações consolidadas das manifestações, permitindo sua exploração a partir de filtros, indicadores e diferentes visualizações. **A ser elaborado.**
+Para fins de Monitoramento Estratégico **a ser elaborado**
 
 ## Periodicidade de Atualização
 
@@ -50,38 +50,13 @@ Para fins de Monitoramento Estratégico, **será disponibilizado pela AHCS um pa
 
 A base de Manifestações pode ser utilizada para:
 
-- Compreender o perfil e a evolução das manifestações, identificando variações relevantes ao longo do tempo;
-- Identificar assuntos, temas e tipologias recorrentes, bem como concentrações e possíveis sinais de atenção;
-- Comparar o comportamento das manifestações entre órgãos, entidades e diferentes períodos;
-- Contribuir para a identificação de riscos, oportunidades de melhoria e temáticas relacionadas aos processos e serviços que possam subsidiar a definição de objetos de auditoria e a atuação das unidades descentralizadas;
-- Subsidiar análises integradas com as demais bases utilizadas no Monitoramento Estratégico.
-
-## Proteção das Informações
-
-As manifestações podem conter dados pessoais, dados pessoais sensíveis e outras informações sujeitas a restrições de acesso.
-
-A utilização das informações no Monitoramento Estratégico deve observar as normas aplicáveis à proteção de dados pessoais e à preservação da identidade dos manifestantes.
-
-No caso das denúncias, existem procedimentos específicos destinados à proteção da identidade do denunciante.
-
-Para fins de análise no painel, devem ser privilegiadas informações consolidadas e necessárias à finalidade do Monitoramento Estratégico.
-
-A utilização das informações deve observar especialmente os princípios da:
-
-- **Finalidade:** utilização dos dados para propósitos legítimos relacionados às competências institucionais;
-- **Adequação:** compatibilidade da utilização da informação com a finalidade pretendida;
-- **Necessidade:** utilização apenas das informações necessárias para realização da análise.
-
-Não devem ser reproduzidos, compartilhados ou incorporados a produtos do Monitoramento Estratégico dados pessoais ou informações capazes de identificar manifestantes quando esses elementos não forem necessários para a finalidade da análise.
+**A ser elaborado.**
 
 ## Limitações
 
 Ao utilizar a base de Manifestações, devem ser observadas as seguintes limitações:
 
-- As manifestações representam registros realizados pelos usuários e não constituem, isoladamente, comprovação de irregularidade, falha de controle ou inadequação da prestação de determinado serviço;
-- A quantidade de manifestações pode ser influenciada pelo número de usuários do serviço, natureza da atividade, conhecimento dos canais de Ouvidoria, facilidade de acesso e outros fatores;
-- A quantidade reduzida de manifestações não representa necessariamente menor exposição a riscos;
-- **em construção** - quais informações disponíveis? atualização?
+**A ser elaborado.**
   
 
 ## Legislação
