@@ -1,6 +1,6 @@
 # Plano de Atividades de Controle Interno (Paci)
 
-## O que é o PACI
+## O que é o Paci
 
 O Plano de Atividades de Controle Interno (Paci) é o instrumento de planejamento anual utilizado pelas Controladorias Setoriais e Seccionais para definir os trabalhos prioritários a serem executados em cada exercício.
 
@@ -12,7 +12,7 @@ Complementarmente, a AHCS encaminha anualmente as diretrizes específicas emanad
 
 ## Finalidade
 
-Para a AHCS, o PACI constitui uma importante fonte de informação sobre as atividades planejadas pelas Cset/Csec. A consolidação dos planos permite compreender as prioridades definidas para o exercício, a distribuição das atividades entre as diferentes áreas de atuação do controle interno, a alocação da capacidade de trabalho disponível e a aderência das ações previstas às diretrizes e prioridades estabelecidas pela CGE.
+Para a AHCS, o Paci constitui uma importante fonte de informação sobre as atividades planejadas pelas Cset/Csec. A consolidação dos planos permite compreender as prioridades definidas para o exercício, a distribuição das atividades entre as diferentes áreas de atuação do controle interno, a alocação da capacidade de trabalho disponível e a aderência das ações previstas às diretrizes e prioridades estabelecidas pela CGE.
 
 As informações podem ser analisadas de forma individualizada, considerando a realidade de cada Controladoria, ou de forma consolidada, possibilitando uma visão abrangente do planejamento das unidades descentralizadas.
 
@@ -26,7 +26,7 @@ A Assessoria de Harmonização é responsável pelo recebimento e pela consolida
 
 A base possui periodicidade de atualização anual, acompanhando o ciclo de elaboração do Plano de Atividades de Controle Interno.
 
-Eventuais alterações promovidas pelas Cset/Csec ao longo do exercício, decorrentes de demandas extraordinárias ou readequações do planejamento, não são refletidas na base consolidada do PACI, sendo registradas e evidenciadas posteriormente no Relatório de Atividades de Controle Interno (RACI).
+Eventuais alterações promovidas pelas Cset/Csec ao longo do exercício, decorrentes de demandas extraordinárias ou readequações do planejamento, não são refletidas na posição inicial da base consolidada do Paci, sendo registradas e evidenciadas posteriormente no Relatório de Atividades de Controle Interno (Raci) e em sistemas institucionais utilizados para seu acompanhamento, a exemplo do e-CGU.
 
 ## Informações Disponíveis
 
@@ -39,42 +39,41 @@ Entre as principais informações disponíveis destacam-se:
 
 ## Composição da Base
 
-As informações do PACI podem ser consultadas em diferentes níveis de detalhamento.
+As informações do Paci podem ser consultadas em diferentes níveis de detalhamento.
 
-Inicialmente, é possível acessar os planos individuais elaborados pelas Controladorias Setoriais e Seccionais, bem como as planilhas subsidiárias utilizadas em sua elaboração. As informações encaminhadas pelas unidades são consolidadas pela AHCS em uma base única, utilizada para desenvolvimento de painel em Power BI.
+Inicialmente, é possível acessar os planos individuais elaborados pelas Controladorias Setoriais e Seccionais, bem como as planilhas subsidiárias utilizadas em sua elaboração. As informações encaminhadas pelas unidades são consolidadas pela AHCS em uma base única, utilizada para o desenvolvimento de painel em Power BI.
 
 O painel permite a consulta das informações de forma individualizada ou consolidada, por meio de filtros e diferentes visualizações.
 
 ## Onde Localizar
 
-PACI/2026 individuais --> SEI --> Acompanhamento Especial --> PACI 2026
+Paci/2026 individuais --> SEI --> Acompanhamento Especial --> Paci 2026
 
-📊 [Planilha consolidada dos PACI 2026](https://cecad365.sharepoint.com/:x:/r/sites/HarmonizaoCGE/Documentos%20Compartilhados/General/1%20-%20Coordenar%20Planejamento%20Anual%20Cset-Csec/Paci%202026/Consolida%C3%A7%C3%A3o%20do%20Paci%202026/01%20Consolida%C3%A7%C3%A3o%20Paci%202026_painel.xlsx?d=wd4ab5f25c8d34477bd95baa9c697f519&csf=1&web=1&e=sOTDue)
+📊 [Planilha consolidada dos Paci 2026](https://cecad365.sharepoint.com/:x:/r/sites/HarmonizaoCGE/Documentos%20Compartilhados/General/1%20-%20Coordenar%20Planejamento%20Anual%20Cset-Csec/Paci%202026/Consolida%C3%A7%C3%A3o%20do%20Paci%202026/01%20Consolida%C3%A7%C3%A3o%20Paci%202026_painel.xlsx?d=wd4ab5f25c8d34477bd95baa9c697f519&csf=1&web=1&e=sOTDue)
 
 
-📊 [Painel PACI 2026](https://cecad365.sharepoint.com/:u:/r/sites/HarmonizaoCGE/Documentos%20Compartilhados/General/1%20-%20Coordenar%20Planejamento%20Anual%20Cset-Csec/Paci%202026/Consolida%C3%A7%C3%A3o%20do%20Paci%202026/Painel/Planejamento%202026%20-%20Paci.pbix?d=wbab063ed9a0f4c70a7fcacb38c5694d5&csf=1&web=1&e=qxAPJY)
+📊 [Painel Paci 2026](https://cecad365.sharepoint.com/:u:/r/sites/HarmonizaoCGE/Documentos%20Compartilhados/General/1%20-%20Coordenar%20Planejamento%20Anual%20Cset-Csec/Paci%202026/Consolida%C3%A7%C3%A3o%20do%20Paci%202026/Painel/Planejamento%202026%20-%20Paci.pbix?d=wbab063ed9a0f4c70a7fcacb38c5694d5&csf=1&web=1&e=qxAPJY)
 
-> O acesso ao arquivos dependem das permissões atribuídas no ambiente Microsoft 365.
+> O acesso aos arquivos depende das permissões atribuídas no ambiente Microsoft 365.
 
 ## Aplicações no Monitoramento Estratégico
 
-A base do PACI pode ser utilizada para:
+A base do Paci pode ser utilizada para:
 
 - Compreender o planejamento das Controladorias Setoriais e Seccionais;
-- Avaliar a distribuição da capacidade de trabalho disponível;
-- Identificar a concentração de esforços entre as diferentes macrofunções;
+- Identificar a concentração de esforços entre as diferentes áreas de atuação;
 - Analisar a distribuição das atividades por área de atuação e classificação;
 - Apoiar diagnósticos sobre a capacidade operacional das unidades;
 - Subsidiar análises comparativas entre unidades.
 
-A estrutura da base permite a realização de análises em diferentes níveis de detalhamento. Além da segregação por macrofunções, é possível analisar as atividades a partir de suas classificações específicas, , possibilitando uma compreensão mais aprofundada sobre como a capacidade de trabalho, os produtos previstos e as ações planejadas foram distribuídos entre as diferentes áreas.
+As informações podem ser exploradas em diferentes níveis de detalhamento, permitindo observar como as horas, as entregas e as ações planejadas estão distribuídas entre unidades, áreas de atuação e classificações das ações.
 
 ## Limitações
 
-Ao utilizar a base do PACI, devem ser observadas as seguintes limitações:
+Ao utilizar a base do Paci, devem ser observadas as seguintes limitações:
 
-- O PACI representa o planejamento das atividades e não sua execução efetiva;
-- Alterações promovidas pelas unidades ao longo do exercício não estão refletidas na base consolidada do PACI, sendo evidenciadas posteriormente por meio do RACI e dos registros no sistema e-CGU;
+- O Paci representa o planejamento das atividades e não sua execução efetiva;
+- Alterações promovidas pelas unidades ao longo do exercício não estão refletidas na posição inicial da base consolidada do Paci, sendo evidenciadas posteriormente por meio do Raci e dos registros no sistema e-CGU;
 - A interpretação das informações deve considerar as especificidades e o contexto de atuação de cada unidade;
 - Determinadas análises podem demandar a utilização complementar de outras bases de dados;
 - O painel consolidado não está disponível para consulta por meio de link de acesso direto, devendo ser acessado a partir do arquivo disponibilizado pela AHCS, em observância às restrições de compartilhamento e proteção das informações contidas na base.
@@ -91,11 +90,11 @@ Identificar quais Controladorias Setoriais e Seccionais concentram a maior e a m
 
 ### Exemplo 2
 
-Analisar a distribuição do planejamento entre as diferentes atividades previstas no PACI, tais como Auditoria, Correição, Transparência, Integridade e Controle Social, Capacitação e Autogestão.
+Analisar a distribuição do planejamento entre as diferentes atividades previstas no Paci, tais como Auditoria, Correição, Transparência, Integridade e Controle Social, Capacitação e Autogestão.
 
 ### Exemplo 3
 
-Identificar quais classificações concentram maior volume de horas, produtos e ações planejadas dentro de determinada macrofunção.
+Identificar quais classificações concentram maior volume de horas, produtos e ações planejadas dentro de determinada área de atuação.
 
 ### Exemplo 4
 
@@ -103,7 +102,7 @@ Comparar o perfil de planejamento entre diferentes unidades, identificando área
 
 ### Exemplo 5
 
-Analisar como a capacidade de trabalho disponível foi distribuída entre atividades, classificações e ações planejadas.
+Analisar como a capacidade de trabalho planejada foi distribuída entre atividades, classificações e ações planejadas.
 
 ### Exemplo 6
 
