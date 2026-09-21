@@ -1,8 +1,8 @@
-# Plano de Atividades de Controle Interno (PACI)
+# Plano de Atividades de Controle Interno (Paci)
 
 ## O que é o PACI
 
-O Plano de Atividades de Controle Interno (PACI) é o instrumento de planejamento anual utilizado pelas Controladorias Setoriais e Seccionais para definir os trabalhos prioritários a serem executados em cada exercício.
+O Plano de Atividades de Controle Interno (Paci) é o instrumento de planejamento anual utilizado pelas Controladorias Setoriais e Seccionais para definir os trabalhos prioritários a serem executados em cada exercício.
 
 Sua elaboração contempla ações relacionadas às áreas de Transparência, Integridade e Controle Social, Auditoria e Correição, observadas as competências de cada unidade, as diretrizes estabelecidas pela Controladoria-Geral do Estado (CGE) e a capacidade operacional disponível.
 
@@ -18,7 +18,9 @@ As informações podem ser analisadas de forma individualizada, considerando a r
 
 ## Responsável pela base de dados
 
-A Assessoria de Harmonização é responsável pela consolidação e manutenção da base de dados do PACI utilizada para fins de monitoramento estratégico. As informações são originadas dos planos encaminhados pelas Controladorias Setoriais e Seccionais à AHCS.
+As Controladorias Setoriais e Seccionais são responsáveis pela elaboração do Paci e pelo registro das informações, formalizadas no documento de planejamento e nas respectivas planilhas subsidiárias.
+
+A Assessoria de Harmonização é responsável pelo recebimento e pela consolidação desses dados em uma base única, utilizada para fins de monitoramento estratégico e para o desenvolvimento de painéis e análises gerenciais.
 
 ## Periodicidade de Atualização
 
