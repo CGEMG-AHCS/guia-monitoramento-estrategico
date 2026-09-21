@@ -6,21 +6,17 @@ O e-CGU, anteriormente denominado e-Aud, é o sistema desenvolvido pela Controla
 
 O sistema integra diferentes etapas do processo de auditoria, abrangendo o planejamento, a execução dos trabalhos, o monitoramento das recomendações e o registro dos benefícios.
 
-No âmbito do Poder Executivo de Minas Gerais, o sistema foi adotado como instrumento do processo de trabalho da Auditoria Interna Governamental desenvolvida pela Auditoria-Geral (Auge) e pelas Controladorias Setoriais e Seccionais (Cset/Csec).
-
 ## Finalidade
 
-Para a AHCS, os registros do e-CGU constituem importante fonte de informação sobre as atividades de Auditoria Interna Governamental desenvolvidas pelas Cset/Csec.
+Para a AHCS, os registros do e-CGU constituem importante fonte de informação sobre as atividades de auditoria desenvolvidas pelas Controladorias Setoriais e Seccionais, tendo em vista a obrigatoriedade de executar esses trabalhos no âmbito do sistema. Destaca-se que o uso é facultativo em relação aos trabalhos de correição e transparência, integridade e controle social.
 
 A análise desses dados permite acompanhar os trabalhos registrados pelas unidades, sua execução e seus resultados, além de complementar as informações provenientes das demais bases utilizadas no Monitoramento Estratégico.
 
-A integração com o PACI, o RACI e a Estrutura das Unidades possibilita ampliar a compreensão sobre a relação entre planejamento, capacidade operacional e atuação das unidades.
-
 ## Responsável pela base de dados
 
-O e-CGU é desenvolvido e mantido pela Controladoria-Geral da União (CGU). No âmbito do Poder Executivo estadual, sua utilização na atividade de Auditoria Interna Governamental é disciplinada pela Controladoria-Geral do Estado de Minas Gerais.
+O e-CGU é desenvolvido e mantido pela Controladoria-Geral da União.
 
-As informações são registradas pelas unidades durante o desenvolvimento dos trabalhos. Para fins de Monitoramento Estratégico, a AHCS poderá consolidar e tratar os dados obtidos do sistema para elaboração de indicadores, painéis e análises gerenciais.
+As informações são registradas pelas unidades durante o desenvolvimento dos trabalhos. Para fins de Monitoramento Estratégico, a AHCS poderá consolidar e tratar os dados obtidos do sistema para elaboração de indicadores, painéis e análises gerenciais, em conjunto com a Auditoria-Geral (Auge) **em construção**.
 
 ## Periodicidade de Atualização
 
