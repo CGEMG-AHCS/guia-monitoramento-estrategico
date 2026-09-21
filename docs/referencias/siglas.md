@@ -4,7 +4,8 @@ Esta página reúne as principais siglas utilizadas no Guia de Monitoramento Est
 
 ## A
 
-- **AHCS** - Assessoria de Harmonização das Controladorias Setoriais e Seccionais.
+- **AHCS** - Assessoria de Harmonização das Controladorias Setoriais e Seccionais;
+- **Auge** - Auditoria-Geral.
 
 ## C
 
