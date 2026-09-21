@@ -41,11 +41,4 @@ nav:
       - RACI: monitoramento/raci.md
       - Manifestações: monitoramento/manifestacoes.md
       - E-CGU: monitoramento/sistema-e-cgu.md
-      - Utilização Integrada das Bases de Dados: monitoramento/analises-integradas.md
-
-  - Referências e Apoio:
-      - e-CGU: referencias/e-cgu.md
-      - Legislação: referencias/normativos.md
-      - Canais de Apoio: referencias/apoio.md
-      - Avaliação de Desempenho: referencias/avaliacao-desempenho.md
-      - Siglas: referencias/siglas.md
+      - Utilização Integrada das Bases de Dados: monitoramento/analises-integradas.md 
