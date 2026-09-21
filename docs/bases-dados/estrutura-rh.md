@@ -14,9 +14,9 @@ As informações podem ser analisadas de forma individualizada, considerando a r
 
 ## Responsável pela Base de Dados
 
-A Assessoria de Harmonização das Controladorias Setoriais e Seccionais (AHCS) é responsável pela consolidação e manutenção da base de dados utilizada para fins de monitoramento estratégico.
+As Controladorias Setoriais e Seccionais são responsáveis pelo fornecimento e pela atualização das informações relativas à estrutura e à composição de suas unidades, por meio do preenchimento de planilhas.
 
-As informações são obtidas a partir dos levantamentos realizados junto às Controladorias Setoriais e Seccionais.
+A Assessoria de Harmonização é responsável pelo recebimento e pela consolidação desses dados em uma base única, utilizada para fins de monitoramento estratégico e para o desenvolvimento de painéis e análises gerenciais.
 
 ## Periodicidade de Atualização
 
