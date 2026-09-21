@@ -14,9 +14,9 @@ As informações podem ser analisadas de forma individualizada, considerando a r
 
 ## Responsável pela Base de Dados
 
-A Assessoria de Harmonização é responsável pela consolidação e manutenção da base de dados do RACI utilizada para fins de monitoramento estratégico.
+As Controladorias Setoriais e Seccionais são responsáveis pela elaboração do Raci e pelo registro das informações relativas às atividades realizadas, formalizadas no relatório e nas respectivas planilhas subsidiárias.
 
-As informações são originadas dos relatórios elaborados e encaminhados pelas Controladorias Setoriais e Seccionais à AHCS.
+A Assessoria de Harmonização é responsável pelo recebimento e pela consolidação desses dados em uma base única, utilizada para fins de monitoramento estratégico e para o desenvolvimento de painéis e análises gerenciais.
 
 ## Periodicidade de Atualização
 
