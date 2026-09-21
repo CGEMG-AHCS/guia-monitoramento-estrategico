@@ -121,8 +121,7 @@ A ausência de registro no sistema não deve ser interpretada automaticamente co
 
 ## Legislação
 
-**Resolução CGE nº 15/2021(https://www.pesquisalegislativa.mg.gov.br/LegislacaoCompleta.aspx?cod=195373&marc=)** - Estabelece o sistema de auditoria e-Aud como ferramenta de processo de trabalho da atividade de Auditoria Interna Governamental no âmbito da Auditoria-Geral e das Controladorias Setoriais e Seccionais.
-
+**[Resolução CGE nº 15/2021](https://www.pesquisalegislativa.mg.gov.br/LegislacaoCompleta.aspx?cod=195373&marc=)** - Estabelece o sistema de auditoria e-Aud como ferramenta de processo de trabalho da atividade de Auditoria Interna Governamental no âmbito da Auditoria-Geral e das Controladorias Setoriais e Seccionais.
 
 ## Exemplos de Utilização
 
