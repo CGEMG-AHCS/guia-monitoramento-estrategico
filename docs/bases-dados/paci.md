@@ -77,7 +77,7 @@ Ao utilizar a base do PACI, devem ser observadas as seguintes limitações:
 - Determinadas análises podem demandar a utilização complementar de outras bases de dados;
 - O painel consolidado não está disponível para consulta por meio de link de acesso direto, devendo ser acessado a partir do arquivo disponibilizado pela AHCS, em observância às restrições de compartilhamento e proteção das informações contidas na base.
 
-  ## Legislação
+## Legislação
 
 **[Instrução Normativa CGE/GAB nº 01/2023](https://www.pesquisalegislativa.mg.gov.br/LegislacaoCompleta.aspx?cod=207385&marc=)** - Dispõe sobre as diretrizes de elaboração do Plano de Atividades de Controle Interno - Paci e do Relatório de Atividades de Controle Interno - Raci das Controladorias Setoriais e Seccionais.
 
