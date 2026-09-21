@@ -10,9 +10,10 @@ Esta página reúne as principais siglas utilizadas no Guia de Monitoramento Est
 ## C
 
 - **CGE** - Controladoria-Geral do Estado de Minas Gerais;
-- - **CGU** - Controladoria-Geral da União;
+- **CGU** - Controladoria-Geral da União;
 - **Csec** - Controladoria Seccional;
-- **Cset** - Controladoria Setorial.
+- **Cset** - Controladoria Setorial;
+- **Coge** - Corregedoria-Geral.
 
 ## E
 
@@ -25,9 +26,13 @@ Esta página reúne as principais siglas utilizadas no Guia de Monitoramento Est
 
 ## P
 
-- **PACI** - Plano de Atividades de Controle Interno;
+- **Paci** - Plano de Atividades de Controle Interno;
 - **PO** - Plano Operacional.
 
 ## R
 
-- **RACI** - Relatório de Atividades de Controle Interno.
+- **Raci** - Relatório de Atividades de Controle Interno.
+
+## S
+
+- **Suti** - Subcontroladoria de Transparência, Integridade e Controla Social.
