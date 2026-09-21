@@ -83,21 +83,19 @@ Ao utilizar a base de Manifestações, devem ser observadas as seguintes limita�
 - A quantidade reduzida de manifestações não representa necessariamente menor exposição a riscos;
 - **em construção** - quais informações disponíveis? atualização?
   
+
+## Legislação
+
+**[Decreto nº 48.582/2023](https://www.almg.gov.br/legislacao-mineira/DEC/48582/2023/)** - Dispõe sobre procedimentos e medidas de proteção à identidade do denunciante de ilícito ou de irregularidade praticados contra órgãos e entidades da Administração Pública direta, autárquica e fundacional do Poder Executivo.
+
+**[Decreto nº 49.053/2025](https://www.almg.gov.br/legislacao-mineira/DEC/49053/2025/)** - Regulamenta os capítulos III, IV, V e VI da Lei Federal nº 13.460, de 26 de junho de 2017, que dispõe sobre participação, proteção e defesa dos direitos do usuário dos serviços públicos da administração pública, no âmbito do Poder Executivo estadual.
+
+**[Resolução Conjunta OGE/CGE nº 01/2022](https://www.pesquisalegislativa.mg.gov.br/LegislacaoCompleta.aspx?cod=198898&marc=)** - Dispõe sobre a adoção de procedimentos entre a Ouvidoria-Geral do Estado e a Controladoria-Geral do Estado para o encaminhamento de denúncias, nos termos que especifica.
+
+**[Resolução Conjunta OGE/SEPLAG/CGE nº 01/2022](https://www.pesquisalegislativa.mg.gov.br/LegislacaoCompleta.aspx?cod=199642&marc=)** - Estabelece procedimentos para o acolhimento, o registro, o tratamento e a apuração de denúncia sobre a prática de assédio moral no âmbito da Ouvidoria-Geral do Estado, da Secretaria de Estado de Planejamento e Gestão e da Controladoria-Geral do Estado.
+
+**[Instrução Normativa CGE nº 01/2024](https://www.pesquisalegislativa.mg.gov.br/LegislacaoCompleta.aspx?cod=210582&marc=)** - Dispõe sobre as diretrizes de tratamento de denúncias no âmbito da Controladoria-Geral do Estado.
+
 ## Exemplos de Utilização
 
 **A ser elaborado.**
-
-## Referências
-
-Para compreensão e utilização da base de Manifestações, devem ser considerados especialmente:
-
-- Lei Federal nº 13.460/2017, que dispõe sobre participação, proteção e defesa dos direitos dos usuários dos serviços públicos;
-- Lei Estadual nº 15.298/2004, que cria a Ouvidoria-Geral do Estado de Minas Gerais;
-- Lei Federal nº 13.709/2018, Lei Geral de Proteção de Dados Pessoais (LGPD);
-- Decreto Estadual nº 47.529/2018, que regulamenta dispositivos relacionados à participação, proteção e defesa dos direitos dos usuários dos serviços públicos no âmbito do Poder Executivo estadual;
-- Decreto Estadual nº 48.582/2023, que dispõe sobre procedimentos e medidas de proteção à identidade do denunciante;
-- Resolução Conjunta OGE/CGE nº 01/2022, que estabelece procedimentos entre a OGE e a CGE para o encaminhamento de denúncias;
-- Resolução Conjunta OGE/SEPLAG/CGE nº 01/2022, que estabelece procedimentos para o acolhimento, registro, tratamento e apuração de denúncias sobre a prática de assédio moral;
-- Instrução Normativa CGE nº 01/2024, que dispõe sobre as diretrizes de tratamento de denúncias no âmbito da CGE;
-- Manual do Avaliador - MGOUV;
-- Material de treinamento dos interlocutores da Ouvidoria-Geral do Estado.
