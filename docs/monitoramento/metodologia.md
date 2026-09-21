@@ -292,46 +292,33 @@ O monitoramento deve produzir elementos para compreensão, acompanhamento e deci
 
 O processo pode ser representado de forma simplificada pelo seguinte fluxo:
 
-```text
-Pergunta de análise
-│
-▼
-Definição das evidências necessárias
-│
-▼
-Definição da unidade de análise
-e do período de referência
-│
-▼
-Seleção das bases de dados
-│
-▼
-Coleta
-│
-▼
-Tratamento
-│
-▼
-Integração das informações
-quando necessária
-│
-▼
-Análise
-│
-▼
-Comunicação dos resultados
-│
-▼
-Tomada de decisão
-│
-▼
-Identificação de riscos,
-fragilidades e oportunidades
-│
-▼
-Aperfeiçoamento do monitoramento
-│
-▼
-Novas perguntas de análise
-│
-└──────────────────────────► Reinício do ciclo
+```mermaid
+flowchart TD
+    A[Pergunta de análise]
+    B[Definição das evidências necessárias]
+    C[Definição da unidade de análise<br/>e do período de referência]
+    D[Seleção das bases de dados]
+    E[Coleta]
+    F[Tratamento]
+    G[Integração das informações<br/>quando necessária]
+    H[Análise]
+    I[Comunicação dos resultados]
+    J[Tomada de decisão]
+    K[Identificação de riscos,<br/>fragilidades e oportunidades]
+    L[Aperfeiçoamento do monitoramento]
+    M[Novas perguntas de análise]
+
+    A --> B
+    B --> C
+    C --> D
+    D --> E
+    E --> F
+    F --> G
+    G --> H
+    H --> I
+    I --> J
+    J --> K
+    K --> L
+    L --> M
+    M --> A
+```
