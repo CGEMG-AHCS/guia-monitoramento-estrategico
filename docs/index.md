@@ -37,20 +37,6 @@ O conteúdo está organizado em três áreas principais:
 
 O monitoramento estratégico utiliza diferentes bases de dados de forma integrada, permitindo relacionar informações sobre estrutura, planejamento, execução, responsabilidades, demandas e resultados das unidades.
 
-As principais bases utilizadas são:
-
-- **Estrutura da Unidade:** organização das unidades, equipes e responsáveis;
-
-- **Paci:** planejamento, execução e resultados das ações do Plano Anual de Controle Interno;
-
-- **Raci:** distribuição de papéis e responsabilidades nas atividades monitoradas;
-
-- **Manifestações:** registros das demandas recebidas e tratadas, utilizados na identificação de temas recorrentes, riscos e oportunidades de melhoria;
-
-- **Sistema e-CGU:** registros das atividades utilizados para complementar e validar informações de planejamento, execução e resultados;
-
-- **Estrutura das Unidades:** informações detalhadas sobre a composição interna de cada unidade.
-
 A integração dessas bases com as informações disponíveis na seção Referências e Apoio possibilita o cruzamento de dados e uma visão consolidada das unidades, apoiando o acompanhamento e a tomada de decisão.
   
 ### Monitoramento Estratégico
