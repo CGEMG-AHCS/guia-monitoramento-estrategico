@@ -9,6 +9,7 @@ Esta página reúne as principais siglas utilizadas no Guia de Monitoramento Est
 ## C
 
 - **CGE** - Controladoria-Geral do Estado de Minas Gerais;
+- - **CGU** - Controladoria-Geral da União;
 - **Csec** - Controladoria Seccional;
 - **Cset** - Controladoria Setorial.
 
