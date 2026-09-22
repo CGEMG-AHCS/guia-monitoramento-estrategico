@@ -20,11 +20,12 @@ O Monitoramento Estratégico das Cset/Csec tem como objetivo:
 
 ---
 
-## Fontes de Informação
+## Bases de Dados
 
 - **Estrutura das Unidades:** 📊 [Painel Estrutura das Unidades](https://app.powerbi.com/view?r=eyJrIjoiNWJiY2Q1MDEtOWY4MC00MDljLWJlNWQtNmFmMTExZmFmZDMzIiwidCI6ImU1ZDNhZTdjLTliMzgtNDhkZS1hMDg3LWY2NzM0YTI4NzU3NCJ9);
 - **Paci:** ;
 - **Raci:** ;
+- **e-CGU:** 🌐 [Acesso ao sistema](https://ecgu.cgu.gov.br/) | 🎓 [Ambiente de treinamento](https://eaud-t.cgu.gov.br/);
 - **Manifestações:** **em construção**;
 - **SISCOGE:** **em construção**;
 - **Portal da PMPI**: 📊 [Painel Indicadores da PMPI](https://app.powerbi.com/view?r=eyJrIjoiZDA4ZDUyOGMtNGY0My00ZGNiLTkzOTYtY2RiMDZhNDIxZjMwIiwidCI6ImU1ZDNhZTdjLTliMzgtNDhkZS1hMDg3LWY2NzM0YTI4NzU3NCJ9).
