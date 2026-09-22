@@ -41,19 +41,9 @@ A integração dessas bases com as informações disponíveis na seção Referê
   
 ### Monitoramento Estratégico
 
-Apresenta a metodologia e os procedimentos utilizados pela AHCS para organizar e desenvolver as atividades de monitoramento estratégico.
+Apresenta a metodologia e o objetivo do planejamento estratégico, consolida o acesso às base de dados e disponibiliza materiais de apoio e outras informações relevantes.
 
-
-### Referências e Apoio
-
-Reúne materiais complementares de apoio às atividades de monitoramento, incluindo orientações sobre o sistema e-CGU, normativos, documentos orientadores, painéis gerenciais e informações sobre avaliação de desempenho.
-
-## Sugestão de navegação
-
-Caso este seja seu primeiro acesso ao Guia, recomenda-se seguir a seguinte sequência de leitura: Bases de Dados → Monitoramento Estratégico → Referências e Apoio.
-
-Essa sequência permite conhecer, inicialmente, as principais fontes de informação utilizadas nas análises; em seguida, a lógica e os instrumentos do monitoramento estratégico; e, por fim, os recursos de referência e apoio disponíveis para sua aplicação.
 
 ---
 
-**Guia em constante evolução**: o conteúdo será atualizado à medida que novos procedimentos, bases de dados, instrumentos e materiais de apoio forem incorporados às atividades de monitoramento estratégico da AHCS.
+**Última atualização: xx/xx/2026**
