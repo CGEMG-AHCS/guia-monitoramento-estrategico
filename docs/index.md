@@ -2,48 +2,25 @@
 
 Bem-vindo ao **Guia de Monitoramento Estratégico da Assessoria de Harmonização das Controladorias Setoriais e Seccionais (AHCS)**.
 
-**Guia em elaboração**: este guia encontra-se em desenvolvimento. Seu conteúdo poderá ser ampliado ou revisado à medida que forem consolidados procedimentos, bases de dados e instrumentos de monitoramento.
+O Guia reúne orientações e fontes de informação utilizadas pela AHCS nas atividades de **monitoramento estratégico das Controladorias Setoriais e Seccionais (Cset/Csec)**.
 
-Este guia reúne orientações, procedimentos, referências e materiais de apoio às atividades de **monitoramento estratégico** conduzidas pela AHCS.
-
-Seu objetivo é apoiar a produção de informações gerenciais sobre a **estrutura organizacional**, a **força de trabalho**, a **capacidade operacional** e a **atuação das Controladorias Setoriais e Seccionais (Cset/Csec)**, promovendo maior padronização na coleta, no tratamento e na análise das informações.
-
-O monitoramento estratégico busca ampliar o conhecimento sobre a organização e a atuação das unidades descentralizadas, possibilitando a identificação de tendências, oportunidades de melhoria e necessidades de apoio institucional.
-
-As informações e análises produzidas nesse processo podem subsidiar diagnósticos, informações gerenciais e outros produtos destinados ao apoio à tomada de decisão no âmbito da Controladoria-Geral do Estado de Minas Gerais (CGE-MG).
-
-Além de apoiar as atividades desenvolvidas pela AHCS, o guia busca proporcionar às demais unidades da CGE-MG uma visão integrada das informações disponíveis pela AHCS sobre as Cset/Csec, contribuindo para o fortalecimento da integração institucional e para a utilização de informações consistentes e estruturadas.
+Seu objetivo é apoiar a produção de informações gerenciais sobre a **estrutura, o planejamento, a execução das atividades**, contribuindo para o acompanhamento de sua atuação e para a tomada de decisão no âmbito da Controladoria-Geral do Estado de Minas Gerais (CGE-MG).
 
 ## Por que este guia foi criado?
 
-As atividades de monitoramento estratégico envolvem diferentes fontes de informação, metodologias de análise e instrumentos de apoio à gestão.
+O monitoramento estratégico envolve diferentes fontes de informação e procedimentos de análise. A organização desses elementos em um único ambiente facilita o acesso aos dados, favorece a padronização e contribui para maior consistência e rastreabilidade das análises.
 
-A consolidação desses elementos em um ambiente único facilita o acesso às informações, favorece a padronização dos procedimentos e promove maior uniformidade na interpretação e utilização dos dados.
+O conteúdo está organizado em duas áreas principais:
 
-Este guia foi desenvolvido para:
+### Bases de Dados
 
-- consolidar orientações relacionadas ao monitoramento estratégico;
-- reunir as principais fontes de informação utilizadas pela AHCS;
-- facilitar o acesso às bases de dados e aos materiais de apoio;
-- padronizar procedimentos de coleta, tratamento e análise das informações;
-- apoiar a elaboração de diagnósticos, análises e informações gerenciais;
-- promover maior consistência, rastreabilidade e confiabilidade das informações produzidas.
+Apresenta as principais fontes de informação utilizadas pela AHCS, suas características, formas de acesso, possibilidades de utilização e limitações.
 
-## O que você encontrará aqui
+### Monitoramento
 
-O conteúdo está organizado em três áreas principais:
-
-## Bases de Dados
-
-O monitoramento estratégico utiliza diferentes bases de dados de forma integrada, permitindo relacionar informações sobre estrutura, planejamento, execução, responsabilidades, demandas e resultados das unidades.
-
-A integração dessas bases com as informações disponíveis na seção Referências e Apoio possibilita o cruzamento de dados e uma visão consolidada das unidades, apoiando o acompanhamento e a tomada de decisão.
-  
-### Monitoramento Estratégico
-
-Apresenta a metodologia e o objetivo do planejamento estratégico, consolida o acesso às base de dados e disponibiliza materiais de apoio e outras informações relevantes.
-
+Apresenta a metodologia e as orientações para utilização das informações no monitoramento, considerando análises individuais ou integradas entre diferentes fontes.
 
 ---
 
+**Em elaboração**
 **Última atualização: xx/xx/2026**
