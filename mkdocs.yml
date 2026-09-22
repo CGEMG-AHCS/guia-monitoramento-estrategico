@@ -33,12 +33,8 @@ nav:
       - RACI: bases-dados/raci.md
       - Manifestações: bases-dados/manifestacoes.md
       - e-CGU: bases-dados/e-cgu.md
+      - SisPMPI: bases-dados/sispmpi.md
+      - SISCOGE: bases-dados/siscoge.md
 
   - Monitoramento Estratégico:
-      - Metodologia: monitoramento/metodologia.md
-      - Estrutura da Unidade: monitoramento/estrutura-rh.md
-      - PACI: monitoramento/paci.md
-      - RACI: monitoramento/raci.md
-      - Manifestações: monitoramento/manifestacoes.md
-      - E-CGU: monitoramento/sistema-e-cgu.md
-      - Utilização Integrada das Bases de Dados: monitoramento/analises-integradas.md 
+      - Metodologia: monitoramento/metodologia.md  
