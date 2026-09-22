@@ -27,7 +27,7 @@ O Monitoramento Estratégico das Cset/Csec tem como objetivo:
 - **Raci:** ;
 - **Manifestações:** **em construção**;
 - **SISCOGE:** **em construção**;
-- **SisPMPI**: **em construção**.
+- **Portal da PMPI**: 📊 [Painel Indicadores da PMPI](https://app.powerbi.com/view?r=eyJrIjoiZDA4ZDUyOGMtNGY0My00ZGNiLTkzOTYtY2RiMDZhNDIxZjMwIiwidCI6ImU1ZDNhZTdjLTliMzgtNDhkZS1hMDg3LWY2NzM0YTI4NzU3NCJ9).
 
 ---
 
