@@ -8,9 +8,10 @@ Tem como objetivo apoiar a produção de informações gerenciais sobre a **estr
 
 ## Por que este guia foi criado?
 
-O monitoramento estratégico envolve diferentes fontes de informação, procedimentos de análise e recursos utilizados na execução dos trabalhos. A organização desses elementos em um único ambiente facilita o acesso às informações, favorece a padronização e contribui para maior consistência e rastreabilidade das análises.
+O monitoramento estratégico envolve diferentes fontes de informação, procedimentos de análise, orientações e materiais de apoio. A organização desses elementos em um único ambiente facilita o acesso às informações, favorece a padronização e contribui para maior consistência e rastreabilidade das análises.
 
 ---
 
 **Em elaboração**
-**Última atualização: xx/xx/2026**
+
+**Última atualização: 22/09/2026**
