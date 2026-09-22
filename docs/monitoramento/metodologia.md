@@ -13,9 +13,9 @@ A metodologia integra diferentes fontes institucionais para produzir informaçõ
 Tem como objetivo:
 
 - apoiar a tomada de decisões;
-- melhor compreensão da estrutura de trabalho e da forma de atuação;
+- auxiliar na melhor compreensão da estrutura de trabalho e da forma de atuação das Controladorias;
 - fortalecer o relacionamento institucional entre o Órgão Central e as unidades descentralizadas;
-- promover melhor alinhamento entre as demandas do Órgão Central e das Cset/Csec;
+- promover melhor alinhamento institucional entre as demandas do Órgão Central e das Cset/Csec;
 - obter visão sistêmica da atuação das Controladorias Setoriais e Seccionais. 
 
 ---
