@@ -44,11 +44,8 @@ O painel permite a consulta das informações de forma individualizada ou consol
 
 ## Onde Localizar
 
-📊 INSERIR_LINK
+📊 [Painel Estrutura das Unidades](https://app.powerbi.com/view?r=eyJrIjoiNWJiY2Q1MDEtOWY4MC00MDljLWJlNWQtNmFmMTExZmFmZDMzIiwidCI6ImU1ZDNhZTdjLTliMzgtNDhkZS1hMDg3LWY2NzM0YTI4NzU3NCJ9)
 
-📊 INSERIR_LINK
-
-> O acesso aos arquivos depende das permissões atribuídas no ambiente Microsoft 365.
 
 ## Aplicações no Monitoramento Estratégico
 
