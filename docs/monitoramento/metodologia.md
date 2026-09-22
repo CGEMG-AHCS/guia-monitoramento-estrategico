@@ -79,7 +79,7 @@ Resulta da análise conjunta de evidências relacionadas aos **recursos disponí
 
 ## Fontes de Informação
 
-- **Estrutura das Unidades:** ;
+- **Estrutura das Unidades:** 📊 [Painel Estrutura das Unidades](https://app.powerbi.com/view?r=eyJrIjoiNWJiY2Q1MDEtOWY4MC00MDljLWJlNWQtNmFmMTExZmFmZDMzIiwidCI6ImU1ZDNhZTdjLTliMzgtNDhkZS1hMDg3LWY2NzM0YTI4NzU3NCJ9);
 - **Paci:** ;
 - **Raci:** ;
 - **Painel Quem é Quem, Prazos de permanência, Cargos e Pontos Focais**: 📊 [Painel AHCS - Guia de Boas Vindas](https://app.powerbi.com/view?r=eyJrIjoiNTZiODg5ZmYtYWYyYi00Mjk1LWJmYzAtMDVmZWU0NjMzNzMwIiwidCI6ImU1ZDNhZTdjLTliMzgtNDhkZS1hMDg3LWY2NzM0YTI4NzU3NCJ9);
