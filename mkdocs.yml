@@ -29,12 +29,11 @@ nav:
   - Bases de Dados:
       - Visão Geral: bases-dados/index.md
       - Estrutura da Unidade: bases-dados/estrutura-rh.md
-      - PACI: bases-dados/paci.md
-      - RACI: bases-dados/raci.md
+      - Paci: bases-dados/paci.md
+      - Raci: bases-dados/raci.md
       - Manifestações: bases-dados/manifestacoes.md
       - e-CGU: bases-dados/e-cgu.md
       - SisPMPI: bases-dados/sispmpi.md
       - SISCOGE: bases-dados/siscoge.md
 
-  - Monitoramento Estratégico:
-      - Metodologia: monitoramento/metodologia.md  
+  - Monitoramento Estratégico: monitoramento/metodologia.md
