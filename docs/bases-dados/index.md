@@ -24,7 +24,7 @@ A integração permite complementar informações, confrontar registros e constr
 
 **Os critérios e as possibilidades de relacionamento entre as diferentes fontes são apresentados na seção de Monitoramento Estratégico, em Utilização Integrada das Bases de Dados.** **em construção**
 
-## Cuidados na utilização
+## Pontos de atenção
 
 A utilização das bases deve considerar as características e limitações de cada fonte de informação.
 
