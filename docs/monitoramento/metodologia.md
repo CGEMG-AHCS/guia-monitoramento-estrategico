@@ -1,4 +1,4 @@
-# Metodologia de Monitoramento Estratégico
+# Monitoramento Estratégico
 
 ## Apresentação
 
