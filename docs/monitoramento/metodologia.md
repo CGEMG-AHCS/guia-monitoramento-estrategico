@@ -2,14 +2,9 @@
 
 ## Apresentação
 
-O **Monitoramento Estratégico**, realizado pela **Assessoria de Harmonização das Controladorias Setoriais e Seccionais (AHCS)**, é um processo sistemático de **coleta, tratamento, integração, análise e comunicação de informações** sobre as Controladorias Setoriais e Seccionais.
+O Monitoramento Estratégico realizado pela AHCS é um processo sistemático de coleta, tratamento, integração, análise e comunicação de informações sobre as Controladorias Setoriais e Seccionais.
 
-A metodologia integra diferentes fontes institucionais para produzir **informações gerenciais** sobre estrutura, força de trabalho, responsabilidades, planejamento, execução, demandas e capacidade operacional das unidades.
-
-O monitoramento busca identificar **padrões, diferenças, riscos, fragilidades e oportunidades de melhoria**, subsidiando a gestão da **Controladoria-Geral do Estado de Minas Gerais (CGE-MG)** e contribuindo para o fortalecimento do Sistema de Controle Interno.
-
-!!! info "Metodologia evolutiva"
-    Novas fontes, indicadores, critérios e necessidades informacionais podem ser incorporados à metodologia à medida que o monitoramento seja desenvolvido e aperfeiçoado.
+A metodologia integra diferentes fontes institucionais para produzir informações gerenciais sobre estrutura, força de trabalho, planejamento, execução e demandas das unidades.
 
 ---
 
@@ -25,8 +20,6 @@ O Monitoramento Estratégico tem como objetivo produzir informações gerenciais
 - a identificação de diferenças, riscos e fragilidades;
 - a identificação de oportunidades de melhoria; e
 - o aperfeiçoamento da gestão.
-
-O propósito não é apenas produzir dados ou indicadores, mas **relacionar evidências para compreender a realidade das unidades e apoiar a gestão**.
 
 ---
 
@@ -86,18 +79,15 @@ Resulta da análise conjunta de evidências relacionadas aos **recursos disponí
 
 ## Fontes de Informação
 
-O Monitoramento Estratégico utiliza diferentes fontes institucionais:
-
-- **Estrutura e RH:** estrutura organizacional e força de trabalho;
-- **Plano Anual de Controle Interno (PACI):** planejamento e acompanhamento das atividades;
-- **Matriz RACI:** distribuição de responsabilidades;
-- **Manifestações:** demandas recebidas pelas unidades;
-- **Sistema de Auditoria e-CGU:** trabalhos e atividades registrados no sistema.
-
-Outras fontes podem ser incorporadas conforme as necessidades do monitoramento.
-
-!!! tip "Bases de Dados"
-    A estrutura, os campos, os critérios de tratamento, as possibilidades de análise e as limitações de cada fonte são apresentados na seção **Bases de Dados** deste guia.
+- **Estrutura das Unidades:** ;
+- **Paci:** ;
+- **Raci:** ;
+- **Painel Quem é Quem, Prazos de permanência, Cargos e Pontos Focais**: 📊 [Painel AHCS - Guia de Boas Vindas](https://app.powerbi.com/view?r=eyJrIjoiNTZiODg5ZmYtYWYyYi00Mjk1LWJmYzAtMDVmZWU0NjMzNzMwIiwidCI6ImU1ZDNhZTdjLTliMzgtNDhkZS1hMDg3LWY2NzM0YTI4NzU3NCJ9);
+- **Manifestações:** **em construção**;
+- **SISCOGE:** **em construção**;
+- **SisPMPI**: **em construção**;
+- **Avaliação de desempenho**: **em construção**;
+- **Notícias na Mídia**: **em construção**;
 
 ---
 
@@ -174,82 +164,3 @@ Apresentação dos resultados em produtos como painéis, relatórios gerenciais,
 A comunicação deve priorizar **clareza, objetividade, contextualização, rastreabilidade e explicitação das limitações relevantes**.
 
 ---
-
-## Integração das Informações
-
-Uma análise pode utilizar uma única fonte ou combinar diferentes bases, conforme a pergunta formulada.
-
-A integração pode permitir análises como:
-
-- **força de trabalho × responsabilidades**;
-- **estrutura × planejamento**;
-- **responsabilidades × execução**;
-- **demandas × capacidade operacional**;
-- **planejamento × execução**; e
-- **estrutura × volume de atividades**.
-
-Antes da integração, devem ser avaliados:
-
-- unidade de análise;
-- período de referência;
-- granularidade;
-- conceitos e classificações;
-- critérios de inclusão e exclusão;
-- correspondência entre unidades; e
-- qualidade e disponibilidade das informações.
-
-!!! info "Utilização integrada das bases"
-    A integração deve decorrer da **pergunta de análise** e da existência de compatibilidade suficiente entre as fontes. Os critérios e exemplos de relacionamento são apresentados na página **Utilização Integrada das Bases**.
-
----
-
-## Princípios de Interpretação
-
-A interpretação dos resultados deve observar os seguintes princípios:
-
-1. **Indicadores exigem contexto.** Resultados isolados podem não representar adequadamente a realidade da unidade.
-2. **Diferença não significa desempenho.** Variações entre unidades não representam, por si só, situações positivas ou negativas.
-3. **Associação não significa causalidade.** Relações entre variáveis não demonstram necessariamente causa e efeito.
-4. **Ausência de registro não significa ausência de atividade.** Devem ser consideradas a cobertura e as limitações de cada fonte.
-5. **Comparações exigem compatibilidade.** As informações comparadas devem possuir compatibilidade conceitual, temporal e metodológica.
-6. **As limitações das fontes devem ser consideradas.** Problemas de preenchimento, cobertura, atualização ou granularidade podem afetar os resultados.
-7. **A capacidade operacional exige múltiplas evidências.** Sempre que possível, sua análise deve combinar estrutura, força de trabalho, responsabilidades, demandas, planejamento e execução.
-
-!!! warning "Interpretação dos resultados"
-    O Monitoramento Estratégico deve fornecer elementos para **compreensão, acompanhamento e tomada de decisão**, evitando conclusões que ultrapassem as evidências disponíveis.
-
----
-
-## Fluxo Geral
-
-```mermaid
-flowchart TD
-    A["Pergunta de análise"]
-    B["Definição das evidências"]
-    C["Unidade de análise e período"]
-    D["Seleção das fontes"]
-    E["Coleta"]
-    F["Tratamento"]
-    G["Integração, quando necessária"]
-    H["Análise"]
-    I["Comunicação"]
-    J["Tomada de decisão"]
-    K["Riscos, fragilidades e oportunidades"]
-    L["Aperfeiçoamento"]
-    M["Novas perguntas"]
-
-    A --> B
-    B --> C
-    C --> D
-    D --> E
-    E --> F
-    F --> G
-    G --> H
-    H --> I
-    I --> J
-    J --> K
-    K --> L
-    L --> M
-    M --> A
-```
-``
