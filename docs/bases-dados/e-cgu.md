@@ -61,7 +61,9 @@ A composição da base utilizada será detalhada à medida que os mecanismos de 
 
 ## Onde Localizar
 
-🌐 https://ecgu.cgu.gov.br/
+🌐 [Acesso ao sistema](https://ecgu.cgu.gov.br/)
+
+🎓 [Acesso ao ambiente de treinamento](https://eaud-t.cgu.gov.br/);
 
 
 > O acesso ao sistema e às informações depende dos perfis e permissões atribuídos aos usuários.
