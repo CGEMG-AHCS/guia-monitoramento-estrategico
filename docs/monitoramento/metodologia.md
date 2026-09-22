@@ -10,7 +10,7 @@ A metodologia integra diferentes fontes institucionais para produzir informaçõ
 
 ## Objetivo
 
-O Monitoramento Estratégico das Cset/Csec tem como objetivo:
+Tem como objetivo:
 
 - apoiar a tomada de decisões;
 - melhor compreensão da estrutura de trabalho e da forma de atuação;
