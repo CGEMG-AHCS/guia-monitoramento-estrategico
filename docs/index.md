@@ -14,4 +14,4 @@ O monitoramento estratégico envolve diferentes fontes de informação, procedim
 
 **Em elaboração**
 
-**Última atualização: 22/09/2026**
+**Última atualização: 23/09/2026**
