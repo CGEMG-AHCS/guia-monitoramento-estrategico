@@ -34,6 +34,10 @@ O Monitoramento Estratégico tem como objetivo:
 
 ## Materiais de Apoio
 
+### Roteiro de Entrevista
+
+📁 **Em construção**
+
 ### Guia Rápido e-Cgu
 
 **Em construção**
@@ -46,20 +50,19 @@ O Monitoramento Estratégico tem como objetivo:
 
 📁 **Em construção**
 
-### Roteiro de Entrevista
+### Participação nas Trilhas de Desenvolvimento
 
 📁 **Em construção**
 
----
+### Modelo de Maturidade de Controle Interno (MUCCI)
 
-## Informações Relevantes
+🌐 [MUCCI](https://conaci.org.br/mucci/)
 
 ### Notícias na Mídia
 
 **Em construção**
 
-
-### Principais Trabalhos
+### Divulgação dos Principais Trabalhos
 
 **Em construção**
 
