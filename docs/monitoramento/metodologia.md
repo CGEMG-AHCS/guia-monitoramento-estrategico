@@ -10,10 +10,16 @@ A metodologia integra diferentes fontes institucionais para produzir informaçõ
 
 ## Objetivo
 
-O Monitoramento Estratégico tem como objetivo:
+O Monitoramento Estratégico orienta-se pela integração, visão sistêmica, diálogo e foco no cidadão:
+
+- **Integração:** conectar o Órgão Central e as Controladorias Setoriais e Seccionais em torno de objetivos comuns;
+- **Visão sistêmica:** compreender a atuação das unidades de forma integrada, favorecendo a colaboração;
+- **Diálogo:** aproximar o Órgão Central das unidades, promovendo a escuta e a construção conjunta de soluções;
+- **Foco no cidadão:** orientar a atuação para a geração de valor para a sociedade.
+
+Nesse contexto, busca:
 
 - apoiar a tomada de decisão;
-- proporcionar visão sistêmica da atuação das Controladorias Setoriais e Seccionais;
 - ampliar a compreensão sobre a estrutura e a forma de atuação das unidades;
 - identificar aspectos que demandem acompanhamento ou atuação do Órgão Central;
 - fortalecer o relacionamento e o alinhamento institucional entre o Órgão Central e as Cset/Csec.
@@ -53,6 +59,10 @@ O Monitoramento Estratégico tem como objetivo:
 ### Participação nas Trilhas de Desenvolvimento
 
 📁 **Em construção**
+
+### Programa Quali-Auge
+
+🌐 **Em construção**
 
 ### Modelo de Maturidade de Controle Interno (MUCCI)
 
