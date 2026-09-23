@@ -1,4 +1,4 @@
-# Monitoramento Estratégico
+<img width="1046" height="703" alt="image" src="https://github.com/user-attachments/assets/ab52f602-732f-411b-a92a-22e8eb9df8a5" /># Monitoramento Estratégico
 
 ## Apresentação
 
@@ -32,14 +32,19 @@ Nesse contexto, busca:
 
 📁 **Em construção**
 
+<br>
+
 **Controladorias Setoriais e Seccionais**
 
-📊 [Cset/Csec]();
+📊 [Cset/Csec]()
+
+<br>
 
 **Estrutura das Controladorias Setoriais e Seccionais**
 
-📊 [Estrutura das Cset/Csec](https://app.powerbi.com/view?r=eyJrIjoiNWJiY2Q1MDEtOWY4MC00MDljLWJlNWQtNmFmMTExZmFmZDMzIiwidCI6ImU1ZDNhZTdjLTliMzgtNDhkZS1hMDg3LWY2NzM0YTI4NzU3NCJ9);
+📊 [Estrutura das Cset/Csec](https://app.powerbi.com/view?r=eyJrIjoiNWJiY2Q1MDEtOWY4MC00MDljLWJlNWQtNmFmMTExZmFmZDMzIiwidCI6ImU1ZDNhZTdjLTliMzgtNDhkZS1hMDg3LWY2NzM0YTI4NzU3NCJ9)
 
+<br>
 
 **Plano de Atividades de Controle Interno (Paci)**
 
@@ -48,6 +53,7 @@ Nesse contexto, busca:
 **Relatório de Atividades de Controle Interno (Raci)**
 
 
+<br>
 
 **e-CGU**
 
@@ -55,10 +61,21 @@ Nesse contexto, busca:
 
 🌐 [Acesso ao sistema](https://ecgu.cgu.gov.br/) 
 
-🎓 [Acesso ao ambiente de treinamento](https://eaud-t.cgu.gov.br/);
-**Manifestações:** **em construção**;
-**SISCOGE:** **em construção**;
-**Portal da PMPI**: 📊 [Indicadores da PMPI](https://app.powerbi.com/view?r=eyJrIjoiZDA4ZDUyOGMtNGY0My00ZGNiLTkzOTYtY2RiMDZhNDIxZjMwIiwidCI6ImU1ZDNhZTdjLTliMzgtNDhkZS1hMDg3LWY2NzM0YTI4NzU3NCJ9).
+🎓 [Acesso ao ambiente de treinamento](https://eaud-t.cgu.gov.br/)
+
+
+**Manifestações:** **em construção**
+
+
+<br>
+
+
+**SISCOGE:** **em construção**
+
+
+<br>
+
+**Portal da PMPI**: 📊 [Indicadores da PMPI](https://app.powerbi.com/view?r=eyJrIjoiZDA4ZDUyOGMtNGY0My00ZGNiLTkzOTYtY2RiMDZhNDIxZjMwIiwidCI6ImU1ZDNhZTdjLTliMzgtNDhkZS1hMDg3LWY2NzM0YTI4NzU3NCJ9)
 
 
 ### Painéis AHCS - Quem é Quem, Prazos de permanência, Cargos e Pontos Focais
