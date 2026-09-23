@@ -38,6 +38,12 @@ Nesse contexto, busca:
 
 <br>
 
+**Painéis AHCS - Quem é Quem, Prazos de permanência, Cargos e Pontos Focais**
+
+📊 [Painel AHCS - Guia de Boas Vindas](https://app.powerbi.com/view?r=eyJrIjoiNTZiODg5ZmYtYWYyYi00Mjk1LWJmYzAtMDVmZWU0NjMzNzMwIiwidCI6ImU1ZDNhZTdjLTliMzgtNDhkZS1hMDg3LWY2NzM0YTI4NzU3NCJ9)
+
+<br>
+
 **Estrutura das Controladorias Setoriais e Seccionais**
 
 📊 [Estrutura das Cset/Csec](https://app.powerbi.com/view?r=eyJrIjoiNWJiY2Q1MDEtOWY4MC00MDljLWJlNWQtNmFmMTExZmFmZDMzIiwidCI6ImU1ZDNhZTdjLTliMzgtNDhkZS1hMDg3LWY2NzM0YTI4NzU3NCJ9)
@@ -81,12 +87,6 @@ Nesse contexto, busca:
 **Portal da PMPI**
 
 📊 [Indicadores da PMPI](https://app.powerbi.com/view?r=eyJrIjoiZDA4ZDUyOGMtNGY0My00ZGNiLTkzOTYtY2RiMDZhNDIxZjMwIiwidCI6ImU1ZDNhZTdjLTliMzgtNDhkZS1hMDg3LWY2NzM0YTI4NzU3NCJ9)
-
-<br>
-
-**Painéis AHCS - Quem é Quem, Prazos de permanência, Cargos e Pontos Focais**
-
-📊 [Painel AHCS - Guia de Boas Vindas](https://app.powerbi.com/view?r=eyJrIjoiNTZiODg5ZmYtYWYyYi00Mjk1LWJmYzAtMDVmZWU0NjMzNzMwIiwidCI6ImU1ZDNhZTdjLTliMzgtNDhkZS1hMDg3LWY2NzM0YTI4NzU3NCJ9)
 
 <br>
 
