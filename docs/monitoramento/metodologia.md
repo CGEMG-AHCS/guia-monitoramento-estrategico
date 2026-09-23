@@ -26,27 +26,40 @@ Nesse contexto, busca:
 
 ---
 
-## Bases de Dados
-
-- **Estrutura das Unidades:** 📊 [Estrutura das Unidades](https://app.powerbi.com/view?r=eyJrIjoiNWJiY2Q1MDEtOWY4MC00MDljLWJlNWQtNmFmMTExZmFmZDMzIiwidCI6ImU1ZDNhZTdjLTliMzgtNDhkZS1hMDg3LWY2NzM0YTI4NzU3NCJ9);
-- **Paci:** ;
-- **Raci:** ;
-- **e-CGU:** 🌐 [Acesso ao sistema](https://ecgu.cgu.gov.br/) | 🎓 [Acesso ao ambiente de treinamento](https://eaud-t.cgu.gov.br/);
-- **Manifestações:** **em construção**;
-- **SISCOGE:** **em construção**;
-- **Portal da PMPI**: 📊 [Indicadores da PMPI](https://app.powerbi.com/view?r=eyJrIjoiZDA4ZDUyOGMtNGY0My00ZGNiLTkzOTYtY2RiMDZhNDIxZjMwIiwidCI6ImU1ZDNhZTdjLTliMzgtNDhkZS1hMDg3LWY2NzM0YTI4NzU3NCJ9).
-
----
-
-## Materiais de Apoio
+## Materiais de Apoio / Sistemas
 
 ### Roteiro de Entrevista
 
 📁 **Em construção**
 
-### Guia Rápido e-Cgu
+### Controladorias Setoriais e Seccionais
 
-**Em construção**
+📊 [Cset/Csec]();
+
+### Estrutura das Controladorias Setoriais e Seccionais
+
+📊 [Estrutura das Cset/Csec](https://app.powerbi.com/view?r=eyJrIjoiNWJiY2Q1MDEtOWY4MC00MDljLWJlNWQtNmFmMTExZmFmZDMzIiwidCI6ImU1ZDNhZTdjLTliMzgtNDhkZS1hMDg3LWY2NzM0YTI4NzU3NCJ9);
+
+
+### Plano de Atividades de Controle Interno (Paci)
+
+
+
+### Relatório de Atividades de Controle Interno (Raci)
+
+
+
+### e-CGU
+
+📁 Guia Rápido - **Em construção**
+
+🌐 [Acesso ao sistema](https://ecgu.cgu.gov.br/) 
+
+🎓 [Acesso ao ambiente de treinamento](https://eaud-t.cgu.gov.br/);
+**Manifestações:** **em construção**;
+**SISCOGE:** **em construção**;
+**Portal da PMPI**: 📊 [Indicadores da PMPI](https://app.powerbi.com/view?r=eyJrIjoiZDA4ZDUyOGMtNGY0My00ZGNiLTkzOTYtY2RiMDZhNDIxZjMwIiwidCI6ImU1ZDNhZTdjLTliMzgtNDhkZS1hMDg3LWY2NzM0YTI4NzU3NCJ9).
+
 
 ### Painéis AHCS - Quem é Quem, Prazos de permanência, Cargos e Pontos Focais
 
