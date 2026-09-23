@@ -108,7 +108,7 @@ Nesse contexto, busca:
 
 <br>
 
-**Modelo de Maturidade de Controle Interno (MUCCI)**
+**Modelo de Maturidade das Unidades Centrais de Controle Interno (MUCCI)**
 
 🌐 [MUCCI](https://conaci.org.br/mucci/)
 
