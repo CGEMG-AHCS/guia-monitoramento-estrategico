@@ -2,7 +2,7 @@
 
 ## Apresentação
 
-O Monitoramento Estratégico realizado pela AHCS é um processo sistemático de coleta, tratamento, integração, análise e comunicação de informações sobre as Controladorias Setoriais e Seccionais.
+O Monitoramento Estratégico realizado pela AHCS é um processo sistemático de coleta, tratamento, análise e comunicação de informações sobre as Controladorias Setoriais e Seccionais.
 
 A metodologia integra diferentes fontes institucionais para produzir informações gerenciais sobre estrutura, força de trabalho, planejamento, execução e demandas das unidades.
 
@@ -10,13 +10,13 @@ A metodologia integra diferentes fontes institucionais para produzir informaçõ
 
 ## Objetivo
 
-Tem como objetivo:
+O Monitoramento Estratégico tem como objetivo:
 
-- apoiar a tomada de decisões;
-- auxiliar na melhor compreensão da estrutura de trabalho e da forma de atuação das Controladorias;
-- fortalecer o relacionamento institucional entre o Órgão Central e as unidades descentralizadas;
-- promover melhor alinhamento institucional entre as demandas do Órgão Central e das Cset/Csec;
-- obter visão sistêmica da atuação das Controladorias Setoriais e Seccionais. 
+- apoiar a tomada de decisão;
+- proporcionar visão sistêmica da atuação das Controladorias Setoriais e Seccionais;
+- ampliar a compreensão sobre a estrutura e a forma de atuação das unidades;
+- identificar aspectos que demandem acompanhamento ou atuação do Órgão Central;
+- fortalecer o relacionamento e o alinhamento institucional entre o Órgão Central e as Cset/Csec.
 
 ---
 
