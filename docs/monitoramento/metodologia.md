@@ -86,7 +86,7 @@ Nesse contexto, busca:
 
 **Portal da PMPI**
 
-📊 [Indicadores da PMPI](https://app.powerbi.com/view?r=eyJrIjoiZDA4ZDUyOGMtNGY0My00ZGNiLTkzOTYtY2RiMDZhNDIxZjMwIiwidCI6ImU1ZDNhZTdjLTliMzgtNDhkZS1hMDg3LWY2NzM0YTI4NzU3NCJ9)
+📊 [Indicadores da PMPI (Painel Suti)](https://app.powerbi.com/view?r=eyJrIjoiZDA4ZDUyOGMtNGY0My00ZGNiLTkzOTYtY2RiMDZhNDIxZjMwIiwidCI6ImU1ZDNhZTdjLTliMzgtNDhkZS1hMDg3LWY2NzM0YTI4NzU3NCJ9)
 
 <br>
 
