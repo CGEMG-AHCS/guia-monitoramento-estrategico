@@ -34,7 +34,7 @@ Nesse contexto, busca:
 
 **Controladorias Setoriais e Seccionais**
 
-📊 [Cset/Csec]()
+📊 [Cset/Csec](https://app.powerbi.com/view?r=eyJrIjoiZjQxNDEzZTEtOTI5MS00YWM2LWFiNjctNjk4MTlmZDYwZDQ5IiwidCI6ImU1ZDNhZTdjLTliMzgtNDhkZS1hMDg3LWY2NzM0YTI4NzU3NCJ9)
 
 <br>
 
@@ -52,13 +52,13 @@ Nesse contexto, busca:
 
 **Plano de Atividades de Controle Interno (Paci)**
 
-📊 [Paci]()
+📊 [Paci](https://app.powerbi.com/view?r=eyJrIjoiNDYzZTNjNDktMGJkZC00NjVlLWE1ZGUtOTcxM2Q4MzA1MDkzIiwidCI6ImU1ZDNhZTdjLTliMzgtNDhkZS1hMDg3LWY2NzM0YTI4NzU3NCJ9)
 
 <br>
 
 **Relatório de Atividades de Controle Interno (Raci)**
 
-📊 [Raci]()
+📊 [Raci](https://app.powerbi.com/view?r=eyJrIjoiYmQwNzYwNjAtODk3NS00N2RiLWEzYzgtZGRhNzQ0MWNhYzAxIiwidCI6ImU1ZDNhZTdjLTliMzgtNDhkZS1hMDg3LWY2NzM0YTI4NzU3NCJ9)
 
 <br>
 
