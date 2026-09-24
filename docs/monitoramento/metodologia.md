@@ -46,19 +46,19 @@ Nesse contexto, busca:
 
 **Estrutura das Controladorias Setoriais e Seccionais**
 
-📊 [Estrutura das Cset/Csec](https://app.powerbi.com/view?r=eyJrIjoiNWJiY2Q1MDEtOWY4MC00MDljLWJlNWQtNmFmMTExZmFmZDMzIiwidCI6ImU1ZDNhZTdjLTliMzgtNDhkZS1hMDg3LWY2NzM0YTI4NzU3NCJ9)
+📊 [Estrutura das Cset/Csec - 2025](https://app.powerbi.com/view?r=eyJrIjoiNWJiY2Q1MDEtOWY4MC00MDljLWJlNWQtNmFmMTExZmFmZDMzIiwidCI6ImU1ZDNhZTdjLTliMzgtNDhkZS1hMDg3LWY2NzM0YTI4NzU3NCJ9)
 
 <br>
 
 **Plano de Atividades de Controle Interno (Paci)**
 
-📊 [Paci](https://app.powerbi.com/view?r=eyJrIjoiNDYzZTNjNDktMGJkZC00NjVlLWE1ZGUtOTcxM2Q4MzA1MDkzIiwidCI6ImU1ZDNhZTdjLTliMzgtNDhkZS1hMDg3LWY2NzM0YTI4NzU3NCJ9)
+📊 [Paci/2026](https://app.powerbi.com/view?r=eyJrIjoiNDYzZTNjNDktMGJkZC00NjVlLWE1ZGUtOTcxM2Q4MzA1MDkzIiwidCI6ImU1ZDNhZTdjLTliMzgtNDhkZS1hMDg3LWY2NzM0YTI4NzU3NCJ9)
 
 <br>
 
 **Relatório de Atividades de Controle Interno (Raci)**
 
-📊 [Raci](https://app.powerbi.com/view?r=eyJrIjoiYmQwNzYwNjAtODk3NS00N2RiLWEzYzgtZGRhNzQ0MWNhYzAxIiwidCI6ImU1ZDNhZTdjLTliMzgtNDhkZS1hMDg3LWY2NzM0YTI4NzU3NCJ9)
+📊 [Raci/2025](https://app.powerbi.com/view?r=eyJrIjoiYmQwNzYwNjAtODk3NS00N2RiLWEzYzgtZGRhNzQ0MWNhYzAxIiwidCI6ImU1ZDNhZTdjLTliMzgtNDhkZS1hMDg3LWY2NzM0YTI4NzU3NCJ9)
 
 <br>
 
