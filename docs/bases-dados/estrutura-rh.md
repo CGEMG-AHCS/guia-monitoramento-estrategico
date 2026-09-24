@@ -44,7 +44,9 @@ O painel permite a consulta das informações de forma individualizada ou consol
 
 ## Onde Localizar
 
-📊 [Painel Estrutura das Unidades](https://app.powerbi.com/view?r=eyJrIjoiNWJiY2Q1MDEtOWY4MC00MDljLWJlNWQtNmFmMTExZmFmZDMzIiwidCI6ImU1ZDNhZTdjLTliMzgtNDhkZS1hMDg3LWY2NzM0YTI4NzU3NCJ9)
+📊 [Painel Cset/Csec](https://app.powerbi.com/view?r=eyJrIjoiZjQxNDEzZTEtOTI5MS00YWM2LWFiNjctNjk4MTlmZDYwZDQ5IiwidCI6ImU1ZDNhZTdjLTliMzgtNDhkZS1hMDg3LWY2NzM0YTI4NzU3NCJ9)
+
+📊 [Painel Estrutura das Cset/Csec](https://app.powerbi.com/view?r=eyJrIjoiNWJiY2Q1MDEtOWY4MC00MDljLWJlNWQtNmFmMTExZmFmZDMzIiwidCI6ImU1ZDNhZTdjLTliMzgtNDhkZS1hMDg3LWY2NzM0YTI4NzU3NCJ9)
 
 
 ## Aplicações no Monitoramento Estratégico
