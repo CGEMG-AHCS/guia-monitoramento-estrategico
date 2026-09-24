@@ -51,9 +51,9 @@ O painel permite a consulta das informações de forma individualizada ou consol
 
 Raci individuais → SEI → Acompanhamento Especial → Raci
 
-📊 INSERIR_LINK
+📁 [Planilha consolidada dos Raci 2025](https://cecad365.sharepoint.com/:x:/r/sites/HarmonizaoCGE/Documentos%20Compartilhados/General/2%20-%20Monitorar%20Atividades%20Cset-Csec%20Execu%C3%A7%C3%A3o%20PACI/2.5.2%20-%20Apura%C3%A7%C3%A3o%20Indicador%20Programa%20004%20do%20PPAG/2025/Indicador%20Programa%20004/01%20Consolida%C3%A7%C3%A3o%20Raci%202025%20-%20geral_Painel.xlsx?d=wf00640d539f4423eb068697a5620b5cb&csf=1&web=1&e=cIaI7b)
 
-📊 INSERIR_LINK
+[Painel Raci 2025](https://app.powerbi.com/view?r=eyJrIjoiYmQwNzYwNjAtODk3NS00N2RiLWEzYzgtZGRhNzQ0MWNhYzAxIiwidCI6ImU1ZDNhZTdjLTliMzgtNDhkZS1hMDg3LWY2NzM0YTI4NzU3NCJ9)
 
 > O acesso aos arquivos depende das permissões atribuídas no ambiente Microsoft 365.
 
