@@ -68,8 +68,6 @@ A composição da base utilizada será detalhada à medida que os mecanismos de 
 
 > O acesso ao sistema e às informações depende dos perfis e permissões atribuídos aos usuários.
 
-**As formas de acesso à base de dados utilizada pela AHCS serão incluídas nesta seção após a definição dos procedimentos de consulta ou extração.**
-
 ## Aplicações no Monitoramento Estratégico
 
 A base do e-CGU pode ser utilizada para:
