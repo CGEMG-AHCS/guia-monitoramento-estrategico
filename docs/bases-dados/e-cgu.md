@@ -16,7 +16,7 @@ A análise desses dados permite acompanhar os trabalhos registrados pelas unidad
 
 O e-CGU é desenvolvido e mantido pela Controladoria-Geral da União.
 
-As informações são registradas pelas unidades durante o desenvolvimento dos trabalhos. Para fins de Monitoramento Estratégico, a AHCS utilizará os dados obtidos do sistema como fonte para a elaboração de painéis e análises gerenciais, observadas as competências da Auditoria-Geral (Auge). **em construção**
+As informações são registradas pelas unidades durante o desenvolvimento dos trabalhos.
 
 ## Periodicidade de Atualização
 
@@ -24,40 +24,23 @@ Os registros do e-CGU são atualizados ao longo do desenvolvimento das atividade
 
 Para fins de monitoramento, deve ser considerada a data de consulta ou extração da base, uma vez que os registros podem ser modificados conforme a evolução dos trabalhos.
 
-A periodicidade de obtenção e atualização da base utilizada pela AHCS será estabelecida conforme as necessidades do Monitoramento Estratégico e as possibilidades de acesso aos dados. **em construção**
+**Em construção**
 
 ## Informações Disponíveis
 
-A definição dos campos efetivamente utilizados no Monitoramento Estratégico dependerá da estrutura disponibilizada para consulta ou extração dos dados. Entre as informações de interesse estão:
+O e-CGU reúne registros relacionados aos trabalhos desenvolvidos pelas Cset/Csec, abrangendo informações sobre seu planejamento, execução e acompanhamento.
 
-- Controladoria responsável;
-- Órgão ou entidade;
-- Trabalho ou atividade registrada;
-- Tipo e classificação do trabalho;
-- Situação e etapa de execução;
-- Período e datas relacionadas ao trabalho;
-- Equipe responsável;
-- Produtos emitidos;
-- Recomendações e respectivo acompanhamento;
-- Resultados e benefícios registrados.
+O sistema também dispõe do módulo **Plano Operacional**, no qual as unidades registram as ações previstas para execução ao longo do exercício, em conformidade com o Paci.
 
-Esta relação será revisada à medida que forem consolidados os procedimentos de acesso aos dados e identificados os campos disponíveis para utilização.
+O Plano Operacional pode ser ajustado durante o exercício, contemplando a inclusão de novas ações, decorrentes de demandas extraordinárias, e o cancelamento de ações inicialmente previstas.
+
+**Em construção**
 
 ## Composição da Base
 
-As informações são produzidas durante o desenvolvimento dos trabalhos registrados no e-CGU.
+A base é composta pelos registros efetuados pelas Cset/Csec no e-CGU, relacionados ao planejamento, à execução e ao acompanhamento dos trabalhos.
 
-Para o Monitoramento Estratégico, os dados poderão ser obtidos e consolidados pela AHCS para utilização em painéis.
-
-A composição da base utilizada será detalhada à medida que os mecanismos de obtenção dos dados forem definidos, incluindo aspectos como:
-
-- Plano Operacional;
-- estrutura dos dados disponíveis;
-- campos e identificadores;
-- trabalhos e subtarefas;
-- recomendações e benefícios;
-- formas de extração, inclusive por API;
-- periodicidade de atualização.
+**Em construção**
 
 ## Onde Localizar
 
