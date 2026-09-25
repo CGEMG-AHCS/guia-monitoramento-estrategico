@@ -46,7 +46,9 @@ A base é composta pelos registros efetuados pelas Cset/Csec no e-CGU, relaciona
 
 🌐 [Acesso ao sistema](https://ecgu.cgu.gov.br/)
 
-🎓 [Acesso ao ambiente de treinamento](https://eaud-t.cgu.gov.br/);
+🎓 [Acesso ao ambiente de treinamento](https://eaud-t.cgu.gov.br/)
+
+📊 [Painel]()
 
 
 > O acesso ao sistema e às informações depende dos perfis e permissões atribuídos aos usuários.
@@ -62,9 +64,8 @@ A base do e-CGU pode ser utilizada para:
 
 Ao utilizar a base do e-CGU, devem ser observadas as seguintes limitações:
 
-- A obtenção das informações para o Monitoramento Estratégico é realizada, atualmente, por meio de consultas e filtros no sistema;
-- O levantamento e a consolidação dos registros demandam tratamento manual das informações;
-- Os dados refletem a situação registrada no sistema no momento da consulta;
+- A obtenção das informações é realizada, atualmente, por meio de consultas e filtros no sistema, demandando muuito esforço;
+- - Os dados refletem a situação registrada no sistema no momento da consulta;
 - A qualidade e a confiabilidade das análises dependem da atualização, da completude e do adequado preenchimento dos registros pelas unidades;
 - Trabalhos em andamento podem apresentar informações parciais ou incompletas.
 
