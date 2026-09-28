@@ -76,28 +76,24 @@ Ao utilizar a base da Estrutura da Unidade, devem ser observadas as seguintes li
 
 ### Exemplo 1
 
-Identificar quais Controladorias Setoriais e Seccionais possuem maior e menor quantitativo de integrantes.
+Identificar a distribuição das Controladorias Setoriais e Seccionais por faixa de quantitativo de integrantes, permitindo visualizar a concentração de unidades com equipes reduzidas e aquelas que dispõem de estruturas de maior porte.
 
 ### Exemplo 2
 
-Comparar a composição das equipes entre diferentes unidades, considerando os diferentes perfis de atuação.
+Analisar a participação de profissionais dedicados às atividades de controle interno e de apoio administrativo.
 
 ### Exemplo 3
 
-Analisar a participação de profissionais dedicados às atividades de controle interno e de apoio administrativo.
+Analisar o perfil de experiência das equipes, considerando o tempo de atuação em atividades de controle interno e o tempo de permanência dos profissionais nas respectivas unidades.
 
 ### Exemplo 4
 
-Analisar a estrutura e a força de trabalho disponível como elementos para a compreensão da capacidade operacional e para a identificação de possíveis limitações estruturais das unidades.
+Analisar a distribuição dos integrantes de acordo com o vínculo com o Estado, permitindo identificar a participação de servidores ocupantes de cargo efetivo, recrutamento amplo, auditores internos, terceirizados e demais vínculos existentes nas equipes.
 
 ### Exemplo 5
 
-Comparar a estrutura de pessoal entre unidades de perfis semelhantes.
+Verificar a distribuição das funções desempenhadas pelos integrantes das Controladorias Setoriais e Seccionais, permitindo compreender como a força de trabalho está alocada entre atividades de auditoria, correição, transparência, apoio administrativo, coordenação e demais funções registradas na base.
 
 ### Exemplo 6
 
-Relacionar a estrutura disponível às responsabilidades e às atividades planejadas ou executadas, mediante integração com as demais bases do Monitoramento Estratégico.
-
-### Exemplo 7
-
-Produzir diagnósticos gerenciais sobre a estrutura das Controladorias Setoriais e Seccionais, identificando diferenças estruturais e necessidades de apoio ou fortalecimento das unidades.
+Analisar a ocorrência e os tipos de remuneração adicional informados pelos integrantes, possibilitando observar sua distribuição entre as Controladorias Setoriais e Seccionais.
