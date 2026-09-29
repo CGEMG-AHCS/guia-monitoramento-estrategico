@@ -10,7 +10,7 @@ Por meio do Raci, as unidades comparam o planejado com o executado, registrando 
 
 Para a AHCS, o Raci constitui uma importante fonte de informação sobre a atuação das Cset/Csec. A consolidação dos relatórios permite compreender como a capacidade de trabalho foi efetivamente utilizada pelas unidades, a execução das atividades previstas no planejamento e a ocorrência de demandas extraordinárias ao longo do exercício.
 
-As informações podem ser analisadas de forma individualizada, considerando a realidade de cada Controladoria, ou de forma consolidada, possibilitando uma visão abrangente da execução das atividades das unidades descentralizadas.
+As informações podem ser analisadas de forma individualizada, considerando a realidade de cada Controladoria, ou de forma consolidada, possibilitando uma visão abrangente da execução das atividades das unidades.
 
 ## Responsável pela Base de Dados
 
