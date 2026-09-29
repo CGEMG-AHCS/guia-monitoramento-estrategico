@@ -8,7 +8,7 @@ O sistema integra diferentes etapas do processo de auditoria, abrangendo o plane
 
 ## Finalidade
 
-Para a AHCS, os registros do e-CGU constituem importante fonte de informação sobre as atividades de auditoria desenvolvidas pelas Controladorias Setoriais e Seccionais, tendo em vista a obrigatoriedade de executar esses trabalhos no âmbito do sistema. O sistema também pode conter registros relacionados ao planejamento de atividades de outras funções de controle, conforme sua utilização pelas unidades.
+Para a AHCS, os registros do e-CGU constituem importante fonte de informação sobre ações de auditoria desenvolvidas pelas Controladorias Setoriais e Seccionais, tendo em vista a obrigatoriedade de executar esses trabalhos no âmbito dele. O sistema, todavia, pode conter registros de outras atividades não relacionados aos trabalhos de auditoria.
 
 A análise desses dados permite acompanhar os trabalhos registrados pelas unidades, sua execução e seus resultados, além de complementar as informações provenientes das demais bases utilizadas no Monitoramento Estratégico.
 
