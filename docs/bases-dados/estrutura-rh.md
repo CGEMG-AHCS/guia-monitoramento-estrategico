@@ -4,11 +4,11 @@
 
 A Estrutura da Unidade consiste na base de dados utilizada pela AHCS para consolidar informações relacionadas à composição das equipes das Controladorias Setoriais e Seccionais.
 
-A base reúne informações referentes aos agentes públicos em exercício nas unidades, seus vínculos, áreas de atuação e perfil funcional, permitindo uma visão estruturada dos recursos humanos disponíveis para o desenvolvimento das atividades de controle interno.
+A base reúne informações referentes aos agentes públicos em exercício nas unidades, seus vínculos e áreas de atuação, permitindo uma visão estruturada dos recursos humanos disponíveis para o desenvolvimento das atividades de controle interno.
 
 ## Finalidade
 
-Para a AHCS, a base de Estrutura da Unidade constitui uma importante fonte de informação sobre a estrutura e a força de trabalho das Controladorias Setoriais e Seccionais. A consolidação dessas informações permite compreender a composição das equipes, a disponibilidade de recursos humanos e outros aspectos que possam contribuir para a análise da capacidade operacional das unidades.
+Para a AHCS, a base da Estrutura da Unidade constitui uma importante fonte de informação sobre a estrutura e a força de trabalho das Controladorias Setoriais e Seccionais. A consolidação dessas informações permite compreender a composição das equipes, a disponibilidade de recursos humanos e outros aspectos que possam contribuir para a análise da capacidade operacional delas.
 
 As informações podem ser analisadas de forma individualizada, considerando a realidade de cada unidade, ou de forma consolidada, possibilitando uma visão abrangente da estrutura disponível nas Controladorias Setoriais e Seccionais.
 
@@ -20,27 +20,20 @@ A Assessoria de Harmonização é responsável pelo recebimento e pela consolida
 
 ## Periodicidade de Atualização
 
-A base é atualizada anualmente entre os meses de janeiro e fevereiro, sendo que a data base é dezembro.
+A base é atualizada anualmente entre os meses de janeiro e março, sendo que a data base é dezembro.
 
 ## Informações Disponíveis
 
-Entre as principais informações disponíveis destacam-se:
+As informações disponíveis são:
 
-- Controladoria Setorial ou Seccional;
-- Quantitativo total de integrantes da unidade;
-- Quantitativo de servidores;
-- Quantitativo de estagiários;
-- Quantitativo de terceirizados;
-- Quantitativo de profissionais de apoio administrativo;
-- Quantitativo de profissionais que atuam diretamente em atividades de controle interno;
-- Distribuição da força de trabalho por perfil de atuação;
-- Informações relacionadas à composição das equipes.
+- Total de unidades avaliadas;
+- Quantitativo da equipe por Cset/Csec;
+- Vínculo com o Estado;
+- Função desempenhada por atividade.
 
 ## Composição da Base
 
-As informações são obtidas por meio de levantamentos realizados junto às Controladorias Setoriais e Seccionais, consolidadas pela AHCS em uma base única e disponibilizadas para consulta por meio de painel desenvolvido em Power BI.
-
-O painel permite a consulta das informações de forma individualizada ou consolidada, por meio de filtros e diferentes visualizações.
+A base de dados da Estrutura das Unidades é composta por uma planilha com os dados consolidados de cada Cset/Csec e por um painel para visualização consolidada dessas informações.
 
 ## Onde Localizar
 
@@ -55,22 +48,17 @@ A base da Estrutura da Unidade pode ser utilizada para:
 
 - Compreender a composição das equipes das Controladorias Setoriais e Seccionais;
 - Identificar diferenças estruturais entre Controladorias;
-- Analisar a disponibilidade de recursos humanos;
-- Verificar a distribuição da força de trabalho;
+- Analisar a disponibilidade de recursos humanos por atividade desempenhada;
 - Apoiar análises sobre a capacidade operacional das unidades;
 - Subsidiar análises comparativas entre unidades.
 
-As informações podem ser exploradas em diferentes níveis de detalhamento, permitindo observar a composição e a distribuição da força de trabalho entre as unidades e seus diferentes perfis de atuação.
-
 ## Limitações
 
-Ao utilizar a base da Estrutura da Unidade, devem ser observadas as seguintes limitações:
+Ao utilizar a base de dados, devem ser consideradas as seguintes limitações:
 
-- As informações refletem a situação existente na data do levantamento realizado;
+- As informações refletem a situação existente na data-base do levantamento;
 - Alterações ocorridas após a consolidação da base podem não estar refletidas nas informações disponíveis;
-- A interpretação dos dados deve considerar as especificidades e o contexto de atuação de cada unidade;
-- Determinadas análises podem demandar a utilização complementar de outras bases de dados;
-- O painel consolidado não está disponível para consulta por meio de link de acesso direto, devendo ser acessado a partir do arquivo disponibilizado pela AHCS, em observância às restrições de compartilhamento e proteção das informações contidas na base.
+- Nem todos os dados coletados são disponibilizados no painel, em observância às restrições de compartilhamento e à proteção das informações contidas na base.
 
 ## Exemplos de Utilização
 
@@ -80,20 +68,12 @@ Identificar a distribuição das Controladorias Setoriais e Seccionais por faixa
 
 ### Exemplo 2
 
-Analisar a participação de profissionais dedicados às atividades de controle interno e de apoio administrativo.
+Verificar a distribuição das funções desempenhadas pelos integrantes das Controladorias Setoriais e Seccionais, permitindo compreender como a força de trabalho está alocada entre as diferentes atividades exercidas nas unidades.
 
 ### Exemplo 3
 
-Analisar o perfil de experiência das equipes, considerando o tempo de atuação em atividades de controle interno e o tempo de permanência dos profissionais nas respectivas unidades.
+Analisar a distribuição dos integrantes de acordo com o vínculo com o Estado, permitindo identificar a composição das equipes segundo os diferentes tipos de vínculo existentes.
 
 ### Exemplo 4
 
-Analisar a distribuição dos integrantes de acordo com o vínculo com o Estado, permitindo identificar a participação de servidores ocupantes de cargo efetivo, recrutamento amplo, auditores internos, terceirizados e demais vínculos existentes nas equipes.
-
-### Exemplo 5
-
-Verificar a distribuição das funções desempenhadas pelos integrantes das Controladorias Setoriais e Seccionais, permitindo compreender como a força de trabalho está alocada entre atividades de auditoria, correição, transparência, apoio administrativo, coordenação e demais funções registradas na base.
-
-### Exemplo 6
-
-Analisar a ocorrência e os tipos de remuneração adicional informados pelos integrantes, possibilitando observar sua distribuição entre as Controladorias Setoriais e Seccionais.
+Identificar o quantitativo de pessoas que integram cada Controladoria Setorial ou Seccional, permitindo consultar o tamanho da equipe de uma unidade específica.
