@@ -58,7 +58,7 @@ Ao utilizar a base de dados, devem ser consideradas as seguintes limitações:
 
 - As informações refletem a situação existente na data-base do levantamento;
 - Alterações ocorridas após a consolidação da base podem não estar refletidas nas informações disponíveis;
-- Nem todos os dados coletados são disponibilizados no painel, em observância às restrições de compartilhamento e à proteção das informações contidas na base.
+- Nem todos os dados da planilha consolidada são disponibilizados no painel, em observância às restrições de compartilhamento e à proteção das informações contidas na base.
 
 ## Exemplos de Utilização
 
