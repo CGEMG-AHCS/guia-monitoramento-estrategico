@@ -2,21 +2,19 @@
 
 ## O que é a Estrutura das Unidades
 
-A Estrutura das Unidades é a base de dados utilizada pela AHCS para consolidar informações relacionadas à composição das equipes das Controladorias Setoriais e Seccionais.
-
-A base reúne informações referentes aos agentes públicos em exercício nas unidades, seus vínculos e áreas de atuação, permitindo uma visão estruturada dos recursos humanos disponíveis para o desenvolvimento das atividades de controle interno.
+A Estrutura das Unidades é a base de dados utilizada pela AHCS para consolidar informações relacionadas à composição das equipes das Controladorias Setoriais e Seccionais, permitindo uma visão estruturada dos recursos humanos disponíveis para o desenvolvimento das atividades de controle interno.
 
 ## Finalidade
 
-Para a AHCS, a base da Estrutura das Unidades constitui uma importante fonte de informação sobre a estrutura e a força de trabalho das Controladorias Setoriais e Seccionais. A consolidação dessas informações permite compreender a composição das equipes, a disponibilidade de recursos humanos e outros aspectos que possam contribuir para a análise da capacidade operacional delas.
+Para a AHCS, a base da Estrutura das Unidades constitui uma importante fonte de informação sobre a força de trabalho das Controladorias Setoriais e Seccionais. A consolidação dessas informações permite compreender a composição das equipes, a disponibilidade de recursos humanos e outros aspectos que possam contribuir para a análise da capacidade operacional delas.
 
 As informações podem ser analisadas de forma individualizada, considerando a realidade de cada unidade, ou de forma consolidada, possibilitando uma visão abrangente da estrutura disponível nas Cset/Csec.
 
 ## Responsável pela Base de Dados
 
-As Controladorias são responsáveis pelo fornecimento e pela atualização das informações relativas à estrutura e à composição de suas unidades, por meio do preenchimento de planilhas.
+As Controladorias são responsáveis pelo fornecimento e pela atualização das informações relativas à composição de suas equipes, por meio do preenchimento de planilhas.
 
-A Assessoria de Harmonização é responsável pelo recebimento e pela consolidação desses dados em uma base única, utilizada para fins de monitoramento estratégico e para o desenvolvimento de painéis.
+A Assessoria de Harmonização é responsável pelo recebimento e consolidação desses dados em uma base única, utilizada para fins de monitoramento estratégico e para o desenvolvimento de painéis.
 
 ## Periodicidade de Atualização
 
@@ -26,15 +24,15 @@ A base é atualizada anualmente até março, sendo que a data base é dezembro d
 
 As informações disponíveis são:
 
-- Total de unidades avaliadas;
+- Unidades avaliadas;
 - Quantitativo da equipe por Cset/Csec;
-- Vínculo com o Estado;
+- Vínculo das pessoas com o Estado;
 - Função desempenhada por atividade;
 - Outras informações constantes na planilha consolidada.
 
 ## Composição da Base
 
-A base de dados da Estrutura das Unidades é composta por uma planilha com os dados de cada Cset/Csec e por um painel para visualização consolidada dessas informações.
+A base de dados da Estrutura das Unidades é composta por uma planilha consolidada com os dados de cada Cset/Csec e por um painel para visualização.
 
 ## Onde Localizar
 
@@ -50,8 +48,7 @@ A base de dados da Estrutura das Unidades é composta por uma planilha com os da
 A base da Estrutura das Unidades pode ser utilizada para:
 
 - Compreender a composição das equipes das Controladorias Setoriais e Seccionais;
-- Identificar diferenças estruturais entre Controladorias;
-- Analisar a disponibilidade de recursos humanos por atividade desempenhada;
+- Analisar a disponibilidade de recursos humanos por função desempenhada;
 - Apoiar análises sobre a capacidade operacional das unidades;
 - Subsidiar análises comparativas entre unidades.
 
@@ -59,7 +56,7 @@ A base da Estrutura das Unidades pode ser utilizada para:
 
 Devem ser consideradas as limitações:
 
-- As informações refletem a situação existente na data-base do levantamento;
+- O levantamento é anual e as informações refletem a situação existente na data-base do levantamento;
 - Alterações ocorridas após a consolidação da base podem não estar refletidas nas informações disponíveis;
 - Nem todos os dados da planilha consolidada são disponibilizados no painel, em observância às restrições de compartilhamento e à proteção das informações.
 
