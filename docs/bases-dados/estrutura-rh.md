@@ -56,7 +56,7 @@ A base da Estrutura da Unidade pode ser utilizada para:
 
 ## Limitações
 
-Ao utilizar a base de dados, devem ser consideradas as seguintes limitações:
+Devem ser consideradas as limitações:
 
 - As informações refletem a situação existente na data-base do levantamento;
 - Alterações ocorridas após a consolidação da base podem não estar refletidas nas informações disponíveis;
