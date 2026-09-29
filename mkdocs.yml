@@ -28,7 +28,7 @@ nav:
 
   - Bases de Dados:
       - Visão Geral: bases-dados/index.md
-      - Estrutura da Unidade: bases-dados/estrutura-rh.md
+      - Estrutura das Unidades: bases-dados/estrutura-rh.md
       - Paci: bases-dados/paci.md
       - Raci: bases-dados/raci.md
       - Manifestações: bases-dados/manifestacoes.md
