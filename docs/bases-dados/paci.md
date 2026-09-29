@@ -4,17 +4,15 @@
 
 O Plano de Atividades de Controle Interno (Paci) é o instrumento de planejamento anual utilizado pelas Controladorias Setoriais e Seccionais para definir os trabalhos prioritários a serem executados em cada exercício.
 
-Sua elaboração contempla ações relacionadas às áreas de Transparência, Integridade e Controle Social, Auditoria e Correição, observadas as especificidades dos órgãos/entidades, as diretrizes estabelecidas pela Controladoria-Geral do Estado (CGE) e a capacidade operacional disponível.
+Sua elaboração contempla ações relacionadas às áreas de Transparência, Integridade e Controle Social, Auditoria e Correição, observadas as especificidades dos órgãos/entidades, as diretrizes estabelecidas pela Controladoria-Geral do Estado e a capacidade operacional disponível.
 
-A elaboração do planejamento deve observar as orientações técnicas emanadas pelas unidades administrativas da CGE, em especial: Subcontroladoria de Transparência, Integridade e Controle Social (Suti), Auditoria-Geral (Auge) e Corregedoria-Geral (Coge).
-
-Complementarmente, a AHCS encaminha anualmente as diretrizes específicas emanadas das áreas e modelos para subsidiar a elaboração do planejamento pelas unidades descentralizadas.
+O planejamento deve observar as orientações técnicas emanadas pelas unidades administrativas da CGE, em especial: Subcontroladoria de Transparência, Integridade e Controle Social (Suti), Auditoria-Geral (Auge) e Corregedoria-Geral (Coge).
 
 ## Finalidade
 
-Para a AHCS, o Paci constitui uma importante fonte de informação sobre as atividades planejadas pelas Cset/Csec. A consolidação dos planos permite compreender as prioridades definidas para o exercício, a distribuição das atividades entre as diferentes áreas de atuação do controle interno, a capacidade de trabalho disponível e a aderência das ações previstas às diretrizes e prioridades estabelecidas pela CGE.
+Para a AHCS, o Paci constitui uma importante fonte de informação sobre as atividades planejadas pelas Cset/Csec. A consolidação dos planos permite compreender as prioridades definidas para o exercício, a distribuição das atividades entre as diferentes áreas de atuação do controle interno, a capacidade de trabalho disponível e a aderência às diretrizes estabelecidas pela CGE.
 
-As informações podem ser analisadas de forma individualizada, considerando a realidade de cada Controladoria, ou de forma consolidada, possibilitando uma visão abrangente do planejamento das unidades descentralizadas.
+As informações podem ser analisadas de forma individualizada, considerando a realidade de cada Controladoria, ou de forma consolidada, possibilitando uma visão abrangente do planejamento das unidades.
 
 ## Responsável pela base de dados
 
@@ -30,7 +28,7 @@ A base possui periodicidade de atualização anual, acompanhando o ciclo de elab
 
 Entre as principais informações disponíveis destacam-se:
 
-- Controladoria Setorial ou Seccional responsável pelo planejamento;
+- Identificação da Controladoria Setorial ou Seccional;
 - Capacidade de trabalho disponível da unidade, expressa em homem/hora (h/h);
 - Atividades planejadas para o exercício por classificação e macrofunção;
 - Quantidade de ações, produtos e horas previstas;
@@ -63,7 +61,7 @@ A base do Paci pode ser utilizada para:
 Devem ser observadas as limitações:
 
 - O Paci representa o planejamento das atividades e não sua execução efetiva;
-- A base de dados é anual, portanto, eventuais alterações realizadas pelas unidades ao longo do exercício não são refletidas na posição inicial da base consolidada, sendo evidenciadas posteriormente por meio do Raci e dos registros no sistema e-CGU;
+- A base de dados é anual, portanto, eventuais alterações realizadas pelas unidades ao longo do exercício não são refletidas na posição inicial da base consolidada, sendo evidenciadas posteriormente por meio do Relatório de Atividade de Controle Interno (Raci) e dos registros no sistema e-CGU;
 - Nem todos os dados da planilha consolidada são disponibilizados no painel, visando preservar a identificação de trabalhos em execução.
 
 ## Exemplos de Utilização
