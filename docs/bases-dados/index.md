@@ -12,6 +12,6 @@ Cada base possui características próprias quanto à origem, estrutura, periodi
 
 ## Como a AHCS utiliza as bases
 
-A Harmonização utiliza as bases de dados para observar aspectos relacionados à estrutura das unidades, ao planejamento, à execução das atividades.
+A Harmonização utiliza as bases de dados para observar aspectos relacionados à estrutura das unidades, ao planejamento e à execução das atividades.
 
-Conforme a finalidade da análise, as bases podem ser utilizadas de forma individual ou integrada. A integração, quando necessária, permite complementar informações, confrontar registros e construir uma visão mais abrangente da atuação das unidades.
+Conforme a finalidade da análise, as bases podem ser utilizadas de forma individual ou integrada. A integração, quando necessária, permite complementar informações, confrontar registros e construir uma visão mais abrangente da atuação das Controladorias.
