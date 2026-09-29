@@ -33,7 +33,8 @@ Entre as principais informações disponíveis destacam-se:
 - Controladoria Setorial ou Seccional responsável pelo planejamento;
 - Capacidade de trabalho disponível da unidade, expressa em homem/hora (h/h);
 - Atividades planejadas para o exercício por classificação e macrofunção;
-- Quantidade de ações, produtos e horas previstas.
+- Quantidade de ações, produtos e horas previstas;
+- Outras informações constantes na planilha consolidada.
 
 ## Composição da Base
 
