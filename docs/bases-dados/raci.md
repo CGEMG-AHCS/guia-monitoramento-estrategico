@@ -32,7 +32,8 @@ Entre as principais informações disponíveis destacam-se:
 - Capacidade de trabalho efetivamente utilizada, expressa em homem/hora (h/h);
 - Quantidade de ações, produtos e horas trabalhadas por área de atuação e classificação;
 - Surgimento de demandas extraordinárias;
-- Comparativos entre o planejamento e a execução das atividades.
+- Comparativos entre o planejamento e a execução das atividades;
+- Outras informações constantes na planilha consolidada.
 
 ## Composição da Base
 
