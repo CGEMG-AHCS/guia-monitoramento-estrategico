@@ -37,7 +37,7 @@ Entre as principais informações disponíveis destacam-se:
 
 ## Composição da Base
 
-A base de dados do Raci é composta por uma planilha com os dados do planejamento de cada Cset/Csec e por um painel para visualização consolidada dessas informações.
+A base de dados do Raci é composta por uma planilha consolidada com os dados de cada Cset/Csec e por um painel para visualização.
 
 ## Onde Localizar
 
