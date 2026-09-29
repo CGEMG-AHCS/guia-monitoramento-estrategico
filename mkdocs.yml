@@ -33,7 +33,5 @@ nav:
       - Raci: bases-dados/raci.md
       - Manifestações: bases-dados/manifestacoes.md
       - e-CGU: bases-dados/e-cgu.md
-      - SisPMPI: bases-dados/sispmpi.md
-      - SISCOGE: bases-dados/siscoge.md
 
   - Monitoramento Estratégico: monitoramento/metodologia.md
