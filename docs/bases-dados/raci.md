@@ -4,8 +4,6 @@
 
 O Relatório de Atividades de Controle Interno (Raci) é o instrumento utilizado pelas Controladorias Setoriais e Seccionais para registrar e consolidar a execução das atividades de controle interno desenvolvidas ao longo do exercício.
 
-Por meio do Raci, as unidades comparam o planejado com o executado, registrando informações sobre as atividades realizadas, produtos entregues, horas trabalhadas, demandas extraordinárias e outras informações relevantes para o acompanhamento de sua atuação.
-
 ## Finalidade
 
 Para a AHCS, o Raci constitui uma importante fonte de informação sobre a atuação das Cset/Csec. A consolidação dos relatórios permite compreender como a capacidade de trabalho foi efetivamente utilizada pelas unidades, a execução das atividades previstas no planejamento e a ocorrência de demandas extraordinárias ao longo do exercício.
