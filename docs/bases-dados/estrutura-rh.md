@@ -37,6 +37,8 @@ A base de dados da Estrutura das Unidades é composta por uma planilha com os da
 
 ## Onde Localizar
 
+📁 [Planilha Estrutura 2025](https://cecad365.sharepoint.com/:x:/r/sites/HarmonizaoCGE/Documentos%20Compartilhados/General/Gest%C3%A3o%20Cset_Csec/7.1.2%20-%20Recursos%20Humanos%20CSET%20e%20CSEC_consolidado.xlsx?d=w87549d1da1c74adc9283e66b3e28efc9&csf=1&web=1&e=eULoLi)
+
 📊 [Painel Cset/Csec](https://app.powerbi.com/view?r=eyJrIjoiZjQxNDEzZTEtOTI5MS00YWM2LWFiNjctNjk4MTlmZDYwZDQ5IiwidCI6ImU1ZDNhZTdjLTliMzgtNDhkZS1hMDg3LWY2NzM0YTI4NzU3NCJ9)
 
 📊 [Painel Estrutura das Cset/Csec](https://app.powerbi.com/view?r=eyJrIjoiNWJiY2Q1MDEtOWY4MC00MDljLWJlNWQtNmFmMTExZmFmZDMzIiwidCI6ImU1ZDNhZTdjLTliMzgtNDhkZS1hMDg3LWY2NzM0YTI4NzU3NCJ9)
