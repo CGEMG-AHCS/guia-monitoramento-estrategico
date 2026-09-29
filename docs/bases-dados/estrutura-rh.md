@@ -1,26 +1,26 @@
-# Estrutura da Unidade
+# Estrutura das Unidades
 
-## O que é a Estrutura da Unidade
+## O que é a Estrutura das Unidades
 
-A Estrutura da Unidade consiste na base de dados utilizada pela AHCS para consolidar informações relacionadas à composição das equipes das Controladorias Setoriais e Seccionais.
+A Estrutura das Unidades é a base de dados utilizada pela AHCS para consolidar informações relacionadas à composição das equipes das Controladorias Setoriais e Seccionais.
 
 A base reúne informações referentes aos agentes públicos em exercício nas unidades, seus vínculos e áreas de atuação, permitindo uma visão estruturada dos recursos humanos disponíveis para o desenvolvimento das atividades de controle interno.
 
 ## Finalidade
 
-Para a AHCS, a base da Estrutura da Unidade constitui uma importante fonte de informação sobre a estrutura e a força de trabalho das Controladorias Setoriais e Seccionais. A consolidação dessas informações permite compreender a composição das equipes, a disponibilidade de recursos humanos e outros aspectos que possam contribuir para a análise da capacidade operacional delas.
+Para a AHCS, a base da Estrutura das Unidades constitui uma importante fonte de informação sobre a estrutura e a força de trabalho das Controladorias Setoriais e Seccionais. A consolidação dessas informações permite compreender a composição das equipes, a disponibilidade de recursos humanos e outros aspectos que possam contribuir para a análise da capacidade operacional delas.
 
-As informações podem ser analisadas de forma individualizada, considerando a realidade de cada unidade, ou de forma consolidada, possibilitando uma visão abrangente da estrutura disponível nas Controladorias Setoriais e Seccionais.
+As informações podem ser analisadas de forma individualizada, considerando a realidade de cada unidade, ou de forma consolidada, possibilitando uma visão abrangente da estrutura disponível nas Cset/Csec.
 
 ## Responsável pela Base de Dados
 
-As Controladorias Setoriais e Seccionais são responsáveis pelo fornecimento e pela atualização das informações relativas à estrutura e à composição de suas unidades, por meio do preenchimento de planilhas.
+As Controladorias são responsáveis pelo fornecimento e pela atualização das informações relativas à estrutura e à composição de suas unidades, por meio do preenchimento de planilhas.
 
-A Assessoria de Harmonização é responsável pelo recebimento e pela consolidação desses dados em uma base única, utilizada para fins de monitoramento estratégico e para o desenvolvimento de painéis e análises gerenciais.
+A Assessoria de Harmonização é responsável pelo recebimento e pela consolidação desses dados em uma base única, utilizada para fins de monitoramento estratégico e para o desenvolvimento de painéis.
 
 ## Periodicidade de Atualização
 
-A base é atualizada anualmente entre os meses de janeiro e março, sendo que a data base é dezembro.
+A base é atualizada anualmente até março, sendo que a data base é dezembro do ano anterior.
 
 ## Informações Disponíveis
 
@@ -29,7 +29,8 @@ As informações disponíveis são:
 - Total de unidades avaliadas;
 - Quantitativo da equipe por Cset/Csec;
 - Vínculo com o Estado;
-- Função desempenhada por atividade.
+- Função desempenhada por atividade;
+- Outras informações constantes na planilha consolidada.
 
 ## Composição da Base
 
@@ -37,16 +38,16 @@ A base de dados da Estrutura das Unidades é composta por uma planilha com os da
 
 ## Onde Localizar
 
-📁 [Planilha Estrutura 2025](https://cecad365.sharepoint.com/:x:/r/sites/HarmonizaoCGE/Documentos%20Compartilhados/General/Gest%C3%A3o%20Cset_Csec/7.1.2%20-%20Recursos%20Humanos%20CSET%20e%20CSEC_consolidado.xlsx?d=w87549d1da1c74adc9283e66b3e28efc9&csf=1&web=1&e=eULoLi)
+📁 [Planilha Consolidada Estrutura 2025](https://cecad365.sharepoint.com/:x:/r/sites/HarmonizaoCGE/Documentos%20Compartilhados/General/Gest%C3%A3o%20Cset_Csec/7.1.2%20-%20Recursos%20Humanos%20CSET%20e%20CSEC_consolidado.xlsx?d=w87549d1da1c74adc9283e66b3e28efc9&csf=1&web=1&e=eULoLi)
 
-📊 [Painel Cset/Csec](https://app.powerbi.com/view?r=eyJrIjoiZjQxNDEzZTEtOTI5MS00YWM2LWFiNjctNjk4MTlmZDYwZDQ5IiwidCI6ImU1ZDNhZTdjLTliMzgtNDhkZS1hMDg3LWY2NzM0YTI4NzU3NCJ9)
+📊 [Identificação das Cset/Csec](https://app.powerbi.com/view?r=eyJrIjoiZjQxNDEzZTEtOTI5MS00YWM2LWFiNjctNjk4MTlmZDYwZDQ5IiwidCI6ImU1ZDNhZTdjLTliMzgtNDhkZS1hMDg3LWY2NzM0YTI4NzU3NCJ9)
 
-📊 [Painel Estrutura das Cset/Csec](https://app.powerbi.com/view?r=eyJrIjoiNWJiY2Q1MDEtOWY4MC00MDljLWJlNWQtNmFmMTExZmFmZDMzIiwidCI6ImU1ZDNhZTdjLTliMzgtNDhkZS1hMDg3LWY2NzM0YTI4NzU3NCJ9)
+📊 [Estrutura das Cset/Csec 2025](https://app.powerbi.com/view?r=eyJrIjoiNWJiY2Q1MDEtOWY4MC00MDljLWJlNWQtNmFmMTExZmFmZDMzIiwidCI6ImU1ZDNhZTdjLTliMzgtNDhkZS1hMDg3LWY2NzM0YTI4NzU3NCJ9)
 
 
 ## Aplicações no Monitoramento Estratégico
 
-A base da Estrutura da Unidade pode ser utilizada para:
+A base da Estrutura das Unidades pode ser utilizada para:
 
 - Compreender a composição das equipes das Controladorias Setoriais e Seccionais;
 - Identificar diferenças estruturais entre Controladorias;
