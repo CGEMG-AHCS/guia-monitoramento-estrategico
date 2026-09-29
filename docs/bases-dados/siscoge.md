@@ -1,3 +1,0 @@
-# SISCOGE
-
-**Em construção**
