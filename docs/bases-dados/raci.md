@@ -61,7 +61,7 @@ A base do Raci pode ser utilizada para:
 
 Ao utilizar a base do Raci, devem ser observadas as seguintes limitações:
 
-- A base consolidada do Raci contempla as informações consolidadas sobre a execução das atividades do exercício anterior, não dispondo de dados de execução do exercício corrente;
+- A base consolidada do Raci é anual e contempla as informações consolidadas sobre a execução das atividades do exercício anterior, não dispondo de dados de execução do exercício corrente;
 - Nem todos os dados da planilha consolidada são disponibilizados no painel, visando preservar a identificação de trabalhos em execução.
 
 ## Exemplos de Utilização
