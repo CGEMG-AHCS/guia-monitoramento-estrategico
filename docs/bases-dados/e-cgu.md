@@ -69,10 +69,6 @@ Ao utilizar a base do e-CGU, devem ser observadas as seguintes limitações:
 - A qualidade e a confiabilidade das análises dependem da atualização, da completude e do adequado preenchimento dos registros pelas unidades;
 - Trabalhos em andamento podem apresentar informações parciais ou incompletas.
 
-## Legislação
-
-**[Resolução CGE nº 15/2021](https://www.pesquisalegislativa.mg.gov.br/LegislacaoCompleta.aspx?cod=195373&marc=)** - Estabelece o sistema de auditoria e-Aud como ferramenta de processo de trabalho da atividade de Auditoria Interna Governamental no âmbito da Auditoria-Geral e das Controladorias Setoriais e Seccionais.
-
 ## Exemplos de Utilização
 
 ### Exemplo 1
