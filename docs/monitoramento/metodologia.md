@@ -126,6 +126,12 @@ Nesse contexto, busca:
 
 <br>
 
+**Divulgação dos Principais Trabalhos**
+
+**Em construção**
+
+---
+
 ## Legislação
 
 **[Decreto nº 48.582/2023](https://www.almg.gov.br/legislacao-mineira/DEC/48582/2023/)** - Dispõe sobre procedimentos e medidas de proteção à identidade do denunciante de ilícito ou de irregularidade praticados contra órgãos e entidades da Administração Pública direta, autárquica e fundacional do Poder Executivo.
@@ -143,9 +149,4 @@ Nesse contexto, busca:
 **[Instrução Normativa CGE nº 01/2023](https://www.pesquisalegislativa.mg.gov.br/LegislacaoCompleta.aspx?cod=207385&marc=)** - Dispõe sobre as diretrizes de elaboração do Plano de Atividades de Controle Interno - Paci e do Relatório de Atividades de Controle Interno - Raci das Controladorias Setoriais e Seccionais.
 
 **[Instrução Normativa CGE nº 01/2024](https://www.pesquisalegislativa.mg.gov.br/LegislacaoCompleta.aspx?cod=210582&marc=)** - Dispõe sobre as diretrizes de tratamento de denúncias no âmbito da Controladoria-Geral do Estado.
-
-
-**Divulgação dos Principais Trabalhos**
-
-**Em construção**
 
