@@ -1,4 +1,4 @@
-# Sistema e-CGU **em construção**
+# Sistema e-CGU **(em construção)**
 
 ## O que é o e-CGU
 
