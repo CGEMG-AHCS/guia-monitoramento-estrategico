@@ -33,7 +33,7 @@ As informações disponíveis são:
 
 ## Composição da Base
 
-A base de dados da Estrutura das Unidades é composta por uma planilha com os dados consolidados de cada Cset/Csec e por um painel para visualização consolidada dessas informações.
+A base de dados da Estrutura das Unidades é composta por uma planilha com os dados de cada Cset/Csec e por um painel para visualização consolidada dessas informações.
 
 ## Onde Localizar
 
