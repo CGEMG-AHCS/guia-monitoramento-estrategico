@@ -62,7 +62,7 @@ Devem ser observadas as limitações:
 
 - O Paci representa o planejamento das atividades e não sua execução efetiva;
 - A base de dados é anual, portanto, eventuais alterações realizadas pelas unidades ao longo do exercício não são refletidas na posição inicial da base consolidada, sendo evidenciadas posteriormente por meio do Relatório de Atividade de Controle Interno (Raci) e dos registros no sistema e-CGU;
-- Nem todos os dados da planilha consolidada são disponibilizados no painel, visando preservar a identificação de trabalhos em execução.
+- Nem todos os dados da planilha consolidada são disponibilizados nos painéis, visando preservar a identificação de trabalhos em execução.
 
 ## Exemplos de Utilização
 
