@@ -2,11 +2,11 @@
 
 ## O que são as Manifestações
 
-As manifestações representam os pronunciamentos apresentados pelos usuários dos serviços públicos relacionados à prestação desses serviços e à atuação da Administração Pública.
+As manifestações são pronunciamentos dos usuários, como reclamações, denúncias, sugestões e elogios, relacionados à prestação de serviços públicos ou à conduta de agentes públicos no exercício das atividades de prestação e fiscalização desses serviços.
 
-No âmbito da Ouvidoria-Geral do Estado de Minas Gerais (OGE), as manifestações constituem canal de interlocução entre os usuários dos serviços públicos e a Administração Pública, possibilitando o registro e o acompanhamento de demandas relacionadas aos serviços prestados e à atuação dos agentes públicos.
+A denúncia, portanto, constitui uma das espécies de manifestação. Essa distinção é importante para a análise dos dados, uma vez que as informações provenientes da Ouvidoria-Geral do Estado (OGE) não se restringem à comunicação de possíveis irregularidades, abrangendo também a percepção dos usuários sobre os serviços públicos e outras formas de interação com a Administração, por exemplo, sob a forma de reclamação ou elogio.
 
-A denúncia constitui uma das espécies de manifestação. Essa distinção é importante para a análise dos dados, uma vez que as informações provenientes da Ouvidoria não se restringem à comunicação de possíveis irregularidades, abrangendo também a percepção dos usuários sobre os serviços públicos e outras formas de interação com a Administração, por exemplo, sob a forma de reclamação ou elogio.
+No âmbito estadual, cabe à Ouvidoria-Geral do Estado de Minas Gerais (OGE) receber, analisar, encaminhar e acompanhar as manifestações dos usuários.
 
 ## Finalidade
 
