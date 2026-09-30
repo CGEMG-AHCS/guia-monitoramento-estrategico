@@ -12,7 +12,7 @@ Para a AHCS, as manifestações constituem importante fonte de informação sobr
 
 ## Responsável pela base de dados
 
-A Ouvidoria-Geral do Estado (OGE) é responsável por receber, analisar, encaminhar e acompanhar as manifestações apresentadas, bem como pela administração geral do MGOuv, sistema utilizado para o registro e gerenciamento dos pronunciamentos.
+A Ouvidoria-Geral do Estado (OGE) é responsável por receber, analisar, encaminhar e acompanhar as manifestações, bem como pela administração geral do MGOuv, sistema utilizado para o registro e gerenciamento dos pronunciamentos.
 
 Para fins de Monitoramento Estratégico **a ser elaborado**
 
