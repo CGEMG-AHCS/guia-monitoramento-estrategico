@@ -52,7 +52,7 @@ Nesse contexto, busca:
 
 **Estrutura das Controladorias Setoriais e Seccionais**
 
-📁 [Planilha Consolidada da Estrutura 2025](https://cecad365.sharepoint.com/:x:/r/sites/HarmonizaoCGE/Documentos%20Compartilhados/General/Gest%C3%A3o%20Cset_Csec/7.1.2%20-%20Recursos%20Humanos%20CSET%20e%20CSEC_consolidado.xlsx?d=w87549d1da1c74adc9283e66b3e28efc9&csf=1&web=1&e=eULoLi)
+📁 [Planilha Consolidada da Estrutura 2025](https://cecad365.sharepoint.com/:x:/r/sites/HarmonizaoCGE/Documentos%20Compartilhados/General/Gest%C3%A3o%20Cset_Csec/Painel/7.1.2%20-%20Recursos%20Humanos%20CSET%20e%20CSEC_consolidado_guia.xlsx?d=wca42b1785cb2412098ebedbb7d56aa2c&csf=1&web=1&e=hQLAcb)
 
 📊 [Painel Estrutura das Cset/Csec 2025](https://app.powerbi.com/view?r=eyJrIjoiNWJiY2Q1MDEtOWY4MC00MDljLWJlNWQtNmFmMTExZmFmZDMzIiwidCI6ImU1ZDNhZTdjLTliMzgtNDhkZS1hMDg3LWY2NzM0YTI4NzU3NCJ9)
 
@@ -62,7 +62,7 @@ Nesse contexto, busca:
 
 **Paci individuais --> SEI (unidade AHCS) --> Acompanhamento Especial --> Paci**
 
-📁 [Planilha Consolidada dos Paci 2026](https://cecad365.sharepoint.com/:x:/r/sites/HarmonizaoCGE/Documentos%20Compartilhados/General/1%20-%20Coordenar%20Planejamento%20Anual%20Cset-Csec/Paci%202026/Consolida%C3%A7%C3%A3o%20do%20Paci%202026/01%20Consolida%C3%A7%C3%A3o%20Paci%202026_painel.xlsx?d=wd4ab5f25c8d34477bd95baa9c697f519&csf=1&web=1&e=sOTDue)
+📁 [Planilha Consolidada dos Paci 2026](https://cecad365.sharepoint.com/:x:/r/sites/HarmonizaoCGE/Documentos%20Compartilhados/General/1%20-%20Coordenar%20Planejamento%20Anual%20Cset-Csec/Paci%202026/Consolida%C3%A7%C3%A3o%20do%20Paci%202026/01%20Consolida%C3%A7%C3%A3o%20Paci%202026_painel_guia.xlsx?d=w229d912e015f41be9990878bdde8f7d5&csf=1&web=1&e=JOvMlR)
 
 📊 [Painel Paci 2026](https://app.powerbi.com/view?r=eyJrIjoiNDYzZTNjNDktMGJkZC00NjVlLWE1ZGUtOTcxM2Q4MzA1MDkzIiwidCI6ImU1ZDNhZTdjLTliMzgtNDhkZS1hMDg3LWY2NzM0YTI4NzU3NCJ9)
 
@@ -72,7 +72,7 @@ Nesse contexto, busca:
 
 **Raci individuais --> SEI (unidade AHCS) --> Acompanhamento Especial --> Raci**
 
-📁 [Planilha Consolidada dos Raci 2025](https://cecad365.sharepoint.com/:x:/r/sites/HarmonizaoCGE/Documentos%20Compartilhados/General/2%20-%20Monitorar%20Atividades%20Cset-Csec%20Execu%C3%A7%C3%A3o%20PACI/2.5.2%20-%20Apura%C3%A7%C3%A3o%20Indicador%20Programa%20004%20do%20PPAG/2025/Indicador%20Programa%20004/01%20Consolida%C3%A7%C3%A3o%20Raci%202025%20-%20geral_Painel.xlsx?d=wf00640d539f4423eb068697a5620b5cb&csf=1&web=1&e=cIaI7b)
+📁 [Planilha Consolidada dos Raci 2025](https://cecad365.sharepoint.com/:x:/r/sites/HarmonizaoCGE/Documentos%20Compartilhados/General/2%20-%20Monitorar%20Atividades%20Cset-Csec%20Execu%C3%A7%C3%A3o%20PACI/2.5.2%20-%20Apura%C3%A7%C3%A3o%20Indicador%20Programa%20004%20do%20PPAG/2025/Indicador%20Programa%20004/01%20Consolida%C3%A7%C3%A3o%20Raci%202025%20-%20geral_Painel_guia.xlsx?d=w85700d87c54c4680a41326a8a0ff1da0&csf=1&web=1&e=WLX6g4)
 
 📊 [Painel Raci 2025](https://app.powerbi.com/view?r=eyJrIjoiYmQwNzYwNjAtODk3NS00N2RiLWEzYzgtZGRhNzQ0MWNhYzAxIiwidCI6ImU1ZDNhZTdjLTliMzgtNDhkZS1hMDg3LWY2NzM0YTI4NzU3NCJ9)
 
