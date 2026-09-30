@@ -60,6 +60,8 @@ Nesse contexto, busca:
 
 **Plano de Atividades de Controle Interno (Paci)**
 
+**Paci/2026 individuais --> SEI (unidade AHCS) --> Acompanhamento Especial --> Paci 2026**
+
 📁 [Planilha consolidada dos Paci 2026](https://cecad365.sharepoint.com/:x:/r/sites/HarmonizaoCGE/Documentos%20Compartilhados/General/1%20-%20Coordenar%20Planejamento%20Anual%20Cset-Csec/Paci%202026/Consolida%C3%A7%C3%A3o%20do%20Paci%202026/01%20Consolida%C3%A7%C3%A3o%20Paci%202026_painel.xlsx?d=wd4ab5f25c8d34477bd95baa9c697f519&csf=1&web=1&e=sOTDue)
 
 📊 [Painel Paci/2026](https://app.powerbi.com/view?r=eyJrIjoiNDYzZTNjNDktMGJkZC00NjVlLWE1ZGUtOTcxM2Q4MzA1MDkzIiwidCI6ImU1ZDNhZTdjLTliMzgtNDhkZS1hMDg3LWY2NzM0YTI4NzU3NCJ9)
@@ -67,6 +69,8 @@ Nesse contexto, busca:
 <br>
 
 **Relatório de Atividades de Controle Interno (Raci)**
+
+**Raci individuais → SEI (unidade AHCS) → Acompanhamento Especial → Raci**
 
 📁 [Planilha consolidada dos Raci 2025](https://cecad365.sharepoint.com/:x:/r/sites/HarmonizaoCGE/Documentos%20Compartilhados/General/2%20-%20Monitorar%20Atividades%20Cset-Csec%20Execu%C3%A7%C3%A3o%20PACI/2.5.2%20-%20Apura%C3%A7%C3%A3o%20Indicador%20Programa%20004%20do%20PPAG/2025/Indicador%20Programa%20004/01%20Consolida%C3%A7%C3%A3o%20Raci%202025%20-%20geral_Painel.xlsx?d=wf00640d539f4423eb068697a5620b5cb&csf=1&web=1&e=cIaI7b)
 
