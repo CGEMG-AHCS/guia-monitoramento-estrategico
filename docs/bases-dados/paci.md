@@ -36,7 +36,7 @@ Entre as principais informações disponíveis destacam-se:
 
 ## Composição da Base
 
-A base de dados do Paci é composta por uma planilha consolidada com os dados de cada Cset/Csec e por um painel para visualização.
+A base de dados do Paci é composta pelos planejamentos formalizados e respectivas planilhas subsidiárias de cada Cset/Csec, planilha consolidada geral e painel.
 
 ## Onde Localizar
 
