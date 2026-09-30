@@ -1,8 +1,6 @@
 # Relatório de Atividades de Controle Interno (Raci)
 
-## O que é o Raci
-
-O Relatório de Atividades de Controle Interno (Raci) é o instrumento utilizado pelas Controladorias Setoriais e Seccionais para registrar e consolidar a execução das atividades de controle interno desenvolvidas ao longo do exercício.
+O Relatório de Atividades de Controle Interno (Raci) é o instrumento utilizado pelas Controladorias Setoriais e Seccionais para registrar e consolidar a execução das atividades realizadas ao longo do exercício, conforme o planejamento celebrado.
 
 ## Finalidade
 
@@ -18,7 +16,7 @@ A Assessoria de Harmonização é responsável pelo recebimento e pela consolida
 
 ## Periodicidade de Atualização
 
-A base possui periodicidade de atualização anual, acompanhando o ciclo de elaboração do Relatório de Atividades de Controle Interno.
+A base possui periodicidade de atualização anual, acompanhando o ciclo de fechamento do planejamento para o exercíocio.
 
 Adicionalmente, as unidades encaminham relatório parcial durante o exercício, possibilitando o acompanhamento intermediário da execução das atividades.
 
@@ -26,16 +24,16 @@ Adicionalmente, as unidades encaminham relatório parcial durante o exercício, 
 
 Entre as principais informações disponíveis destacam-se:
 
-- Controladoria Setorial ou Seccional;
+- Identificação da Controladoria Setorial ou Seccional;
 - Capacidade de trabalho efetivamente utilizada, expressa em homem/hora (h/h);
-- Quantidade de ações, produtos e horas trabalhadas por área de atuação e classificação;
+- Quantidade de ações, produtos emitidos e horas trabalhadas por área de atuação e classificação;
 - Surgimento de demandas extraordinárias;
 - Comparativos entre o planejamento e a execução das atividades;
 - Outras informações constantes na planilha consolidada.
 
 ## Composição da Base
 
-A base de dados do Raci é composta por uma planilha consolidada com os dados de cada Cset/Csec e por um painel para visualização.
+A base de dados do Raci é composta pelos relatórios e respectivas planilhas subsidiárias de cada Cset/Csec, planilha consolidada geral e painéis.
 
 ## Onde Localizar
 
@@ -49,9 +47,9 @@ Raci individuais → SEI (unidade AHCS) → Acompanhamento Especial → Raci
 
 A base do Raci pode ser utilizada para:
 
-- Compreender a execução das atividades planejadas pelas Controladorias Setoriais e Seccionais;
+- Compreender a execução das atividades planejadas pelas Controladorias;
 - Analisar a distribuição das atividades executadas por área de atuação e classificação;
-- Identificar o surgimento de demandas extraordinárias durante o exercício;
+- Identificar o surgimento de demandas extraordinárias e outras alterações realizadas durante o exercício;
 - Apoiar diagnósticos sobre a atuação das unidades;
 - Subsidiar análises comparativas entre unidades.
 
@@ -60,13 +58,13 @@ A base do Raci pode ser utilizada para:
 Ao utilizar a base do Raci, devem ser observadas as seguintes limitações:
 
 - A base consolidada do Raci é anual e contempla as informações consolidadas sobre a execução das atividades do exercício anterior, não dispondo de dados de execução do exercício corrente;
-- Nem todos os dados da planilha consolidada são disponibilizados no painel, visando preservar a identificação de trabalhos em execução.
+- Nem todos os dados da planilha consolidada são disponibilizados nos painéis, visando preservar a identificação de trabalhos em execução.
 
 ## Exemplos de Utilização
 
 ### Exemplo 1
 
-Identificar quais Controladorias Setoriais e Seccionais concentraram a maior e a menor quantidade de horas trabalhadas, produtos entregues e ações executadas durante o exercício.
+Identificar quais Controladorias Setoriais e Seccionais concentraram a maior e a menor quantidade de horas trabalhadas, produtos entregues e ações planejadas durante o exercício.
 
 ### Exemplo 2
 
@@ -74,7 +72,7 @@ Analisar a distribuição da execução entre as diferentes atividades realizada
 
 ### Exemplo 3
 
-Comparar o planejamento com a execução, identificando diferenças entre as atividades e horas planejadas e realizadas.
+Comparar o planejamento com a execução, identificando diferenças entre o planejamento e a execução.
 
 ### Exemplo 4
 
