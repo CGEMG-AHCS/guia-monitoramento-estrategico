@@ -45,7 +45,7 @@ A base de dados do Paci é composta pelos planejamentos formalizados e respectiv
 📁 [Planilha Consolidada dos Paci 2026](https://cecad365.sharepoint.com/:x:/r/sites/HarmonizaoCGE/Documentos%20Compartilhados/General/1%20-%20Coordenar%20Planejamento%20Anual%20Cset-Csec/Paci%202026/Consolida%C3%A7%C3%A3o%20do%20Paci%202026/01%20Consolida%C3%A7%C3%A3o%20Paci%202026_painel_guia.xlsx?d=w229d912e015f41be9990878bdde8f7d5&csf=1&web=1&e=tNOQN0)
 
 
-📊 [Painel Paci 2026](https://cecad365.sharepoint.com/:u:/r/sites/HarmonizaoCGE/Documentos%20Compartilhados/General/1%20-%20Coordenar%20Planejamento%20Anual%20Cset-Csec/Paci%202026/Consolida%C3%A7%C3%A3o%20do%20Paci%202026/Painel/Planejamento%202026%20-%20Paci.pbix?d=wbab063ed9a0f4c70a7fcacb38c5694d5&csf=1&web=1&e=qxAPJY)
+📊 [Painel Paci 2026](https://app.powerbi.com/view?r=eyJrIjoiNDYzZTNjNDktMGJkZC00NjVlLWE1ZGUtOTcxM2Q4MzA1MDkzIiwidCI6ImU1ZDNhZTdjLTliMzgtNDhkZS1hMDg3LWY2NzM0YTI4NzU3NCJ9)
 
 ## Aplicações no Monitoramento Estratégico
 
