@@ -38,9 +38,9 @@ A base é composta pelos registros efetuados pelas Cset/Csec no e-CGU, relaciona
 
 ## Onde Localizar
 
-🌐 [Acesso ao sistema](https://ecgu.cgu.gov.br/)
+🌐 [Acesso ao Sistema](https://ecgu.cgu.gov.br/)
 
-🎓 [Acesso ao ambiente de treinamento](https://eaud-t.cgu.gov.br/)
+🎓 [Acesso ao Ambiente de Treinamento](https://eaud-t.cgu.gov.br/)
 
 📊 [Painel]()
 
