@@ -10,19 +10,15 @@ O sistema integra diferentes etapas do processo de auditoria, abrangendo o plane
 
 Para a AHCS, os registros do e-CGU constituem importante fonte de informação sobre ações de auditoria desenvolvidas pelas Controladorias Setoriais e Seccionais, tendo em vista a obrigatoriedade de executar esses trabalhos no âmbito dele. O sistema, todavia, pode conter registros de outras atividades não relacionados aos trabalhos de auditoria.
 
-A análise desses dados permite acompanhar os trabalhos registrados pelas unidades, sua execução e seus resultados, além de complementar as informações provenientes das demais bases utilizadas no Monitoramento Estratégico.
-
 ## Responsável pela base de dados
 
 O e-CGU é desenvolvido e mantido pela Controladoria-Geral da União.
 
-As informações são registradas pelas unidades durante o desenvolvimento dos trabalhos.
+As Controladorias Setoriais e Seccionais são responsáveis pelo registros das informações no sistema ao longo da execução dos trabalhos.
+
+**Em construção**
 
 ## Periodicidade de Atualização
-
-Os registros do e-CGU são atualizados ao longo do desenvolvimento das atividades.
-
-Para fins de monitoramento, deve ser considerada a data de consulta ou extração da base, uma vez que os registros podem ser modificados conforme a evolução dos trabalhos.
 
 **Em construção**
 
@@ -30,9 +26,7 @@ Para fins de monitoramento, deve ser considerada a data de consulta ou extraçã
 
 O e-CGU reúne registros relacionados aos trabalhos desenvolvidos pelas Cset/Csec, abrangendo informações sobre seu planejamento, execução e acompanhamento.
 
-O sistema também dispõe do módulo **Plano Operacional**, no qual as unidades registram as ações previstas para execução ao longo do exercício, em conformidade com o Paci.
-
-O Plano Operacional pode ser ajustado durante o exercício, contemplando a inclusão de novas ações, decorrentes de demandas extraordinárias, e o cancelamento de ações inicialmente previstas.
+No módulo do **Plano Operacional** são registrados pela unidades as ações previstas para execução ao longo do exercício, em conformidade com o Paci.
 
 **Em construção**
 
@@ -65,15 +59,15 @@ A base do e-CGU pode ser utilizada para:
 Ao utilizar a base do e-CGU, devem ser observadas as seguintes limitações:
 
 - A obtenção das informações é realizada, atualmente, por meio de consultas e filtros no sistema, demandando muuito esforço;
-- - Os dados refletem a situação registrada no sistema no momento da consulta;
-- A qualidade e a confiabilidade das análises dependem da atualização, da completude e do adequado preenchimento dos registros pelas unidades;
+- Os dados refletem a situação registrada no sistema no momento da consulta;
+- A qualidade e a confiabilidade das análises dependem do adequado preenchimento dos registros;
 - Trabalhos em andamento podem apresentar informações parciais ou incompletas.
 
 ## Exemplos de Utilização
 
 ### Exemplo 1
 
-Verificar se todas as ações previstas no Paci foram rgistradas no Plano Operacional.
+Verificar se todas as ações previstas no Paci foram registradas no módulo do Plano Operacional.
 
 ### Exemplo 2
 
