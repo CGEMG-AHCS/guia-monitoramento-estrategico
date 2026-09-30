@@ -1,4 +1,4 @@
-# Guia de Monitoramento Estratégico - AHCS | CGE-MG
+# Guia de Monitoramento Estratégico
 
 Bem-vindo ao **Guia de Monitoramento Estratégico da Assessoria de Harmonização das Controladorias Setoriais e Seccionais (AHCS)**.
 
