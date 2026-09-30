@@ -6,23 +6,11 @@ As manifestações representam os pronunciamentos apresentados pelos usuários d
 
 No âmbito da Ouvidoria-Geral do Estado de Minas Gerais (OGE), as manifestações constituem canal de interlocução entre os usuários dos serviços públicos e a Administração Pública, possibilitando o registro e o acompanhamento de demandas relacionadas aos serviços prestados e à atuação dos agentes públicos.
 
-As manifestações podem ser classificadas em diferentes tipologias:
-
-- **Reclamação:** demonstração de insatisfação relativa à prestação de serviço público ou à conduta de agentes públicos na prestação e fiscalização do serviço;
-- **Denúncia:** comunicação de prática de irregularidade ou ato ilícito cuja solução dependa da atuação dos órgãos apuratórios competentes;
-- **Elogio:** demonstração de reconhecimento ou satisfação com o serviço oferecido ou o atendimento recebido;
-- **Solicitação:** pedido para realização de ato, conduta ou medida administrativa por parte dos órgãos e entidades;
-- **Sugestão:** apresentação de ideia ou formulação de proposta de aprimoramento de serviços públicos;
-- **Simplificação:** manifestação relacionada à simplificação de procedimentos, atos administrativos ou formas de prestação de serviços públicos.
-
-A denúncia constitui, portanto, uma das espécies de manifestação. Essa distinção é importante para a análise dos dados, uma vez que as informações provenientes da Ouvidoria não se restringem à comunicação de possíveis irregularidades, abrangendo também a percepção dos usuários sobre os serviços públicos e outras formas de interação com a Administração.
+A denúncia constitui uma das espécies de manifestação. Essa distinção é importante para a análise dos dados, uma vez que as informações provenientes da Ouvidoria não se restringem à comunicação de possíveis irregularidades, abrangendo também a percepção dos usuários sobre os serviços públicos e outras formas de interação com a Administração, por exemplo, sob a forma de reclamação ou elogio.
 
 ## Finalidade
 
-Para a AHCS, as manifestações constituem importante fonte de informação sobre o funcionamento dos órgãos e entidades e sobre a percepção dos usuários em relação aos serviços públicos prestados. A análise consolidada dessas informações permite identificar temas recorrentes, alterações no comportamento das manifestações, concentração de registros em determinados assuntos e outros sinais relevantes para a compreensão do contexto de atuação das Controladorias Setoriais e Seccionais.
-
-No Monitoramento Estratégico, as manifestações são utilizadas como fonte complementar de informação, permitindo sua utilização em conjunto com as demais bases utilizadas pela AHCS de modo a ampliar a compreensão sobre temas que possam demandar acompanhamento.
-
+Para a AHCS, as manifestações constituem importante fonte de informação sobre a percepção dos usuários em relação aos serviços públicos prestados. A análise consolidada dessas informações permite identificar temas recorrentes, alterações no comportamento das manifestações, concentração de registros em determinados assuntos e outros sinais relevantes para a compreensão do contexto de atuação das unidades descentralizadas.
 
 ## Responsável pela base de dados
 
