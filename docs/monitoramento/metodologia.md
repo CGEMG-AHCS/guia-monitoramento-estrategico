@@ -2,7 +2,7 @@
 
 O Monitoramento Estratégico realizado pela AHCS é um processo sistemático de coleta, tratamento, análise e comunicação de informações sobre as Controladorias Setoriais e Seccionais.
 
-A metodologia integra diferentes fontes institucionais para produzir informações gerenciais sobre estrutura, força de trabalho, planejamento, execução e demandas das unidades.
+A metodologia integra diferentes fontes de dados para produzir informações gerenciais sobre estrutura, força de trabalho, planejamento, execução e demandas das unidades.
 
 ---
 
@@ -32,7 +32,7 @@ Nesse contexto, busca:
 
 <br>
 
-**Monitoramentos realizados**
+**Monitoramentos já realizados**
 
 📁 **Em construção**
 
@@ -40,7 +40,7 @@ Nesse contexto, busca:
 
 **Identificação das Controladorias Setoriais e Seccionais**
 
-📊 [Cset/Csec](https://app.powerbi.com/view?r=eyJrIjoiZjQxNDEzZTEtOTI5MS00YWM2LWFiNjctNjk4MTlmZDYwZDQ5IiwidCI6ImU1ZDNhZTdjLTliMzgtNDhkZS1hMDg3LWY2NzM0YTI4NzU3NCJ9)
+📊 [Painel Cset/Csec](https://app.powerbi.com/view?r=eyJrIjoiZjQxNDEzZTEtOTI5MS00YWM2LWFiNjctNjk4MTlmZDYwZDQ5IiwidCI6ImU1ZDNhZTdjLTliMzgtNDhkZS1hMDg3LWY2NzM0YTI4NzU3NCJ9)
 
 <br>
 
@@ -52,9 +52,9 @@ Nesse contexto, busca:
 
 **Estrutura das Controladorias Setoriais e Seccionais**
 
-📁 [Planilha Estrutura 2025](https://cecad365.sharepoint.com/:x:/r/sites/HarmonizaoCGE/Documentos%20Compartilhados/General/Gest%C3%A3o%20Cset_Csec/7.1.2%20-%20Recursos%20Humanos%20CSET%20e%20CSEC_consolidado.xlsx?d=w87549d1da1c74adc9283e66b3e28efc9&csf=1&web=1&e=eULoLi)
+📁 [Planilha consolidada da Estrutura 2025](https://cecad365.sharepoint.com/:x:/r/sites/HarmonizaoCGE/Documentos%20Compartilhados/General/Gest%C3%A3o%20Cset_Csec/7.1.2%20-%20Recursos%20Humanos%20CSET%20e%20CSEC_consolidado.xlsx?d=w87549d1da1c74adc9283e66b3e28efc9&csf=1&web=1&e=eULoLi)
 
-📊 [Estrutura das Cset/Csec - 2025](https://app.powerbi.com/view?r=eyJrIjoiNWJiY2Q1MDEtOWY4MC00MDljLWJlNWQtNmFmMTExZmFmZDMzIiwidCI6ImU1ZDNhZTdjLTliMzgtNDhkZS1hMDg3LWY2NzM0YTI4NzU3NCJ9)
+📊 [Painel Estrutura das Cset/Csec 2025](https://app.powerbi.com/view?r=eyJrIjoiNWJiY2Q1MDEtOWY4MC00MDljLWJlNWQtNmFmMTExZmFmZDMzIiwidCI6ImU1ZDNhZTdjLTliMzgtNDhkZS1hMDg3LWY2NzM0YTI4NzU3NCJ9)
 
 <br>
 
@@ -62,7 +62,7 @@ Nesse contexto, busca:
 
 📁 [Planilha consolidada dos Paci 2026](https://cecad365.sharepoint.com/:x:/r/sites/HarmonizaoCGE/Documentos%20Compartilhados/General/1%20-%20Coordenar%20Planejamento%20Anual%20Cset-Csec/Paci%202026/Consolida%C3%A7%C3%A3o%20do%20Paci%202026/01%20Consolida%C3%A7%C3%A3o%20Paci%202026_painel.xlsx?d=wd4ab5f25c8d34477bd95baa9c697f519&csf=1&web=1&e=sOTDue)
 
-📊 [Paci/2026](https://app.powerbi.com/view?r=eyJrIjoiNDYzZTNjNDktMGJkZC00NjVlLWE1ZGUtOTcxM2Q4MzA1MDkzIiwidCI6ImU1ZDNhZTdjLTliMzgtNDhkZS1hMDg3LWY2NzM0YTI4NzU3NCJ9)
+📊 [Painel Paci/2026](https://app.powerbi.com/view?r=eyJrIjoiNDYzZTNjNDktMGJkZC00NjVlLWE1ZGUtOTcxM2Q4MzA1MDkzIiwidCI6ImU1ZDNhZTdjLTliMzgtNDhkZS1hMDg3LWY2NzM0YTI4NzU3NCJ9)
 
 <br>
 
@@ -70,7 +70,7 @@ Nesse contexto, busca:
 
 📁 [Planilha consolidada dos Raci 2025](https://cecad365.sharepoint.com/:x:/r/sites/HarmonizaoCGE/Documentos%20Compartilhados/General/2%20-%20Monitorar%20Atividades%20Cset-Csec%20Execu%C3%A7%C3%A3o%20PACI/2.5.2%20-%20Apura%C3%A7%C3%A3o%20Indicador%20Programa%20004%20do%20PPAG/2025/Indicador%20Programa%20004/01%20Consolida%C3%A7%C3%A3o%20Raci%202025%20-%20geral_Painel.xlsx?d=wf00640d539f4423eb068697a5620b5cb&csf=1&web=1&e=cIaI7b)
 
-📊 [Raci/2025](https://app.powerbi.com/view?r=eyJrIjoiYmQwNzYwNjAtODk3NS00N2RiLWEzYzgtZGRhNzQ0MWNhYzAxIiwidCI6ImU1ZDNhZTdjLTliMzgtNDhkZS1hMDg3LWY2NzM0YTI4NzU3NCJ9)
+📊 [Painel Raci/2025](https://app.powerbi.com/view?r=eyJrIjoiYmQwNzYwNjAtODk3NS00N2RiLWEzYzgtZGRhNzQ0MWNhYzAxIiwidCI6ImU1ZDNhZTdjLTliMzgtNDhkZS1hMDg3LWY2NzM0YTI4NzU3NCJ9)
 
 <br>
 
